@@ -18,6 +18,12 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Reference: []()
 -->
 
+## Multilingual
+
+1. Hatebase
+   * "Researchers are encouraged to take advantage of Hatebase's vocabulary dataset, which is a valuable lexicon for searching other data repositories such as public forums, as well as Hatebase's sightings dataset, which is useful for trending analysis"
+   * [https://hatebase.org/academia]
+
 ## Arabic
 
 1. __L-HSAB__
@@ -87,6 +93,23 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Size: 30000
    * Data link: not shared
    * Reference: [Forecasting the presence and intensity of hostility on Instagram using linguistic and social features](https://arxiv.org/pdf/1804.06759.pdf), Proc. ICWSM2018
+
+1. __StormfrontWS__
+   * Annotation type: Hate Speech
+   * Annotation level: Sentence
+   * Text genre: Forum posts
+   * Size: 10568
+   * Data link: [https://github.com/aitor-garcia-p/hate-speech-dataset]
+   * Reference: [Hate Speech Dataset from a White Supremacy Forum](https://www.aclweb.org/anthology/W18-5102), Proc. Abusive Language WS 2018
+
+1. __Toxic Comment Classification Challenge__
+   * Annotation type: Multi-grade toxicity
+   * Annotation level: Document
+   * Text genre: Wikipedia Comment
+   * Size: 160000
+   * Data link: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
+   * Reference: 
+
 
 ## German
 
