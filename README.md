@@ -158,7 +158,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation level: Document
    * Text genre: Tweets
    * Size: 5668
-   * Data link: 
+   * Data link: [https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset](https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset)
    * Reference: [A Hierarchically-Labeled Portuguese Hate Speech Dataset](https://drive.google.com/file/d/1g1WlNjmTTUeWyuJFYogjnmfZVB70b7_r/view), Proc. Abusive Language WS ACL2019
 
 1. __OffComBR__
