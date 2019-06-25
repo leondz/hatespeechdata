@@ -34,7 +34,7 @@ Please make contributions via pull request [https://github.com/leondz/hatespeech
    * Text genre: Twitter, Reddit, News comments
    * Size: 3600
    * Data link: 
-   * Reference: [Cross-lingual Multi-Platform Hate Speech Detection]()
+   * Reference: Cross-lingual Multi-Platform Hate Speech Detection (to appear)
 
 ## English
 
@@ -68,7 +68,7 @@ Please make contributions via pull request [https://github.com/leondz/hatespeech
    * Text genre: Web forum
    * Size: 2236
    * Data link: https://www.kaggle.com/c/detecting-insults-in-social-commentary/overview 
-   * Reference: []()
+   * Reference: 
 
 1. __OffensEval 2019__
    * Annotation type: Offensive speech, target, and grade
@@ -84,7 +84,7 @@ Please make contributions via pull request [https://github.com/leondz/hatespeech
    * Text genre: Instagram
    * Size: 30000
    * Data link: not shared
-   * Reference: [Forecasting the presence and intensity of hostility on Instagram using linguistic and social features](https://arxiv.org/pdf/1804.06759.pdf)
+   * Reference: [Forecasting the presence and intensity of hostility on Instagram using linguistic and social features](https://arxiv.org/pdf/1804.06759.pdf), Proc. ICWSM2018
 
 ## German
 
@@ -114,7 +114,7 @@ Please make contributions via pull request [https://github.com/leondz/hatespeech
    * Text genre: Tweets
    * Size: 6000
    * Data link: https://github.com/msang/hate-speech-corpus
-   * Reference: [An Italian Twitter Corpus of Hate Speech against Immigrants](https://www.aclweb.org/anthology/L18-1443), Proc. LREC 2018
+   * Reference: [An Italian Twitter Corpus of Hate Speech against Immigrants](https://www.aclweb.org/anthology/L18-1443), Proc. LREC2018
 
 ## Polish
 
