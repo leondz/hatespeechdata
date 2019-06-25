@@ -171,9 +171,9 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation type: Cyberbullying & hate speech
    * Annotation level: Document
    * Text genre: Tweets
-   * Size:
+   * Size: 11135
    * Data link: [http://poleval.pl/tasks/task6](http://poleval.pl/tasks/task6)
-   * Reference:
+   * Reference: [Results of the PolEval 2019 Shared Task 6: First Dataset and Open Shared Task for Automatic Cyberbullying Detection in Polish Twitter](http://poleval.pl/files/poleval2019.pdf), Proc. PolEval
 
 ## Portuguese
  
