@@ -110,6 +110,13 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Data link: [https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)
    * Reference: 
 
+1. __hatEval__
+   * Annotation type: Targeted hate speech; aggressive behaviour
+   * Annotation level: Document
+   * Text genre: Tweets
+   * Size: 13000 English 6600 Spanish
+   * Data link: [https://competitions.codalab.org/competitions/19935](https://competitions.codalab.org/competitions/19935)
+   * Reference: [SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter](https://aclweb.org/anthology/papers/S/S19/S19-2007/), Proc. SemEval 2019
 
 ## German
 
@@ -120,6 +127,23 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Size: 541
    * Data link: [https://github.com/UCSM-DUE/IWG_hatespeech_public](https://github.com/UCSM-DUE/IWG_hatespeech_public)
    * Reference: [Measuring the Reliability of Hate Speech Annotations: The Case of the European Refugee Crisis](https://arxiv.org/pdf/1701.08118.pdf), Proc. NLP4CMC III
+
+1. __GermEval 2018__
+   * Annotation type: Offensive language
+   * Annotation level: Document
+   * Text genre: Tweets
+   * Size: 8541
+   * Data link: [https://github.com/uds-lsv/GermEval-2018-Data](https://github.com/uds-lsv/GermEval-2018-Data)
+   * Reference: [Overview of the GermEval 2018 Shared Task on the Identification of Offensive Language](https://epub.oeaw.ac.at/0xc1aa5576_0x003a10d2.pdf), Proc. GermEval
+
+1. __GermEval 2019__
+   * Annotation type: Offensive speech, target, and grade
+   * Annotation level: Document
+   * Text genre: Microposts
+   * Size:
+   * Data link: [https://projects.fzai.h-da.de/iggsa/projekt/](https://projects.fzai.h-da.de/iggsa/projekt/)
+   * Reference: []()
+   
 
 ## Indonesian
 
@@ -168,3 +192,13 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Size: 1250
    * Data link: [https://github.com/rogersdepelle/OffComBR](https://github.com/rogersdepelle/OffComBR)
    * Reference: Offensive Comments in the Brazilian Web: a dataset and baseline results, Proc. BraSNAM
+
+## Spanish
+
+1. __hatEval__
+   * Annotation type: Targeted hate speech; aggressive behaviour
+   * Annotation level: Document
+   * Text genre: Tweets
+   * Size: 13000 English 6600 Spanish
+   * Data link: [https://competitions.codalab.org/competitions/19935](https://competitions.codalab.org/competitions/19935)
+   * Reference: [SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter](https://aclweb.org/anthology/papers/S/S19/S19-2007/), Proc. SemEval 2019
