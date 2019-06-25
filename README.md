@@ -129,7 +129,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Text genre: Tweets
    * Size: 13169 docs
    * Data link: 
-   * Reference: [https://drive.google.com/file/d/12Mh7iRrtGmIbyOr7AVzfS-B0DHOcuxGw/view](Multi-label Hate Speech and Abusive Language Detection in Indonesian Twitter), Proc. Abusive Language WS ACL2019
+   * Reference: [Multi-label Hate Speech and Abusive Language Detection in Indonesian Twitter](https://drive.google.com/file/d/12Mh7iRrtGmIbyOr7AVzfS-B0DHOcuxGw/view), Proc. Abusive Language WS ACL2019
 
 ## Italian
 
