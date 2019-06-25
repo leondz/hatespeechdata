@@ -2,9 +2,11 @@
 
 This page catalogues corpora annotated for hate speech, online abuse, and offensive language. They may be useful for e.g. training a natural language processing system to detect this language.
 
-The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU Copenhagen](http://nlp.itu.dk).
+Data included on the list should be accessible via either the author or direct download, in most cases, though some other significant work may be listed.
 
 Please make contributions via pull request [https://github.com/leondz/hatespeechdata](https://github.com/leondz/hatespeechdata) or email [ld@itu.dk](mailto:ld@itu.dk).
+
+The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU Copenhagen](http://nlp.itu.dk).
 
 <!--
 1. __name__
