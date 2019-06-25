@@ -1,8 +1,10 @@
 ## Hate Speech Datasets
 
-This page catalogues datasets of hate speech, online abuse, and offensive language. They may be useful for e.g. training a natural language processing system to detect this language.
+This page catalogues corpora annotated for hate speech, online abuse, and offensive language. They may be useful for e.g. training a natural language processing system to detect this language.
 
-Please make contributions via pull request [https://github.com/leondz/hatespeechdata](https://github.com/leondz/hatespeechdata) or email [ld@itu.dk](mailto:ld@itu.dk)
+The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU Copenhagen](http://nlp.itu.dk).
+
+Please make contributions via pull request [https://github.com/leondz/hatespeechdata](https://github.com/leondz/hatespeechdata) or email [ld@itu.dk](mailto:ld@itu.dk).
 
 <!--
 1. __name__
@@ -14,6 +16,25 @@ Please make contributions via pull request [https://github.com/leondz/hatespeech
    * Reference: []()
 -->
 
+## Arabic
+
+1. __L-HSAB__
+   * Annotation type: Hate speech and abusive language
+   * Annotation level: document
+   * Text genre: Tweets
+   * Size: 5846
+   * Data link: 
+   * Reference: [L-HSAB: A Levantine Twitter Dataset for Hate Speech and Abusive Language](https://drive.google.com/file/d/1527OBXQ_IzxutYGClD1xN8AWhnmghFCs/view), Proc. Abusive Language WS ACL2019
+
+## Danish
+
+1. __DKhate__
+   * Annotation type: Offensive speech, target, and grade
+   * Annotation level: Document
+   * Text genre: Twitter, Reddit, News comments
+   * Size: 3600
+   * Data link: 
+   * Reference: [Cross-lingual Multi-Platform Hate Speech Detection]()
 
 ## English
 
@@ -33,7 +54,7 @@ Please make contributions via pull request [https://github.com/leondz/hatespeech
    * Data link: https://figshare.com/articles/Wikipedia_Detox_Data/4054689
    * Reference: [Ex Machina: Personal Attacks Seen at Scale](https://arxiv.org/abs/1610.08914)
    
-1. __name__
+1. __Waseem & Hovy__
    * Annotation type: Hate speech
    * Annotation level: document
    * Text genre: Tweets
@@ -41,6 +62,30 @@ Please make contributions via pull request [https://github.com/leondz/hatespeech
    * Data link: https://github.com/zeerakw/hatespeech
    * Reference: [Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter](https://www.aclweb.org/anthology/N16-2013), Proc. NAACL SRW
    
+1. __Imperium__
+   * Annotation type: Community-directed personal insults
+   * Annotation level: Comment
+   * Text genre: Web forum
+   * Size: 2236
+   * Data link: https://www.kaggle.com/c/detecting-insults-in-social-commentary/overview 
+   * Reference: []()
+
+1. __OffensEval 2019__
+   * Annotation type: Offensive speech, target, and grade
+   * Annotation level: Document
+   * Text genre: Tweets
+   * Size: 14000
+   * Data link: https://competitions.codalab.org/competitions/20011
+   * Reference: [SemEval-2019 Task 6: Identifying and Categorizing Offensive Language in Social Media (OffensEval)](https://arxiv.org/abs/1903.08983), Proc. SemEval 2019
+
+1. __Liu et al.__
+   * Annotation type: Hostility
+   * Annotation level: Comment
+   * Text genre: Instagram
+   * Size: 30000
+   * Data link: not shared
+   * Reference: [Forecasting the presence and intensity of hostility on Instagram using linguistic and social features](https://arxiv.org/pdf/1804.06759.pdf)
+
 ## German
 
 1. __IWG_hatespeech_public__
@@ -61,6 +106,16 @@ Please make contributions via pull request [https://github.com/leondz/hatespeech
    * Data link: 
    * Reference: [https://drive.google.com/file/d/12Mh7iRrtGmIbyOr7AVzfS-B0DHOcuxGw/view](Multi-label Hate Speech and Abusive Language Detection in Indonesian Twitter), Proc. Abusive Language WS ACL2019
 
+## Italian
+
+1. __HSC__
+   * Annotation type: Hate speech
+   * Annotation level: Document
+   * Text genre: Tweets
+   * Size: 6000
+   * Data link: https://github.com/msang/hate-speech-corpus
+   * Reference: [An Italian Twitter Corpus of Hate Speech against Immigrants](https://www.aclweb.org/anthology/L18-1443), Proc. LREC 2018
+
 ## Polish
 
 1. __PolEval 2019__
@@ -70,8 +125,8 @@ Please make contributions via pull request [https://github.com/leondz/hatespeech
    * Size:
    * Data link: [http://poleval.pl/tasks/task6](http://poleval.pl/tasks/task6)
    * Reference:
-   
- ## Portuguese
+
+## Portuguese
  
 1. __Fortuna et al.__
    * Annotation type: Hate speech
