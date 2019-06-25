@@ -18,9 +18,9 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Reference: []()
 -->
 
-## Multilingual
+## Highly Multilingual
 
-1. Hatebase
+1. __Hatebase__
    * "Researchers are encouraged to take advantage of Hatebase's vocabulary dataset, which is a valuable lexicon for searching other data repositories such as public forums, as well as Hatebase's sightings dataset, which is useful for trending analysis"
    * Data link: [https://hatebase.org/academia](https://hatebase.org/academia)
 
