@@ -22,7 +22,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
 
 1. __Hatebase__
    * "Researchers are encouraged to take advantage of Hatebase's vocabulary dataset, which is a valuable lexicon for searching other data repositories such as public forums, as well as Hatebase's sightings dataset, which is useful for trending analysis"
-   * Data link: [https://hatebase.org/academia](https://hatebase.org/academia)
+   * Data link: [hatebase.org/academia](https://hatebase.org/academia)
 
 ## Arabic
 
@@ -51,7 +51,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation level: Document
    * Text genre: Tweets
    * Size: 25000
-   * Data link: [https://github.com/t-davidson/hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language)
+   * Data link: [github.com/t-davidson/hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language)
    * Reference: [Automated Hate Speech Detection and the Problem of Offensive Language](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15665), Proc. ICWSM
 
 1. __Wikipedia Detox__
@@ -59,7 +59,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation level: comment
    * Text genre: Wikipedia discussions
    * Size: 100000
-   * Data link: [https://figshare.com/articles/Wikipedia_Detox_Data/4054689](https://figshare.com/articles/Wikipedia_Detox_Data/4054689)
+   * Data link: [figshare.com/articles/Wikipedia_Detox_Data/4054689](https://figshare.com/articles/Wikipedia_Detox_Data/4054689)
    * Reference: [Ex Machina: Personal Attacks Seen at Scale](https://arxiv.org/abs/1610.08914)
    
 1. __Waseem & Hovy__
@@ -67,7 +67,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation level: document
    * Text genre: Tweets
    * Size: 16000
-   * Data link: [https://github.com/zeerakw/hatespeech](https://github.com/zeerakw/hatespeech)
+   * Data link: [github.com/zeerakw/hatespeech](https://github.com/zeerakw/hatespeech)
    * Reference: [Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter](https://www.aclweb.org/anthology/N16-2013), Proc. NAACL SRW
    
 1. __Imperium__
@@ -75,7 +75,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation level: Comment
    * Text genre: Web forum
    * Size: 2236
-   * Data link: [https://www.kaggle.com/c/detecting-insults-in-social-commentary/overview](https://www.kaggle.com/c/detecting-insults-in-social-commentary/overview)
+   * Data link: [www.kaggle.com/c/detecting-insults-in-social-commentary/overview](https://www.kaggle.com/c/detecting-insults-in-social-commentary/overview)
    * Reference: 
 
 1. __OffensEval 2019__
@@ -83,7 +83,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation level: Document
    * Text genre: Tweets
    * Size: 14000
-   * Data link: [https://competitions.codalab.org/competitions/20011](https://competitions.codalab.org/competitions/20011)
+   * Data link: [competitions.codalab.org/competitions/20011](https://competitions.codalab.org/competitions/20011)
    * Reference: [SemEval-2019 Task 6: Identifying and Categorizing Offensive Language in Social Media (OffensEval)](https://arxiv.org/abs/1903.08983), Proc. SemEval 2019
 
 1. __Liu et al.__
@@ -99,7 +99,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation level: Sentence
    * Text genre: Forum posts
    * Size: 10568
-   * Data link: [https://github.com/aitor-garcia-p/hate-speech-dataset](https://github.com/aitor-garcia-p/hate-speech-dataset)
+   * Data link: [github.com/aitor-garcia-p/hate-speech-dataset](https://github.com/aitor-garcia-p/hate-speech-dataset)
    * Reference: [Hate Speech Dataset from a White Supremacy Forum](https://www.aclweb.org/anthology/W18-5102), Proc. Abusive Language WS 2018
 
 1. __Toxic Comment Classification Challenge__
@@ -107,7 +107,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation level: Document
    * Text genre: Wikipedia Comment
    * Size: 160000
-   * Data link: [https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)
+   * Data link: [www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)
    * Reference: 
 
 1. __hatEval__
@@ -115,7 +115,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation level: Document
    * Text genre: Tweets
    * Size: 13000 English 6600 Spanish
-   * Data link: [https://competitions.codalab.org/competitions/19935](https://competitions.codalab.org/competitions/19935)
+   * Data link: [competitions.codalab.org/competitions/19935](https://competitions.codalab.org/competitions/19935)
    * Reference: [SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter](https://aclweb.org/anthology/papers/S/S19/S19-2007/), Proc. SemEval 2019
 
 ## German
@@ -125,7 +125,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation level: Document
    * Text genre: Tweets
    * Size: 541
-   * Data link: [https://github.com/UCSM-DUE/IWG_hatespeech_public](https://github.com/UCSM-DUE/IWG_hatespeech_public)
+   * Data link: [github.com/UCSM-DUE/IWG_hatespeech_public](https://github.com/UCSM-DUE/IWG_hatespeech_public)
    * Reference: [Measuring the Reliability of Hate Speech Annotations: The Case of the European Refugee Crisis](https://arxiv.org/pdf/1701.08118.pdf), Proc. NLP4CMC III
 
 1. __GermEval 2018__
@@ -133,7 +133,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation level: Document
    * Text genre: Tweets
    * Size: 8541
-   * Data link: [https://github.com/uds-lsv/GermEval-2018-Data](https://github.com/uds-lsv/GermEval-2018-Data)
+   * Data link: [github.com/uds-lsv/GermEval-2018-Data](https://github.com/uds-lsv/GermEval-2018-Data)
    * Reference: [Overview of the GermEval 2018 Shared Task on the Identification of Offensive Language](https://epub.oeaw.ac.at/0xc1aa5576_0x003a10d2.pdf), Proc. GermEval
 
 1. __GermEval 2019__
@@ -141,7 +141,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation level: Document
    * Text genre: Microposts
    * Size:
-   * Data link: [https://projects.fzai.h-da.de/iggsa/projekt/](https://projects.fzai.h-da.de/iggsa/projekt/)
+   * Data link: [projects.fzai.h-da.de/iggsa/projekt/](https://projects.fzai.h-da.de/iggsa/projekt/)
    * Reference: []()
    
 
@@ -152,7 +152,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation level: Document
    * Text genre: Tweets
    * Size: 13169 docs
-   * Data link: 
+   * Data link: [github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection](https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection)
    * Reference: [Multi-label Hate Speech and Abusive Language Detection in Indonesian Twitter](https://drive.google.com/file/d/12Mh7iRrtGmIbyOr7AVzfS-B0DHOcuxGw/view), Proc. Abusive Language WS ACL2019
 
 ## Italian
@@ -162,7 +162,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation level: Document
    * Text genre: Tweets
    * Size: 6000
-   * Data link: [https://github.com/msang/hate-speech-corpus](https://github.com/msang/hate-speech-corpus)
+   * Data link: [github.com/msang/hate-speech-corpus](https://github.com/msang/hate-speech-corpus)
    * Reference: [An Italian Twitter Corpus of Hate Speech against Immigrants](https://www.aclweb.org/anthology/L18-1443), Proc. LREC2018
 
 ## Polish
@@ -172,7 +172,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation level: Document
    * Text genre: Tweets
    * Size: 11135
-   * Data link: [http://poleval.pl/tasks/task6](http://poleval.pl/tasks/task6)
+   * Data link: [poleval.pl/tasks/task6](http://poleval.pl/tasks/task6)
    * Reference: [Results of the PolEval 2019 Shared Task 6: First Dataset and Open Shared Task for Automatic Cyberbullying Detection in Polish Twitter](http://poleval.pl/files/poleval2019.pdf), Proc. PolEval
 
 ## Portuguese
@@ -182,7 +182,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation level: Document
    * Text genre: Tweets
    * Size: 5668
-   * Data link: [https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset](https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset)
+   * Data link: [github.com/paulafortuna/Portuguese-Hate-Speech-Dataset](https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset)
    * Reference: [A Hierarchically-Labeled Portuguese Hate Speech Dataset](https://drive.google.com/file/d/1g1WlNjmTTUeWyuJFYogjnmfZVB70b7_r/view), Proc. Abusive Language WS ACL2019
 
 1. __OffComBR__
@@ -190,7 +190,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation level: Document
    * Text genre: Web comments
    * Size: 1250
-   * Data link: [https://github.com/rogersdepelle/OffComBR](https://github.com/rogersdepelle/OffComBR)
+   * Data link: [github.com/rogersdepelle/OffComBR](https://github.com/rogersdepelle/OffComBR)
    * Reference: Offensive Comments in the Brazilian Web: a dataset and baseline results, Proc. BraSNAM
 
 ## Spanish
@@ -200,5 +200,5 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation level: Document
    * Text genre: Tweets
    * Size: 13000 English 6600 Spanish
-   * Data link: [https://competitions.codalab.org/competitions/19935](https://competitions.codalab.org/competitions/19935)
+   * Data link: [competitions.codalab.org/competitions/19935](https://competitions.codalab.org/competitions/19935)
    * Reference: [SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter](https://aclweb.org/anthology/papers/S/S19/S19-2007/), Proc. SemEval 2019
