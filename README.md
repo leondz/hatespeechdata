@@ -118,6 +118,15 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Data link: [competitions.codalab.org/competitions/19935](https://competitions.codalab.org/competitions/19935)
    * Reference: [SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter](https://aclweb.org/anthology/papers/S/S19/S19-2007/), Proc. SemEval 2019
 
+1. __Horta Ribeiro et. al__
+   * Annotation type: Hateful behavior
+   * Annotation level: User (with connections)
+   * Text genre: Tweets (upon mail request)
+   * Size: 5000 annotated out of 100000 users 
+   * Data link: [data](https://www.kaggle.com/manoelribeiro/hateful-users-on-twitter) and [code](https://github.com/manoelhortaribeiro/HatefulUsersTwitter)
+   * Reference: [Characterizing and Detecting Hateful Users on Twitter](https://arxiv.org/pdf/1803.08977.pdf)
+
+
 ## German
 
 1. __IWG_hatespeech_public__
