@@ -165,6 +165,15 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Data link: [github.com/msang/hate-speech-corpus](https://github.com/msang/hate-speech-corpus)
    * Reference: [An Italian Twitter Corpus of Hate Speech against Immigrants](https://www.aclweb.org/anthology/L18-1443), Proc. LREC2018
 
+1. __CREEP EIT__
+   * Annotation type: Cyberbullying
+   * Annotation level: 
+   * Text genre: WhatsApp
+   * Size: 14600 tokens
+   * Data link: [github.com/dhfbk/WhatsApp-Dataset](https://github.com/dhfbk/WhatsApp-Dataset)
+   * Reference: [Creating a WhatsApp Dataset to Study Pre-teen Cyberbullying](https://aclweb.org/anthology/papers/W/W18/W18-5107/), Proc. Abusive Language WS, EMNLP2018
+
+
 ## Polish
 
 1. __PolEval 2019__
