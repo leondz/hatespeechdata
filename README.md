@@ -31,7 +31,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU
    * Annotation level: document
    * Text genre: Tweets
    * Size: 5846
-   * Data link: to appear 2019
+   * Data link: [github.com/Hala-Mulki/L-HSAB-First-Arabic-Levantine-HateSpeech-Dataset](https://github.com/Hala-Mulki/L-HSAB-First-Arabic-Levantine-HateSpeech-Dataset)
    * Reference: [L-HSAB: A Levantine Twitter Dataset for Hate Speech and Abusive Language](https://drive.google.com/file/d/1527OBXQ_IzxutYGClD1xN8AWhnmghFCs/view), Proc. Abusive Language WS ACL2019
 
 ## Danish
