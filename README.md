@@ -4,9 +4,10 @@ This page catalogues corpora annotated for hate speech, online abuse, and offens
 
 Data included on the list should be accessible via either the author or direct download, in most cases, though some other significant work may be listed.
 
-Please make contributions via pull request [https://github.com/leondz/hatespeechdata](https://github.com/leondz/hatespeechdata) or email [ld@itu.dk](mailto:ld@itu.dk).
+The list is maintained by [Leon Derczynski](https://www.derczynski.com/) and [Bertie Vidgen](https://www.turing.ac.uk/people/researchers/bertie-vidgen).
 
-The list is maintained by [Leon Derczynski](https://www.derczynski.com/) at [ITU Copenhagen](http://nlp.itu.dk).
+Please make contributions via pull request [https://github.com/leondz/hatespeechdata](https://github.com/leondz/hatespeechdata) or email.
+
 
 <!--
 1. __name__
