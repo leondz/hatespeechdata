@@ -213,6 +213,6 @@ Please make contributions via pull request or email. Accompanying [data statemen
    * Data link: [competitions.codalab.org/competitions/19935](https://competitions.codalab.org/competitions/19935)
    * Reference: [SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter](https://aclweb.org/anthology/papers/S/S19/S19-2007/), Proc. SemEval 2019
 
-___
+---
 
 This page is [http://hatespeechdata.com/](http://hatespeechdata.com/).
