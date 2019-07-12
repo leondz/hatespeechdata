@@ -1,6 +1,6 @@
 ## Hate Speech Datasets
 
-This page catalogues corpora annotated for hate speech, online abuse, and offensive language. They may be useful for e.g. training a natural language processing system to detect this language.
+This page catalogues datasets annotated for hate speech, online abuse, and offensive language. They may be useful for e.g. training a natural language processing system to detect this language.
 
 Data included on the list should be accessible via either the author or direct download, in most cases, though some other significant work may be listed.
 
@@ -92,7 +92,7 @@ Please make contributions via pull request [https://github.com/leondz/hatespeech
    * Annotation level: Comment
    * Text genre: Instagram
    * Size: 30000
-   * Data link: not shared
+   * Data link: *not shared*
    * Reference: [Forecasting the presence and intensity of hostility on Instagram using linguistic and social features](https://arxiv.org/pdf/1804.06759.pdf), Proc. ICWSM2018
 
 1. __StormfrontWS__
@@ -201,7 +201,7 @@ Please make contributions via pull request [https://github.com/leondz/hatespeech
    * Text genre: Web comments
    * Size: 1250
    * Data link: [github.com/rogersdepelle/OffComBR](https://github.com/rogersdepelle/OffComBR)
-   * Reference: Offensive Comments in the Brazilian Web: a dataset and baseline results, Proc. BraSNAM
+   * Reference: [Offensive Comments in the Brazilian Web: a dataset and baseline results, Proc. BraSNAM](http://www.each.usp.br/digiampietri/BraSNAM/2017/p04.pdf)
 
 ## Spanish
 
@@ -212,3 +212,5 @@ Please make contributions via pull request [https://github.com/leondz/hatespeech
    * Size: 13000 English 6600 Spanish
    * Data link: [competitions.codalab.org/competitions/19935](https://competitions.codalab.org/competitions/19935)
    * Reference: [SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter](https://aclweb.org/anthology/papers/S/S19/S19-2007/), Proc. SemEval 2019
+
+This page is [http://hatespeechdata.com/](http://hatespeechdata.com/).
