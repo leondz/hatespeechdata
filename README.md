@@ -6,7 +6,7 @@ Data included on the list should be accessible via either the author or direct d
 
 The list is maintained by [Leon Derczynski](https://www.derczynski.com/) and [Bertie Vidgen](https://www.turing.ac.uk/people/researchers/bertie-vidgen).
 
-Please make contributions via pull request [https://github.com/leondz/hatespeechdata](https://github.com/leondz/hatespeechdata) or email.
+Please make contributions via pull request [https://github.com/leondz/hatespeechdata](https://github.com/leondz/hatespeechdata) or email. Accompanying [data statements](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00041) preferred for all corpora.
 
 
 <!--
