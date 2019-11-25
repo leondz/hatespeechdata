@@ -1,4 +1,4 @@
-## Hate Speech Datasets
+# Hate Speech Datasets
 
 This page catalogues datasets annotated for hate speech, online abuse, and offensive language. They may be useful for e.g. training a natural language processing system to detect this language.
 
