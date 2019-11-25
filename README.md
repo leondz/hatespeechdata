@@ -19,12 +19,6 @@ Please make contributions via pull request or email. Accompanying [data statemen
    * Reference: []()
 -->
 
-## Highly Multilingual
-
-1. __Hatebase__
-   * "Researchers are encouraged to take advantage of Hatebase's vocabulary dataset, which is a valuable lexicon for searching other data repositories such as public forums, as well as Hatebase's sightings dataset, which is useful for trending analysis"
-   * Data link: [hatebase.org/academia](https://hatebase.org/academia)
-
 ## Arabic
 
 1. __L-HSAB__
@@ -220,6 +214,33 @@ Please make contributions via pull request or email. Accompanying [data statemen
    * Size: 13000 English 6600 Spanish
    * Data link: [competitions.codalab.org/competitions/19935](https://competitions.codalab.org/competitions/19935)
    * Reference: [SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter](https://aclweb.org/anthology/papers/S/S19/S19-2007/), Proc. SemEval 2019
+
+---
+
+# Lists of abusive keywords
+
+1. __Hatebase__
+   * "Researchers are encouraged to take advantage of Hatebase's vocabulary dataset, which is a valuable lexicon for searching other data repositories such as public forums, as well as Hatebase's sightings dataset, which is useful for trending analysis"
+   * Data link: [hatebase.org/academia](https://hatebase.org/academia)
+
+1. __Hurtlex__
+   * "HurtLex is a lexicon of offensive, aggressive, and hateful words
+   in over 50 languages. The words are divided into 17 categories, plus a
+   macro-category indicating whether there is stereotype involved."
+   * Data link: [github.com/valeriobasile/hurtlex](github.com/valeriobasile/hurtlex)
+   * Reference: [Hurtlex: A Multilingual Lexicon of Words to Hurt](http://ceur-ws.org/Vol-2253/paper49.pdf), Proc. CLiC-it 2018
+
+1. __Gorrell et al.__
+   * Data link: [http://staffwww.dcs.shef.ac.uk/people/G.Gorrell/publications-materials/abuse-terms.txt](http://staffwww.dcs.shef.ac.uk/people/G.Gorrell/publications-materials/abuse-terms.txt)
+   * Reference: [Twits, Twats and Twaddle: Trends in Online Abuse towards UK Politicians](https://gate-socmedia.group.shef.ac.uk/wp-content/uploads/2019/07/Gorrell-Greenwood.pdf), Proc. ICWSM
+
+1. __Wiegand et al.__
+   * Data link: [https://github.com/uds-lsv/lexicon-of-abusive-words]/(https://github.com/uds-lsv/lexicon-of-abusive-words)
+   * Reference: [Inducing a Lexicon of Abusive Words – A Feature-Based Approach](https://www.aclweb.org/anthology/N18-1095.pdf), Proceedings of NAACL-HLT 2018
+
+1. __Chandrasekharan et al.__
+   * Data link: [Reddit hate lexicon]/(https://www.dropbox.com/sh/5ud4fwxvb6q7k20/AAAH_SN8i5cfmJRKJteEW2b2a?dl=0)
+   * Reference: [You can't stay here: the efficacy of Reddit's 2015 ban examined through hate speech](http://comp.social.gatech.edu/papers/cscw18-chand-hate.pdf), Proc. ACL Hum-Comput Interact. 
 
 ---
 
