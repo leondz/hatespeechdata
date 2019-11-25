@@ -215,6 +215,7 @@ Please make contributions via pull request or email. Accompanying [data statemen
    * Data link: [competitions.codalab.org/competitions/19935](https://competitions.codalab.org/competitions/19935)
    * Reference: [SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter](https://aclweb.org/anthology/papers/S/S19/S19-2007/), Proc. SemEval 2019
 
+
 ---
 
 # Lists of abusive keywords
@@ -236,7 +237,7 @@ Please make contributions via pull request or email. Accompanying [data statemen
 
 1. __Wiegand et al.__
    * Data link: [https://github.com/uds-lsv/lexicon-of-abusive-words]/(https://github.com/uds-lsv/lexicon-of-abusive-words)
-   * Reference: [Inducing a Lexicon of Abusive Words – A Feature-Based Approach](https://www.aclweb.org/anthology/N18-1095.pdf), Proceedings of NAACL-HLT 2018
+   * Reference: [Inducing a Lexicon of Abusive Words – A Feature-Based Approach](https://www.aclweb.org/anthology/N18-1095.pdf), Proc. NAACL-HLT 2018
 
 1. __Chandrasekharan et al.__
    * Data link: [Reddit hate lexicon]/(https://www.dropbox.com/sh/5ud4fwxvb6q7k20/AAAH_SN8i5cfmJRKJteEW2b2a?dl=0)
