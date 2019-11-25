@@ -236,7 +236,7 @@ Please make contributions via pull request or email. Accompanying [data statemen
    * Reference: [Twits, Twats and Twaddle: Trends in Online Abuse towards UK Politicians](https://gate-socmedia.group.shef.ac.uk/wp-content/uploads/2019/07/Gorrell-Greenwood.pdf), Proc. ICWSM
 
 1. __Wiegand et al.__
-   * Data link: [https://github.com/uds-lsv/lexicon-of-abusive-words]/(https://github.com/uds-lsv/lexicon-of-abusive-words)
+   * Data link: [https://github.com/uds-lsv/lexicon-of-abusive-words](https://github.com/uds-lsv/lexicon-of-abusive-words)
    * Reference: [Inducing a Lexicon of Abusive Words – A Feature-Based Approach](https://www.aclweb.org/anthology/N18-1095.pdf), Proc. NAACL-HLT 2018
 
 1. __Chandrasekharan et al.__
