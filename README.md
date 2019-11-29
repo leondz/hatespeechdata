@@ -228,7 +228,7 @@ Please make contributions via pull request or email. Accompanying [data statemen
    * "HurtLex is a lexicon of offensive, aggressive, and hateful words
    in over 50 languages. The words are divided into 17 categories, plus a
    macro-category indicating whether there is stereotype involved."
-   * Data link: [github.com/valeriobasile/hurtlex](github.com/valeriobasile/hurtlex)
+   * Data link: [github.com/valeriobasile/hurtlex](https://github.com/valeriobasile/hurtlex)
    * Reference: [Hurtlex: A Multilingual Lexicon of Words to Hurt](http://ceur-ws.org/Vol-2253/paper49.pdf), Proc. CLiC-it 2018
 
 1. __Gorrell et al.__
