@@ -36,7 +36,7 @@ Please make contributions via pull request or email. Accompanying [data statemen
    * Annotation level: Document
    * Text genre: Twitter, Reddit, News comments
    * Size: 3600
-   * Data link: [DKhate on Figshare](https://figshare.com/articles/Danish_Hate_Speech_Abusive_Language_data/12220805)
+   * Data link: [10.6084/m9.figshare.12220805](https://figshare.com/articles/Danish_Hate_Speech_Abusive_Language_data/12220805)
    * Reference: [Offensive Language and Hate Speech Detection for Danish](http://www.derczynski.com/papers/danish_hsd.pdf)
 
 ## English
