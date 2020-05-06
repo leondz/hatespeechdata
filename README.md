@@ -36,7 +36,7 @@ Please make contributions via pull request or email. Accompanying [data statemen
    * Annotation level: Document
    * Text genre: Twitter, Reddit, News comments
    * Size: 3600
-   * Data link: to appear after OffensEval 2020
+   * Data link: [DKhate on Figshare](https://figshare.com/articles/Danish_Hate_Speech_Abusive_Language_data/12220805)
    * Reference: Cross-lingual Multi-Platform Hate Speech Detection (to appear)
 
 ## English
