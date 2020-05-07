@@ -14,7 +14,8 @@ If you use these resources, please cite (and read!) our paper: [Directions in Ab
 __1. Are They our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere__
 
 * Reference: Albadi, N., Kurdi, M. and Mishra, S., 2018. Are they Our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere. In: International Conference on Advances in Social Networks Analysis and Mining. Barcelona, Spain: IEEE, pp.69-76. 
- * Link to publication: [https://ieeexplore.ieee.org/document/8508247] (https://ieeexplore.ieee.org/document/8508247)* Link to data: https://github.com/nuhaalbadi/Arabic_hatespeech 
+ * Link to publication: [https://ieeexplore.ieee.org/document/8508247] (https://ieeexplore.ieee.org/document/8508247)
+ * Link to data: https://github.com/nuhaalbadi/Arabic_hatespeech 
  * Task description: Binary (Hate, Not) 
  * Details of task: Religious subcategories 
  * Size of dataset: 6136 
@@ -30,7 +31,8 @@ __1. Are They our Brothers? Analysis and Detection of Religious Hate Speech in t
  2. __Multilingual and Multi-Aspect Hate Speech Analysis (Arabic)__
 
 * Reference: Ousidhoum, N., Lin, Z., Zhang, H., Song, Y. and Yeung, D., 2019. Multilingual and Multi-Aspect Hate Speech Analysis. ArXiv,. 
-* Link to publication: [https://arxiv.org/abs/1908.11049] (https://arxiv.org/abs/1908.11049)* Link to data: https://github.com/HKUST-KnowComp/MLMA_hate_speech 
+* Link to publication: [https://arxiv.org/abs/1908.11049] (https://arxiv.org/abs/1908.11049)
+* Link to data: https://github.com/HKUST-KnowComp/MLMA_hate_speech 
 * Task description: Detailed taxonomy with cross-cutting attributes:
 HOSTILITY (Abusive, Hateful, Offensive, Disrespectful, Fearful, Normal)
 DIRECTNESS (Direct/indirect)
@@ -54,7 +56,8 @@ Annotators were reminded 'not to let their personal opinions about the topics be
  
  3. __L-HSAB: A Levantine Twitter Dataset for Hate Speech and Abusive Language__
  * Reference: Mulki, H., Haddad, H., Bechikh, C. and Alshabani, H., 2019. L-HSAB: A Levantine Twitter Dataset for Hate Speech and Abusive Language. In: Proceedings of the Third Workshop on Abusive Language Online. Florence, Italy: Association for Computational Linguistics, pp.111-118. 
- * Link to publication: [https://www.aclweb.org/anthology/W19-3512] (https://www.aclweb.org/anthology/W19-3512)* Link to data: https://github.com/Hala-Mulki/L-HSAB-First-Arabic-Levantine-HateSpeech-Dataset 
+ * Link to publication: [https://www.aclweb.org/anthology/W19-3512] (https://www.aclweb.org/anthology/W19-3512)
+ * Link to data: https://github.com/Hala-Mulki/L-HSAB-First-Arabic-Levantine-HateSpeech-Dataset 
  * Task description: Ternary (Hate, Abusive, Normal) 
  * Details of task: Group-directed + Person-directed 
  * Size of dataset: 5846 
