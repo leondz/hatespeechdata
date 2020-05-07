@@ -360,209 +360,222 @@ Annotators were reminded 'not to let their personal opinions about the topics be
 * Reference: Ousidhoum, N., Lin, Z., Zhang, H., Song, Y. and Yeung, D., 2019. Multilingual and Multi-Aspect Hate Speech Analysis. ArXiv,. 
   
   
- 21. __Exploring Hate Speech Detection in Multimodal Publications__
- * Reference: Gomez, R., Gibert, J., Gomez, L. and Karatzas, D., 2019. Exploring Hate Speech Detection in Multimodal Publications. ArXiv,. 
- * Link to publication: [https://arxiv.org/pdf/1910.03814.pdf] (https://arxiv.org/pdf/1910.03814.pdf)* Link to data: https://gombru.github.io/2019/10/09/MMHS/ 
- * Task description: Six primary categories (No attacks to any community, Racist, Sexist, Homophobic, Religion based attack, Attack to other community. 
- * Details of task: Racism, Sexism, Homophobia, Religion-based attack 
- * Size of dataset: 149823 
- * Percentage abusive: 0.25 
- * Language: English 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text and Images/Memes 
- * Annotation process: Annotators on Mechanical Turk.
+__21. Exploring Hate Speech Detection in Multimodal Publications__
+* Link to publication: [https://arxiv.org/pdf/1910.03814.pdf](https://arxiv.org/pdf/1910.03814.pdf)
+* Link to data: [https://gombru.github.io/2019/10/09/MMHS/](https://gombru.github.io/2019/10/09/MMHS/)
+* Task description: Six primary categories (No attacks to any community, Racist, Sexist, Homophobic, Religion based attack, Attack to other community. 
+* Details of task: Racism, Sexism, Homophobia, Religion-based attack 
+* Size of dataset: 149823 
+* Percentage abusive: 0.25 
+* Language: English 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text and Images/Memes 
+* Annotation process: Annotators on Mechanical Turk.
 3 annotators per entry, with majority voting (2/3) to decide final labels. 
- * Annotation agreement: Not given 
+* Annotation agreement: Not given 
+* Reference: Gomez, R., Gibert, J., Gomez, L. and Karatzas, D., 2019. Exploring Hate Speech Detection in Multimodal Publications. ArXiv,. 
   
- 22. __Predicting the Type and Target of Offensive Posts in Social Media__
- * Reference: Zampieri, M., Malmasi, S., Nakov, P., Rosenthal, S., Farra, N. and Kumar, R., 2019. SemEval-2019 Task 6: Identifying and Categorizing Offensive Language in Social Media (OffensEval). ArXiv,. 
- * Link to publication: [https://arxiv.org/pdf/1902.09666.pdf
-https://arxiv.org/pdf/1903.08983.pdf] (https://arxiv.org/pdf/1902.09666.pdf
-https://arxiv.org/pdf/1903.08983.pdf)* Link to data: http://competitions.codalab.org/ competitions/20011 
- * Task description: Branching structure of tasks:
+__22. Predicting the Type and Target of Offensive Posts in Social Media__
+* Link to publication: [https://arxiv.org/pdf/1902.09666.pdf](https://arxiv.org/pdf/1902.09666.pdf)
+* Link to data: [http://competitions.codalab.org/ competitions/20011](http://competitions.codalab.org/ competitions/20011)
+* Task description: Branching structure of tasks:
 Binary (Offensive, Not)
 Within Offensive (Target, Not)
 Within Target (Individual, Group, Other) 
- * Details of task: Group-directed + Person-directed 
- * Size of dataset: 14100 
- * Percentage abusive: 0.33 
- * Language: English 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: First, 6 experts annotated 300 samples to create a gold standard dataset.
+* Details of task: Group-directed + Person-directed 
+* Size of dataset: 14100 
+* Percentage abusive: 0.33 
+* Language: English 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: First, 6 experts annotated 300 samples to create a gold standard dataset.
 Then, crowdsourcing (Figure 8) used. 2 annotations were requested per tweet and, in cases of disagreement, a 3rd was then used.
 Quality controls were used 
- * Annotation agreement: 60% of the time, the 2 F8 annotators were in 100% agreement 
-  
- 23. __hatEval, SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter (English)__
- * Reference: Basile, V., Bosco, C., Fersini, E., Nozza, D., Patti, V., Pardo, F., Rosso, P. and Sanguinetti, M., 2019. SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter. In: Proceedings of the 13th International Workshop on Semantic Evaluation. Minneapolis, Minnesota: Association for Computational Linguistics, pp.54-63. 
- * Link to publication: [https://www.aclweb.org/anthology/S19-2007] (https://www.aclweb.org/anthology/S19-2007)* Link to data: competitions.codalab.org/competitions/19935
-https://github.com/msang/hateval/blob/master/annotation_guidelines.md  
- * Task description: Branching structure of tasks:
+* Annotation agreement: 60% of the time, the 2 F8 annotators were in 100% agreement 
+* Reference: Zampieri, M., Malmasi, S., Nakov, P., Rosenthal, S., Farra, N. and Kumar, R., 2019. SemEval-2019 Task 6: Identifying and Categorizing Offensive Language in Social Media (OffensEval). ArXiv,. 
+
+
+__23. hatEval, SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter (English)__
+* Link to publication: [https://www.aclweb.org/anthology/S19-2007](https://www.aclweb.org/anthology/S19-2007)
+* Link to data: [competitions.codalab.org/competitions/19935](competitions.codalab.org/competitions/19935)
+* Task description: Branching structure of tasks:
 Binary (Hate, Not)
 Within Hate (Group, Individual)
 Within Hate (Agressive, Not) 
- * Details of task: Group-directed + Person-directed 
- * Size of dataset: 13000 
- * Percentage abusive: 0.4 
- * Language: English 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: Combination of experts and crowdsourcing.
+* Details of task: Group-directed + Person-directed 
+* Size of dataset: 13000 
+* Percentage abusive: 0.4 
+* Language: English 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: Combination of experts and crowdsourcing.
 First, Crowdsourcing: Annotators were give guidelines. 3 independent judgments per tweet. Majority label adopted.
 Second, Expert: 2 experts redo annotations. Majority decision taken, using the crowdsource input as a 3rd judgement. 
- 
- * Annotation agreement: Average confidence' used (which combines both agreement and reliability of each contributor):
+
+* Annotation agreement: Average confidence' used (which combines both agreement and reliability of each contributor):
 English: 0.83, 0.70, 0.73 
-  
- 24. __Peer to Peer Hate: Hate Speech Instigators and Their Targets__
- * Reference: ElSherief, M., Nilizadeh, S., Nguyen, D., Vigna, G. and Belding, E., 2018. Peer to Peer Hate: Hate Speech Instigators and Their Targets. In: Proceedings of the Twelfth International AAAI Conference on Web and Social Media (ICWSM 2018). Santa Barbara, California: University of California, pp.52-61. 
- * Link to publication: [https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17905/16996] (https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17905/16996)* Link to data: https://github.com/mayelsherif/hate_speech_icwsm18 
- * Task description: Binary (Hate/Not), only for tweets which have both a Hate Instigator and Hate Target (introducing an interpersonal dimension) 
- * Details of task: Hate per se 
- * Size of dataset: 27330 
- * Percentage abusive: 0.98 
- * Language: English 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: Annotators on CrowdFlower.
+* Reference: Basile, V., Bosco, C., Fersini, E., Nozza, D., Patti, V., Pardo, F., Rosso, P. and Sanguinetti, M., 2019. SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter. In: Proceedings of the 13th International Workshop on Semantic Evaluation. Minneapolis, Minnesota: Association for Computational Linguistics, pp.54-63.
+
+__24. Peer to Peer Hate: Hate Speech Instigators and Their Targets__
+* Link to publication: [https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17905/16996](https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17905/16996)
+* Link to data: [https://github.com/mayelsherif/hate_speech_icwsm18](https://github.com/mayelsherif/hate_speech_icwsm18)
+* Task description: Binary (Hate/Not), only for tweets which have both a Hate Instigator and Hate Target (introducing an interpersonal dimension) 
+* Details of task: Hate per se 
+* Size of dataset: 27330 
+* Percentage abusive: 0.98 
+* Language: English 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: Annotators on CrowdFlower.
 3 annotators per entry, with majority voting (2/3) to decide final labels. 
- * Annotation agreement: 92.8% argreeement for hateful/not.
+* Annotation agreement: 92.8% argreeement for hateful/not.
 82.6% agreement for whether targetted at a person.
- 
+* Reference: ElSherief, M., Nilizadeh, S., Nguyen, D., Vigna, G. and Belding, E., 2018. Peer to Peer Hate: Hate Speech Instigators and Their Targets. In: Proceedings of the Twelfth International AAAI Conference on Web and Social Media (ICWSM 2018). Santa Barbara, California: University of California, pp.52-61. 
   
- 25. __Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Content Identification in Indo-European Languages__
- * Reference: Mandl, T., Modha, S., Majumder, P., Patel, D., Dave, M., Mandlia, C. and Patel, A., 2019. Overview of the HASOC track at FIRE 2019. In: Proceedings of the 11th Forum for Information Retrieval Evaluation,. 
- * Link to publication: [https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true] (https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true)* Link to data: https://hasocfire.github.io/hasoc/2019/dataset.html 
- * Task description: A: Hate / Offensive or neither;
+__25. Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Content Identification in Indo-European Languages__
+* Link to publication: [https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true](https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true)
+* Link to data: [https://hasocfire.github.io/hasoc/2019/dataset.html](https://hasocfire.github.io/hasoc/2019/dataset.html) 
+* Task description: A: Hate / Offensive or neither;
 B: Hatespeech, Offensive, or Profane;
 C: Targeted or Untargeted 
- * Details of task: Group-directed + Person-directed 
- * Size of dataset: 7005 
- * Percentage abusive: 0.36 
- * Language: English 
- * Level of annotation: Posts 
- * Platform: Twitter and Facebook 
- * Medium: Text 
- * Annotation process: Students 
- * Annotation agreement: 72.00% 
-  
- 26. __Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior__
- * Reference: Founta, A., Djouvas, C., Chatzakou, D., Leontiadis, I., Blackburn, J., Stringhini, G., Vakali, A., Sirivianos, M. and Kourtellis, N., 2018. Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior. ArXiv,. 
- * Link to publication: [https://arxiv.org/pdf/1802.00393.pdf] (https://arxiv.org/pdf/1802.00393.pdf)* Link to data: https://dataverse.mpi-sws.org/dataset.xhtml?persistentId=doi:10.5072/FK2/ZDTEMN 
- * Task description: Multi-thematic (Abusive, Hateful, Normal, Spam) 
- * Details of task: Hate per se 
- * Size of dataset: 80000 
- * Percentage abusive: 0.18 
- * Language: English 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: Very detailed information is given: multiple rounds, using a smaller 300 tweet dataset for testing the schema. For the final 80k, 5 judgements per tweet. CrowdFlower 
- * Annotation agreement: 55.9% = 4/5, 36.6% = 3/5, 7.5% = 2/5 
-  
- 27. __A Large Labeled Corpus for Online Harassment Research__
- * Reference: Golbeck, J., Ashktorab, Z., Banjo, R., Berlinger, A., Bhagwan, S., Buntain, C., Cheakalos, P., Geller, A., Gergory, Q., Gnanasekaran, R., Gnanasekaran, R., Hoffman, K., Hottle, J., Jienjitlert, V., Khare, S., Lau, R., Martindale, M., Naik, S., Nixon, H., Ramachandran, P., Rogers, K., Rogers, L., Sarin, M., Shahane, G., Thanki, J., Vengataraman, P., Wan, Z. and Wu, D., 2017. A Large Labeled Corpus for Online Harassment Research. In: Proceedings of the 2017 ACM on Web Science Conference. New York: Association for Computing Machinery, pp.229-233. 
- * Link to publication: [http://www.cs.umd.edu/~golbeck/papers/trolling.pdf] (http://www.cs.umd.edu/~golbeck/papers/trolling.pdf)* Link to data: jgolbeck@umd.edu 
- * Task description: Binary (harassment/not) 
- * Details of task: Person-directed 
- * Size of dataset: 35000 
- * Percentage abusive: 0.16 
- * Language: English 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: 35,000 collected. Each tweet annotated by two coders. Then, in cases of disagreement a 3rd coder was brought in to abjudicate. 2,711 tweets required a 3rd coder.  
- * Annotation agreement: Cohen's Kappa: 0.84 
-  
- 28. __Ex Machina: Personal Attacks Seen at Scale, Personal attacks__
- * Reference: Wulczyn, E., Thain, N. and Dixon, L., 2017. Ex Machina: Personal Attacks Seen at Scale. ArXiv,. 
- * Link to publication: [https://arxiv.org/pdf/1610.08914] (https://arxiv.org/pdf/1610.08914)* Link to data: https://github.com/ewulczyn/wiki-detox 
- * Task description: Binary (Personal attack, Not) 
- * Details of task: Person-directed 
- * Size of dataset: 115737 
- * Percentage abusive: 0.12 
- * Language: English 
- * Level of annotation: Posts 
- * Platform: Wikipedia 
- * Medium: Text 
- * Annotation process: Each comment was annotated by 10 annotators. The majority decision was taken. Based on Crowdflower annotations. Annotators with 70% accuracy or less were removed, resulting in worse 2% of annotators being removed. 
- * Annotation agreement: 0.45 Krippendorf Alpha 
-  
- 29. __Ex Machina: Personal Attacks Seen at Scale, Toxicity__
- * Reference: Wulczyn, E., Thain, N. and Dixon, L., 2017. Ex Machina: Personal Attacks Seen at Scale. ArXiv,. 
- * Link to publication: [https://arxiv.org/pdf/1610.08914] (https://arxiv.org/pdf/1610.08914)* Link to data: https://meta.wikimedia.org/wiki/Research:Detox/Data_Release#Schema_for_{attack/aggression/toxicity}_worker_demographics.tsv 
- * Task description: Toxicity/healthiness judgement 5 points (-2 == very toxic, 0 == neutral, 2 == very heallthy) 
- * Details of task: Person-directed 
- * Size of dataset: 100000 
- * Percentage abusive: NA 
- * Language: English 
- * Level of annotation: Posts 
- * Platform: Wikipedia 
- * Medium: Text 
- * Annotation process: Each comment was annotated by 10 annotators. The majority decision was taken. Based on Crowdflower annotations. Annotators with 70% accuracy or less were removed, resulting in worse 2% of annotators being removed. 
- * Annotation agreement: / 
-  
- 30. __Detecting cyberbullying in online communities (World of Warcraft)__
- * Reference: Bretschneider, U. and Peters, R., 2016. Detecting Cyberbullying in Online Communities. Research Papers, 61. 
- * Link to publication: [http://aisel.aisnet.org/ecis2016_rp/61/] (http://aisel.aisnet.org/ecis2016_rp/61/)* Link to data: http://ub-web.de/research/ 
- * Task description: Binary (Harassment, Not) 
- * Details of task: Person-directed 
- * Size of dataset: 16975 
- * Percentage abusive: 0.01 
- * Language: English 
- * Level of annotation: Posts 
- * Platform: World of Warcraft 
- * Medium: Text 
- * Annotation process: 3 human experts for each post; only cases with 2/3 or 3/3 agreement are included 
- * Annotation agreement: 0.51 Fleiss Kappa - only calculated on posts which at least one annotator annotated as offensive 
-  
- 31. __Detecting cyberbullying in online communities (League of Legends)__
- * Reference: Bretschneider, U. and Peters, R., 2016. Detecting Cyberbullying in Online Communities. Research Papers, 61. 
- * Link to publication: [http://aisel.aisnet.org/ecis2016_rp/61/] (http://aisel.aisnet.org/ecis2016_rp/61/)* Link to data: http://ub-web.de/research/ 
- * Task description: Binary (Harassment, Not) 
- * Details of task: Person-directed 
- * Size of dataset: 17354 
- * Percentage abusive: 0.01 
- * Language: English 
- * Level of annotation: Posts 
- * Platform: League of Legends 
- * Medium: Text 
- * Annotation process: 3 human experts for each post; only cases with 2/3 or 3/3 agreement are included 
- * Annotation agreement: 0.72 Fleiss Kappa - only calculated on posts which at least one annotator annotated as offensive
+* Details of task: Group-directed + Person-directed 
+* Size of dataset: 7005 
+* Percentage abusive: 0.36 
+* Language: English 
+* Level of annotation: Posts 
+* Platform: Twitter and Facebook 
+* Medium: Text 
+* Annotation process: Students 
+* Annotation agreement: 72.00% 
+* Reference: Mandl, T., Modha, S., Majumder, P., Patel, D., Dave, M., Mandlia, C. and Patel, A., 2019. Overview of the HASOC track at FIRE 2019. In: Proceedings of the 11th Forum for Information Retrieval Evaluation,. 
+
+__26. Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior__
+* Link to publication: [https://arxiv.org/pdf/1802.00393.pdf](https://arxiv.org/pdf/1802.00393.pdf)
+* Link to data: [https://dataverse.mpi-sws.org/dataset.xhtml?persistentId=doi:10.5072/FK2/ZDTEMN](https://dataverse.mpi-sws.org/dataset.xhtml?persistentId=doi:10.5072/FK2/ZDTEMN)
+* Task description: Multi-thematic (Abusive, Hateful, Normal, Spam) 
+* Details of task: Hate per se 
+* Size of dataset: 80000 
+* Percentage abusive: 0.18 
+* Language: English 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: Very detailed information is given: multiple rounds, using a smaller 300 tweet dataset for testing the schema. For the final 80k, 5 judgements per tweet. CrowdFlower 
+* Annotation agreement: 55.9% = 4/5, 36.6% = 3/5, 7.5% = 2/5 
+* Reference: Founta, A., Djouvas, C., Chatzakou, D., Leontiadis, I., Blackburn, J., Stringhini, G., Vakali, A., Sirivianos, M. and Kourtellis, N., 2018. Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior. ArXiv,. 
+
+__27. A Large Labeled Corpus for Online Harassment Research__
+* Link to publication: [http://www.cs.umd.edu/~golbeck/papers/trolling.pdf](http://www.cs.umd.edu/~golbeck/papers/trolling.pdf)
+* Link to data: jgolbeck@umd.edu
+* Task description: Binary (harassment/not) 
+* Details of task: Person-directed 
+* Size of dataset: 35000 
+* Percentage abusive: 0.16 
+* Language: English 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: 35,000 collected. Each tweet annotated by two coders. Then, in cases of disagreement a 3rd coder was brought in to abjudicate. 2,711 tweets required a 3rd coder.  
+* Annotation agreement: Cohen's Kappa: 0.84 
+* Reference: Golbeck, J., Ashktorab, Z., Banjo, R., Berlinger, A., Bhagwan, S., Buntain, C., Cheakalos, P., Geller, A., Gergory, Q., Gnanasekaran, R., Gnanasekaran, R., Hoffman, K., Hottle, J., Jienjitlert, V., Khare, S., Lau, R., Martindale, M., Naik, S., Nixon, H., Ramachandran, P., Rogers, K., Rogers, L., Sarin, M., Shahane, G., Thanki, J., Vengataraman, P., Wan, Z. and Wu, D., 2017. A Large Labeled Corpus for Online Harassment Research. In: Proceedings of the 2017 ACM on Web Science Conference. New York: Association for Computing Machinery, pp.229-233. 
+
+__28. Ex Machina: Personal Attacks Seen at Scale, Personal attacks__
+* Link to publication: [https://arxiv.org/pdf/1610.08914](https://arxiv.org/pdf/1610.08914)
+* Link to data: [https://github.com/ewulczyn/wiki-detox](https://github.com/ewulczyn/wiki-detox)
+* Task description: Binary (Personal attack, Not) 
+* Details of task: Person-directed 
+* Size of dataset: 115737 
+* Percentage abusive: 0.12 
+* Language: English 
+* Level of annotation: Posts 
+* Platform: Wikipedia 
+* Medium: Text 
+* Annotation process: Each comment was annotated by 10 annotators. The majority decision was taken. Based on Crowdflower annotations. Annotators with 70% accuracy or less were removed, resulting in worse 2% of annotators being removed. 
+* Annotation agreement: 0.45 Krippendorf Alpha 
+* Reference: Wulczyn, E., Thain, N. and Dixon, L., 2017. Ex Machina: Personal Attacks Seen at Scale. ArXiv,. 
+
  
+__29. Ex Machina: Personal Attacks Seen at Scale, Toxicity__
+* Link to publication: [https://arxiv.org/pdf/1610.08914](https://arxiv.org/pdf/1610.08914)
+* Link to data: [https://github.com/ewulczyn/wiki-detox](https://github.com/ewulczyn/wiki-detox)
+* Task description: Toxicity/healthiness judgement 5 points (-2 == very toxic, 0 == neutral, 2 == very heallthy) 
+* Details of task: Person-directed 
+* Size of dataset: 100000 
+* Percentage abusive: NA 
+* Language: English 
+* Level of annotation: Posts 
+* Platform: Wikipedia 
+* Medium: Text 
+* Annotation process: Each comment was annotated by 10 annotators. The majority decision was taken. Based on Crowdflower annotations. Annotators with 70% accuracy or less were removed, resulting in worse 2% of annotators being removed. 
+* Annotation agreement: / 
+* Reference: Wulczyn, E., Thain, N. and Dixon, L., 2017. Ex Machina: Personal Attacks Seen at Scale. ArXiv,. 
+
+ 
+__30. Detecting cyberbullying in online communities (World of Warcraft)__
+* Link to publication: [http://aisel.aisnet.org/ecis2016_rp/61/](http://aisel.aisnet.org/ecis2016_rp/61/)
+* Link to data: [http://ub-web.de/research/](http://ub-web.de/research/)
+* Task description: Binary (Harassment, Not) 
+* Details of task: Person-directed 
+* Size of dataset: 16975 
+* Percentage abusive: 0.01 
+* Language: English 
+* Level of annotation: Posts 
+* Platform: World of Warcraft 
+* Medium: Text 
+* Annotation process: 3 human experts for each post; only cases with 2/3 or 3/3 agreement are included 
+* Annotation agreement: 0.51 Fleiss Kappa - only calculated on posts which at least one annotator annotated as offensive 
+* Reference: Bretschneider, U. and Peters, R., 2016. Detecting Cyberbullying in Online Communities. Research Papers, 61. 
+
+
+__31. Detecting cyberbullying in online communities (League of Legends)__
+* Link to publication: [http://aisel.aisnet.org/ecis2016_rp/61/](http://aisel.aisnet.org/ecis2016_rp/61/)
+* Link to data: [http://ub-web.de/research/](http://ub-web.de/research/)
+* Task description: Binary (Harassment, Not) 
+* Details of task: Person-directed 
+* Size of dataset: 17354 
+* Percentage abusive: 0.01 
+* Language: English 
+* Level of annotation: Posts 
+* Platform: League of Legends 
+* Medium: Text 
+* Annotation process: 3 human experts for each post; only cases with 2/3 or 3/3 agreement are included 
+* Annotation agreement: 0.72 Fleiss Kappa - only calculated on posts which at least one annotator annotated as offensive
+* Reference: Bretschneider, U. and Peters, R., 2016. Detecting Cyberbullying in Online Communities. Research Papers, 61. 
+
   
- 32. __A Quality Type-aware Annotated Corpus and Lexicon for Harassment Research__
- * Reference: Rezvan, M., Shekarpour, S., Balasuriya, L., Thirunarayan, K., Shalin, V. and Sheth, A., 2018. A Quality Type-aware Annotated Corpus and Lexicon for Harassment Research. ArXiv,. 
- * Link to publication: [https://arxiv.org/pdf/1802.09416.pdf] (https://arxiv.org/pdf/1802.09416.pdf)* Link to data: https://github.com/Mrezvan94/Harassment-Corpus 
- * Task description: 5-topic (Sexual, Racist, Appearance-related, Intellectual, Political) 
- * Details of task: Racism, Sexism, Appearance-related, intellectual, political 
- * Size of dataset: 24189 
- * Percentage abusive: 0.13 
- * Language: English 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: 3 native English experts per tweet 
- * Annotation agreement: Cohen's Kappa: Sexual (0.70), Racial (0.84), Appearance-related (1.00), Intellectual (0.80), Political (0.69) 
-  
- 33. __Ex Machina: Personal Attacks Seen at Scale, Aggression and Friendliness__
- * Reference: Wulczyn, E., Thain, N. and Dixon, L., 2017. Ex Machina: Personal Attacks Seen at Scale. ArXiv,. 
- * Link to publication: [https://arxiv.org/pdf/1610.08914] (https://arxiv.org/pdf/1610.08914)* Link to data: https://meta.wikimedia.org/wiki/Research:Detox/Data_Release#Schema_for_{attack/aggression/toxicity}_worker_demographics.tsv 
- * Task description: Aggression/friendliness judgement on a 5 point scale. (-2 == very aggressive, 0 == neutral, 3 == very friendly). Aggression also includes 'passive aggression'. 
- * Details of task: Person-Directed + Group-Directed 
- * Size of dataset: 160000 
- * Percentage abusive: NA 
- * Language: English 
- * Level of annotation: Posts 
- * Platform: Wikipedia 
- * Medium: Text 
- * Annotation process: Each comment was annotated by 10 annotators. The majority decision was taken. Based on Crowdflower annotations. Annotators with 70% accuracy or less were removed, resulting in worse 2% of annotators being removed. 
- * Annotation agreement: / 
+__32. A Quality Type-aware Annotated Corpus and Lexicon for Harassment Research__
+* Link to publication: [https://arxiv.org/pdf/1802.09416.pdf](https://arxiv.org/pdf/1802.09416.pdf)
+* Link to data: [https://github.com/Mrezvan94/Harassment-Corpus](https://github.com/Mrezvan94/Harassment-Corpus)
+* Task description: 5-topic (Sexual, Racist, Appearance-related, Intellectual, Political) 
+* Details of task: Racism, Sexism, Appearance-related, intellectual, political 
+* Size of dataset: 24189 
+* Percentage abusive: 0.13 
+* Language: English 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: 3 native English experts per tweet 
+* Annotation agreement: Cohen's Kappa: Sexual (0.70), Racial (0.84), Appearance-related (1.00), Intellectual (0.80), Political (0.69) 
+* Reference: Rezvan, M., Shekarpour, S., Balasuriya, L., Thirunarayan, K., Shalin, V. and Sheth, A., 2018. A Quality Type-aware Annotated Corpus and Lexicon for Harassment Research. ArXiv,.
+
+__33. Ex Machina: Personal Attacks Seen at Scale, Aggression and Friendliness__
+* Link to publication: [https://arxiv.org/pdf/1610.08914](https://arxiv.org/pdf/1610.08914)
+* Link to data: [https://github.com/ewulczyn/wiki-detox](https://github.com/ewulczyn/wiki-detox)
+* Task description: Aggression/friendliness judgement on a 5 point scale. (-2 == very aggressive, 0 == neutral, 3 == very friendly). Aggression also includes 'passive aggression'. 
+* Details of task: Person-Directed + Group-Directed 
+* Size of dataset: 160000 
+* Percentage abusive: NA 
+* Language: English 
+* Level of annotation: Posts 
+* Platform: Wikipedia 
+* Medium: Text 
+* Annotation process: Each comment was annotated by 10 annotators. The majority decision was taken. Based on Crowdflower annotations. Annotators with 70% accuracy or less were removed, resulting in worse 2% of annotators being removed. 
+* Annotation agreement: / 
+* Reference: Wulczyn, E., Thain, N. and Dixon, L., 2017. Ex Machina: Personal Attacks Seen at Scale. ArXiv,. 
 
 
 ### French
