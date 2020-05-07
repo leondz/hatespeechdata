@@ -11,7 +11,7 @@ If you use these resources, please cite (and read!) our paper: [Directions in Ab
 ## List of datasets
 
 ### Arabic
-1. __Are They our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere__
+__1. Are They our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere__
 
 * Reference: Albadi, N., Kurdi, M. and Mishra, S., 2018. Are they Our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere. In: International Conference on Advances in Social Networks Analysis and Mining. Barcelona, Spain: IEEE, pp.69-76. 
  * Link to publication: [https://ieeexplore.ieee.org/document/8508247] (https://ieeexplore.ieee.org/document/8508247)* Link to data: https://github.com/nuhaalbadi/Arabic_hatespeech 
