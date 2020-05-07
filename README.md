@@ -25,6 +25,7 @@ If you use these resources, please cite (and read!) our paper: [Directions in Ab
  * Annotation process: CrowdFlower: 234 annotators. Annotatrs with accuracy below were 70% excluded (based on 100 gold standard test questions). On average, there were 3 annotations per tweet
  * Annotation agreement: 81% for hate/not and 55% for the religious group which was targetted
  
+ 
  2. __Multilingual and Multi-Aspect Hate Speech Analysis (Arabic)__
  * Reference: Ousidhoum, N., Lin, Z., Zhang, H., Song, Y. and Yeung, D., 2019. Multilingual and Multi-Aspect Hate Speech Analysis. ArXiv,. 
  * Link to publication: [https://arxiv.org/abs/1908.11049] (https://arxiv.org/abs/1908.11049)* Link to data: https://github.com/HKUST-KnowComp/MLMA_hate_speech 
@@ -47,6 +48,7 @@ For the more subjetive labels, all of the annotations were retained(i.e. hostili
 Annotators were provided with definitions of offensive words from Urban Dictionary.
 Annotators were reminded 'not to let their personal opinions about the topics being discussed in the tweets influence their annotation decisions'.
  * Annotation agreement: Krippendorf score: 0.202 
+ 
  
  3. __L-HSAB: A Levantine Twitter Dataset for Hate Speech and Abusive Language__
  * Reference: Mulki, H., Haddad, H., Bechikh, C. and Alshabani, H., 2019. L-HSAB: A Levantine Twitter Dataset for Hate Speech and Abusive Language. In: Proceedings of the Third Workshop on Abusive Language Online. Florence, Italy: Association for Computational Linguistics, pp.111-118. 
