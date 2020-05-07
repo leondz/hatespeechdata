@@ -12,6 +12,7 @@ If you use these resources, please cite (and read!) our paper: [Directions in Ab
 
 ### Arabic
 1. __Are They our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere__
+
 * Reference: Albadi, N., Kurdi, M. and Mishra, S., 2018. Are they Our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere. In: International Conference on Advances in Social Networks Analysis and Mining. Barcelona, Spain: IEEE, pp.69-76. 
  * Link to publication: [https://ieeexplore.ieee.org/document/8508247] (https://ieeexplore.ieee.org/document/8508247)* Link to data: https://github.com/nuhaalbadi/Arabic_hatespeech 
  * Task description: Binary (Hate, Not) 
@@ -27,27 +28,28 @@ If you use these resources, please cite (and read!) our paper: [Directions in Ab
  
  
  2. __Multilingual and Multi-Aspect Hate Speech Analysis (Arabic)__
- * Reference: Ousidhoum, N., Lin, Z., Zhang, H., Song, Y. and Yeung, D., 2019. Multilingual and Multi-Aspect Hate Speech Analysis. ArXiv,. 
- * Link to publication: [https://arxiv.org/abs/1908.11049] (https://arxiv.org/abs/1908.11049)* Link to data: https://github.com/HKUST-KnowComp/MLMA_hate_speech 
- * Task description: Detailed taxonomy with cross-cutting attributes:
+
+* Reference: Ousidhoum, N., Lin, Z., Zhang, H., Song, Y. and Yeung, D., 2019. Multilingual and Multi-Aspect Hate Speech Analysis. ArXiv,. 
+* Link to publication: [https://arxiv.org/abs/1908.11049] (https://arxiv.org/abs/1908.11049)* Link to data: https://github.com/HKUST-KnowComp/MLMA_hate_speech 
+* Task description: Detailed taxonomy with cross-cutting attributes:
 HOSTILITY (Abusive, Hateful, Offensive, Disrespectful, Fearful, Normal)
 DIRECTNESS (Direct/indirect)
 Target attribute (Origin [covers race, ethnicity and nationality], Gender, Sexual Orientation, Religion, Disability, Other)
 Target Group (16 identified, of which the five most common are: Individual, Other, Women, Special needs, African Descent)
 Annotator sentiment [i.e. how the annotators felt on seeing the tweet] (Disgust, Shock, Anger, Sadness, Fear, Confusion, Indifference) 
- * Details of task: Gender, Sexual orientation, Religion, Disability 
- * Size of dataset: 3353 
- * Percentage abusive: 0.64 
- * Language: Arabic 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: Annotators on Mechanical Turk.
+* Details of task: Gender, Sexual orientation, Religion, Disability 
+* Size of dataset: 3353 
+* Percentage abusive: 0.64 
+* Language: Arabic 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: Annotators on Mechanical Turk.
 5 annotators per entry, with majority voting to decide final labels.
 For the more subjetive labels, all of the annotations were retained(i.e. hostility type and the annotator’s sentiment labels).
 Annotators were provided with definitions of offensive words from Urban Dictionary.
 Annotators were reminded 'not to let their personal opinions about the topics being discussed in the tweets influence their annotation decisions'.
- * Annotation agreement: Krippendorf score: 0.202 
+* Annotation agreement: Krippendorf score: 0.202 
  
  
  3. __L-HSAB: A Levantine Twitter Dataset for Hate Speech and Abusive Language__
