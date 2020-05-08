@@ -27,14 +27,9 @@ __1. Are They our Brothers? Analysis and Detection of Religious Hate Speech in t
 __2. Multilingual and Multi-Aspect Hate Speech Analysis (Arabic)__
 * Link to publication: [https://arxiv.org/abs/1908.11049](https://arxiv.org/abs/1908.11049)
 * Link to data: [https://github.com/HKUST-KnowComp/MLMA_hate_speech](https://github.com/HKUST-KnowComp/MLMA_hate_speech) 
-* Task description: Detailed taxonomy with cross-cutting attributes:
-HOSTILITY (Abusive, Hateful, Offensive, Disrespectful, Fearful, Normal)
-DIRECTNESS (Direct/indirect)
-Target attribute (Origin [covers race, ethnicity and nationality], Gender, Sexual Orientation, Religion, Disability, Other)
-Target Group (16 identified, of which the five most common are: Individual, Other, Women, Special needs, African Descent)
-Annotator sentiment [i.e. how the annotators felt on seeing the tweet] (Disgust, Shock, Anger, Sadness, Fear, Confusion, Indifference) 
+* Task description: Detailed taxonomy with cross-cutting attributes: Hostility, Directness, Target Attribute, Target Group, How annotators felt on seeing the tweet.
 * Details of task: Gender, Sexual orientation, Religion, Disability 
-* Size of dataset: 3353 
+* Size of dataset: 3,353 
 * Percentage abusive: 0.64 
 * Language: Arabic 
 * Level of annotation: Posts 
@@ -47,7 +42,7 @@ __3. L-HSAB: A Levantine Twitter Dataset for Hate Speech and Abusive Language__
 * Link to data: [https://github.com/Hala-Mulki/L-HSAB-First-Arabic-Levantine-HateSpeech-Dataset](https://github.com/Hala-Mulki/L-HSAB-First-Arabic-Levantine-HateSpeech-Dataset)
 * Task description: Ternary (Hate, Abusive, Normal) 
 * Details of task: Group-directed + Person-directed 
-* Size of dataset: 5846 
+* Size of dataset: 5,846 
 * Percentage abusive: 0.38 
 * Language: Arabic 
 * Level of annotation: Posts 
@@ -60,7 +55,7 @@ __4. Abusive Language Detection on Arabic Social Media (Twitter)__
 * Link to data: [http://alt.qcri.org/~hmubarak/offensive/TweetClassification-Summary.xlsx](http://alt.qcri.org/~hmubarak/offensive/TweetClassification-Summary.xlsx)
 * Task description: Ternary (Obscene, Offensive but not obscene, Clean) 
 * Details of task: Incivility 
-* Size of dataset: 1100 
+* Size of dataset: 1,100 
 * Percentage abusive: 0.59 
 * Language: Arabic 
 * Level of annotation: Posts 
@@ -73,7 +68,7 @@ __5. Abusive Language Detection on Arabic Social Media (Al Jazeera)__
 * Link to data: [http://alt.qcri.org/~hmubarak/offensive/AJCommentsClassification-CF.xlsx](http://alt.qcri.org/~hmubarak/offensive/AJCommentsClassification-CF.xlsx)
 * Task description: Ternary (Obscene, Offensive but not obscene, Clean) 
 * Details of task: Incivility 
-* Size of dataset: 32000 
+* Size of dataset: 32,000 
 * Percentage abusive: 0.81 
 * Language: Arabic 
 * Level of annotation: Posts 
@@ -86,7 +81,7 @@ __6. Dataset Construction for the Detection of Anti-Social Behaviour in Online C
 * Link to data: [https://onedrive.live.com/?authkey=!ACDXj_ZNcZPqzy0&id=6EF6951FBF8217F9!105&cid=6EF6951FBF8217F9](https://onedrive.live.com/?authkey=!ACDXj_ZNcZPqzy0&id=6EF6951FBF8217F9!105&cid=6EF6951FBF8217F9)
 * Task description: Binary (Offensive, Not) 
 * Details of task: Incivility 
-* Size of dataset: 15050 
+* Size of dataset: 15,050 
 * Percentage abusive: 0.39 
 * Language: Arabic 
 * Level of annotation: Posts 
@@ -101,7 +96,7 @@ __7. Datasets of Slovene and Croatian Moderated News Comments__
 * Link to data: [http://hdl.handle.net/11356/1202](http://hdl.handle.net/11356/1202)
 * Task description: Binary (Deleted, Not) 
 * Details of task: Flagged content 
-* Size of dataset: 17000000 
+* Size of dataset: 17,000,000 
 * Percentage abusive: 0.02 
 * Language: Croatian 
 * Level of annotation: Posts 
@@ -114,12 +109,9 @@ __7. Datasets of Slovene and Croatian Moderated News Comments__
 __8. Offensive Language and Hate Speech Detection for Danish__
 * Link to publication: [http://www.derczynski.com/papers/danish_hsd.pdf](http://www.derczynski.com/papers/danish_hsd.pdf)
 * Link to data: [https://sites.google.com/site/offensevalsharedtask/home](https://sites.google.com/site/offensevalsharedtask/home)
-* Task description: Branching structure of tasks:
-Binary (Offensive, Not)
-Within Offensive (Target, Not)
-Within Target (Individual, Group, Other) 
+* Task description: Branching structure of tasks: Binary (Offensive, Not), Within Offensive (Target, Not), Within Target (Individual, Group, Other) 
 * Details of task: Group-directed + Person-directed 
-* Size of dataset: 3600 
+* Size of dataset: 3,600 
 * Percentage abusive: 0.12 
 * Language: Danish 
 * Level of annotation: Posts 
@@ -134,7 +126,7 @@ __9. Automated Hate Speech Detection and the Problem of Offensive Language__
 * Link to data: [https://github.com/t-davidson/hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language)
 * Task description: Hierarchy (Hate, Offensive, Neither) 
 * Details of task: Hate per se 
-* Size of dataset: 24802 
+* Size of dataset: 24,802 
 * Percentage abusive: 0.06 
 * Language: English 
 * Level of annotation: Posts 
@@ -145,9 +137,9 @@ __9. Automated Hate Speech Detection and the Problem of Offensive Language__
  __10. Hate Speech Dataset from a White Supremacy Forum__
 * Link to publication: [https://arxiv.org/pdf/1809.04444.pdf](https://arxiv.org/pdf/1809.04444.pdf)
 * Link to data: [https://github.com/aitor-garcia-p/hate-speech-dataset](https://github.com/aitor-garcia-p/hate-speech-dataset)
-* Task description: Ternary (Hate, Relation, Not) - Hate is defined at a general level to include all targeted groups/identities 
+* Task description: Ternary (Hate, Relation, Not)
 * Details of task: Hate per se 
-* Size of dataset: 9916 
+* Size of dataset: 9,916 
 * Percentage abusive: 0.11 
 * Language: English 
 * Level of annotation: Posts - with context of the converstaional thread taken into account 
@@ -160,7 +152,7 @@ __11. Hateful Symbols or Hateful People? Predictive Features for Hate Speech Det
 * Link to data: [https://github.com/ZeerakW/hatespeech](https://github.com/ZeerakW/hatespeech)
 * Task description: 3-topic (Sexist, Racist, Not) 
 * Details of task: Racism, Sexism 
-* Size of dataset: 16914 
+* Size of dataset: 16,914 
 * Percentage abusive: 0.32 
 * Language: English 
 * Level of annotation: Posts 
@@ -171,7 +163,7 @@ __11. Hateful Symbols or Hateful People? Predictive Features for Hate Speech Det
 __12. Detecting Online Hate Speech Using Context Aware Models__
 * Link to publication: [https://arxiv.org/pdf/1710.07395.pdf](https://arxiv.org/pdf/1710.07395.pdf)
 * Link to data: https://github.com/sjtuprog/fox-news-comments(https://github.com/sjtuprog/fox-news-comments) 
-* Task description: Binary (Hate / not). For all targets 
+* Task description: Binary (Hate / not)
 * Details of task: Hate per se 
 * Size of dataset: 1528 
 * Percentage abusive: 0.28 
@@ -184,9 +176,9 @@ __12. Detecting Online Hate Speech Using Context Aware Models__
 __13. Are You a Racist or Am I Seeing Things? Annotator Influence on Hate Speech Detection on Twitter__
 * Link to publication: [https://pdfs.semanticscholar.org/3eeb/b7907a9b94f8d65f969f63b76ff5f643f6d3.pdf](https://pdfs.semanticscholar.org/3eeb/b7907a9b94f8d65f969f63b76ff5f643f6d3.pdf)
 * Link to data: [https://github.com/ZeerakW/hatespeech](https://github.com/ZeerakW/hatespeech)
-* Task description: Multi-topic (sexist, racist, not, both) 
+* Task description: Multi-topic (Sexist, Racist, Neither, Both) 
 * Details of task: Racism, Sexism 
-* Size of dataset: 4033 
+* Size of dataset: 4,033 
 * Percentage abusive: 0.16 
 * Language: English 
 * Level of annotation: Posts 
@@ -197,7 +189,7 @@ __13. Are You a Racist or Am I Seeing Things? Annotator Influence on Hate Speech
 __14. When Does a Compliment Become Sexist? Analysis and Classification of Ambivalent Sexism Using Twitter Data__
 * Link to publication: [https://pdfs.semanticscholar.org/225f/f8a6a562bbb64b22cebfcd3288c6b930d1ef.pdf](https://pdfs.semanticscholar.org/225f/f8a6a562bbb64b22cebfcd3288c6b930d1ef.pdf)
 * Link to data: [https://github.com/AkshitaJha/NLP_CSS_2017](https://github.com/AkshitaJha/NLP_CSS_2017)
-* Task description: Hierarchy of Sexism (Benevolent sexism, hostile sexism, none) 
+* Task description: Hierarchy of Sexism (Benevolent sexism, Hostile sexism, None) 
 * Details of task: Sexism 
 * Size of dataset: 712 
 * Percentage abusive: 1 
@@ -210,11 +202,9 @@ __14. When Does a Compliment Become Sexist? Analysis and Classification of Ambiv
 __15. Overview of the Task on Automatic Misogyny Identification at IberEval 2018 (English)__
 * Link to publication: [http://ceur-ws.org/Vol-2150/overview-AMI.pdf](http://ceur-ws.org/Vol-2150/overview-AMI.pdf)
 * Link to data: [https://amiibereval2018.wordpress.com/important-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
-* Task description: Binary (misogyny / not)
-5 categories of misogyny (stereotype, dominance, derailing, sexual harassment, discredit)
-Target of misogyny (active [individual directed] or passive [group directed]) 
+* Task description: Binary (misogyny / not), 5 categories (stereotype, dominance, derailing, sexual harassment, discredit), target of misogyny (active or passive)
 * Details of task: Sexism 
-* Size of dataset: 3977 
+* Size of dataset: 3,977 
 * Percentage abusive: 0.47 
 * Language: English 
 * Level of annotation: Posts 
@@ -225,10 +215,9 @@ Target of misogyny (active [individual directed] or passive [group directed])
 __14. CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (English)__
 * Link to publication: [https://www.aclweb.org/anthology/P19-1271.pdf](https://www.aclweb.org/anthology/P19-1271.pdf)
 * Link to data: [https://github.com/marcoguerini/CONAN](https://github.com/marcoguerini/CONAN)
-* Task description: Binary (Islamophobic / not)
-Then: multi-topic: Culture, Economics, Crimes, Rapism, Terrorism, Women Oppression, History, Other/generic 
+* Task description: Binary (Islamophobic / not), multi-topic (Culture, Economics, Crimes, Rapism, Terrorism, Women Oppression, History, Other/generic)
 * Details of task: Islamophobia 
-* Size of dataset: 1288 
+* Size of dataset: 1,288 
 * Percentage abusive: 1 
 * Language: English 
 * Level of annotation: Posts 
@@ -240,10 +229,9 @@ Then: multi-topic: Culture, Economics, Crimes, Rapism, Terrorism, Women Oppressi
 __17. Characterizing and Detecting Hateful Users on Twitter__
 * Link to publication: [https://arxiv.org/pdf/1803.08977.pdf](https://arxiv.org/pdf/1803.08977.pdf)
 * Link to data: [https://github.com/manoelhortaribeiro/HatefulUsersTwitter](https://github.com/manoelhortaribeiro/HatefulUsersTwitter)
-* Task description: Binary (hateful/not).
-No specific targets are focused on. The instructions given to annotators explicitly mention gender, religion and race as examples. 
+* Task description: Binary (hateful/not)
 * Details of task: Hate per se 
-* Size of dataset: 4972 
+* Size of dataset: 4,972 
 * Percentage abusive: 0.11 
 * Language: English 
 * Level of annotation: Users 
@@ -256,12 +244,12 @@ __18. A Benchmark Dataset for Learning to Intervene in Online Hate Speech (Gab)_
 * Link to publication: [https://arxiv.org/abs/1909.04251]
 (https://arxiv.org/abs/1909.04251)
 * Link to data: [https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech](https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech)
-* Task description: Binary (hateful/not). 
+* Task description: Binary (hateful/not) 
 * Details of task: Hate per se 
-* Size of dataset: 33776 
+* Size of dataset: 33,776 
 * Percentage abusive: 0.43 
 * Language: English 
-* Level of annotation: Content (in the context of a conversation) 
+* Level of annotation: Posts (in the context of a conversation) 
 * Platform: Gab 
 * Medium: Text 
 * Reference: Qian, J., Bethke, A., Belding, E. and Yang Wang, W., 2019. A Benchmark Dataset for Learning to Intervene in Online Hate Speech. ArXiv,. 
@@ -269,12 +257,12 @@ __18. A Benchmark Dataset for Learning to Intervene in Online Hate Speech (Gab)_
 __19. A Benchmark Dataset for Learning to Intervene in Online Hate Speech (Reddit)__
 * Link to publication: [https://arxiv.org/abs/1909.04251](https://arxiv.org/abs/1909.04251)
 * Link to data: [https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech](https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech)
-* Task description: Binary (hateful/not). 
+* Task description: Binary (hateful/not)
 * Details of task: Hate per se 
-* Size of dataset: 22324 
+* Size of dataset: 22,324 
 * Percentage abusive: 0.24 
 * Language: English 
-* Level of annotation: Posts - with context of the converstaional thread taken into account 
+* Level of annotation: Posts (with context of the converstaional thread taken into account)
 * Platform: Reddit 
 * Medium: Text 
 * Reference: Qian, J., Bethke, A., Belding, E. and Yang Wang, W., 2019. A Benchmark Dataset for Learning to Intervene in Online Hate Speech. ArXiv,. 
@@ -282,14 +270,9 @@ __19. A Benchmark Dataset for Learning to Intervene in Online Hate Speech (Reddi
 __20. Multilingual and Multi-Aspect Hate Speech Analysis (English)__
 * Link to publication: [https://arxiv.org/abs/1908.11049](https://arxiv.org/abs/1908.11049)
 * Link to data: [https://github.com/HKUST-KnowComp/MLMA_hate_speech](https://github.com/HKUST-KnowComp/MLMA_hate_speech)
-* Task description: Detailed taxonomy with cross-cutting attributes:
-HOSTILITY (Abusive, Hateful, Offensive, Disrespectful, Fearful, Normal)
-DIRECTNESS (Direct/indirect)
-Target attribute (Origin [covers race, ethnicity and nationality], Gender, Sexual Orientation, Religion, Disability, Other)
-Target Group (16 identified, of which the five most common are: Individual, Other, Women, Special needs, African Descent)
-Annotator sentiment [i.e. how the annotators felt on seeing the tweet] (Disgust, Shock, Anger, Sadness, Fear, Confusion, Indifference) 
+* Task description: Detailed taxonomy with cross-cutting attributes: Hostility, Directness, Target attribute and Target group.
 * Details of task: Gender, Sexual orientation, Religion, Disability 
-* Size of dataset: 5647 
+* Size of dataset: 5,647 
 * Percentage abusive: 0.76 
 * Language: English 
 * Level of annotation: Posts 
@@ -301,9 +284,9 @@ Annotator sentiment [i.e. how the annotators felt on seeing the tweet] (Disgust,
 __21. Exploring Hate Speech Detection in Multimodal Publications__
 * Link to publication: [https://arxiv.org/pdf/1910.03814.pdf](https://arxiv.org/pdf/1910.03814.pdf)
 * Link to data: [https://gombru.github.io/2019/10/09/MMHS/](https://gombru.github.io/2019/10/09/MMHS/)
-* Task description: Six primary categories (No attacks to any community, Racist, Sexist, Homophobic, Religion based attack, Attack to other community. 
+* Task description: Six primary categories (No attacks to any community, Racist, Sexist, Homophobic, Religion based attack, Attack to other community)
 * Details of task: Racism, Sexism, Homophobia, Religion-based attack 
-* Size of dataset: 149823 
+* Size of dataset: 149,823 
 * Percentage abusive: 0.25 
 * Language: English 
 * Level of annotation: Posts 
@@ -314,12 +297,9 @@ __21. Exploring Hate Speech Detection in Multimodal Publications__
 __22. Predicting the Type and Target of Offensive Posts in Social Media__
 * Link to publication: [https://arxiv.org/pdf/1902.09666.pdf](https://arxiv.org/pdf/1902.09666.pdf)
 * Link to data: [http://competitions.codalab.org/ competitions/20011](http://competitions.codalab.org/ competitions/20011)
-* Task description: Branching structure of tasks:
-Binary (Offensive, Not)
-Within Offensive (Target, Not)
-Within Target (Individual, Group, Other) 
+* Task description: Branching structure of tasks: Binary (Offensive, Not), Within Offensive (Target, Not), Within Target (Individual, Group, Other) 
 * Details of task: Group-directed + Person-directed 
-* Size of dataset: 14100 
+* Size of dataset: 14,100 
 * Percentage abusive: 0.33 
 * Language: English 
 * Level of annotation: Posts 
@@ -331,12 +311,9 @@ Within Target (Individual, Group, Other)
 __23. hatEval, SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter (English)__
 * Link to publication: [https://www.aclweb.org/anthology/S19-2007](https://www.aclweb.org/anthology/S19-2007)
 * Link to data: [competitions.codalab.org/competitions/19935](competitions.codalab.org/competitions/19935)
-* Task description: Branching structure of tasks:
-Binary (Hate, Not)
-Within Hate (Group, Individual)
-Within Hate (Agressive, Not) 
+* Task description: Branching structure of tasks: Binary (Hate, Not), Within Hate (Group, Individual), Within Hate (Agressive, Not)
 * Details of task: Group-directed + Person-directed 
-* Size of dataset: 13000 
+* Size of dataset: 13,000 
 * Percentage abusive: 0.4 
 * Language: English 
 * Level of annotation: Posts 
@@ -347,9 +324,9 @@ Within Hate (Agressive, Not)
 __24. Peer to Peer Hate: Hate Speech Instigators and Their Targets__
 * Link to publication: [https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17905/16996](https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17905/16996)
 * Link to data: [https://github.com/mayelsherif/hate_speech_icwsm18](https://github.com/mayelsherif/hate_speech_icwsm18)
-* Task description: Binary (Hate/Not), only for tweets which have both a Hate Instigator and Hate Target (introducing an interpersonal dimension) 
+* Task description: Binary (Hate/Not), only for tweets which have both a Hate Instigator and Hate Target
 * Details of task: Hate per se 
-* Size of dataset: 27330 
+* Size of dataset: 27,330 
 * Percentage abusive: 0.98 
 * Language: English 
 * Level of annotation: Posts 
@@ -360,11 +337,9 @@ __24. Peer to Peer Hate: Hate Speech Instigators and Their Targets__
 __25. Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Content Identification in Indo-European Languages__
 * Link to publication: [https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true](https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true)
 * Link to data: [https://hasocfire.github.io/hasoc/2019/dataset.html](https://hasocfire.github.io/hasoc/2019/dataset.html) 
-* Task description: A: Hate / Offensive or neither;
-B: Hatespeech, Offensive, or Profane;
-C: Targeted or Untargeted 
+* Task description: Branching structure of tasks. A: Hate / Offensive or Neither, B: Hatespeech, Offensive, or Profane, C: Targeted or Untargeted 
 * Details of task: Group-directed + Person-directed 
-* Size of dataset: 7005 
+* Size of dataset: 7,005 
 * Percentage abusive: 0.36 
 * Language: English 
 * Level of annotation: Posts 
@@ -377,7 +352,7 @@ __26. Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior
 * Link to data: [https://dataverse.mpi-sws.org/dataset.xhtml?persistentId=doi:10.5072/FK2/ZDTEMN](https://dataverse.mpi-sws.org/dataset.xhtml?persistentId=doi:10.5072/FK2/ZDTEMN)
 * Task description: Multi-thematic (Abusive, Hateful, Normal, Spam) 
 * Details of task: Hate per se 
-* Size of dataset: 80000 
+* Size of dataset: 80,000 
 * Percentage abusive: 0.18 
 * Language: English 
 * Level of annotation: Posts 
@@ -390,9 +365,9 @@ __26. Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior
 __27. A Large Labeled Corpus for Online Harassment Research__
 * Link to publication: [http://www.cs.umd.edu/~golbeck/papers/trolling.pdf](http://www.cs.umd.edu/~golbeck/papers/trolling.pdf)
 * Link to data: jgolbeck@umd.edu
-* Task description: Binary (harassment/not) 
+* Task description: Binary (Harassment, Not) 
 * Details of task: Person-directed 
-* Size of dataset: 35000 
+* Size of dataset: 35,000 
 * Percentage abusive: 0.16 
 * Language: English 
 * Level of annotation: Posts 
@@ -405,7 +380,7 @@ __28. Ex Machina: Personal Attacks Seen at Scale, Personal attacks__
 * Link to data: [https://github.com/ewulczyn/wiki-detox](https://github.com/ewulczyn/wiki-detox)
 * Task description: Binary (Personal attack, Not) 
 * Details of task: Person-directed 
-* Size of dataset: 115737 
+* Size of dataset: 115,737 
 * Percentage abusive: 0.12 
 * Language: English 
 * Level of annotation: Posts 
@@ -413,27 +388,25 @@ __28. Ex Machina: Personal Attacks Seen at Scale, Personal attacks__
 * Medium: Text 
 * Reference: Wulczyn, E., Thain, N. and Dixon, L., 2017. Ex Machina: Personal Attacks Seen at Scale. ArXiv,. 
 
- 
 __29. Ex Machina: Personal Attacks Seen at Scale, Toxicity__
 * Link to publication: [https://arxiv.org/pdf/1610.08914](https://arxiv.org/pdf/1610.08914)
 * Link to data: [https://github.com/ewulczyn/wiki-detox](https://github.com/ewulczyn/wiki-detox)
-* Task description: Toxicity/healthiness judgement 5 points (-2 == very toxic, 0 == neutral, 2 == very heallthy) 
+* Task description: Toxicity/healthiness judgement (-2 == very toxic, 0 == neutral, 2 == very healthy) 
 * Details of task: Person-directed 
-* Size of dataset: 100000 
+* Size of dataset: 100,000 
 * Percentage abusive: NA 
 * Language: English 
 * Level of annotation: Posts 
 * Platform: Wikipedia 
 * Medium: Text 
 * Reference: Wulczyn, E., Thain, N. and Dixon, L., 2017. Ex Machina: Personal Attacks Seen at Scale. ArXiv,. 
-
  
 __30. Detecting cyberbullying in online communities (World of Warcraft)__
 * Link to publication: [http://aisel.aisnet.org/ecis2016_rp/61/](http://aisel.aisnet.org/ecis2016_rp/61/)
 * Link to data: [http://ub-web.de/research/](http://ub-web.de/research/)
 * Task description: Binary (Harassment, Not) 
 * Details of task: Person-directed 
-* Size of dataset: 16975 
+* Size of dataset: 16,975 
 * Percentage abusive: 0.01 
 * Language: English 
 * Level of annotation: Posts 
@@ -441,27 +414,25 @@ __30. Detecting cyberbullying in online communities (World of Warcraft)__
 * Medium: Text 
 * Reference: Bretschneider, U. and Peters, R., 2016. Detecting Cyberbullying in Online Communities. Research Papers, 61. 
 
-
 __31. Detecting cyberbullying in online communities (League of Legends)__
 * Link to publication: [http://aisel.aisnet.org/ecis2016_rp/61/](http://aisel.aisnet.org/ecis2016_rp/61/)
 * Link to data: [http://ub-web.de/research/](http://ub-web.de/research/)
 * Task description: Binary (Harassment, Not) 
 * Details of task: Person-directed 
-* Size of dataset: 17354 
+* Size of dataset: 17,354 
 * Percentage abusive: 0.01 
 * Language: English 
 * Level of annotation: Posts 
 * Platform: League of Legends 
 * Medium: Text 
 * Reference: Bretschneider, U. and Peters, R., 2016. Detecting Cyberbullying in Online Communities. Research Papers, 61. 
-
   
 __32. A Quality Type-aware Annotated Corpus and Lexicon for Harassment Research__
 * Link to publication: [https://arxiv.org/pdf/1802.09416.pdf](https://arxiv.org/pdf/1802.09416.pdf)
 * Link to data: [https://github.com/Mrezvan94/Harassment-Corpus](https://github.com/Mrezvan94/Harassment-Corpus)
-* Task description: 5-topic (Sexual, Racist, Appearance-related, Intellectual, Political) 
-* Details of task: Racism, Sexism, Appearance-related, intellectual, political 
-* Size of dataset: 24189 
+* Task description: Multi-topic harassment detection
+* Details of task: Racism, Sexism, Appearance-related, Intellectual, Political 
+* Size of dataset: 24,189 
 * Percentage abusive: 0.13 
 * Language: English 
 * Level of annotation: Posts 
@@ -472,9 +443,9 @@ __32. A Quality Type-aware Annotated Corpus and Lexicon for Harassment Research_
 __33. Ex Machina: Personal Attacks Seen at Scale, Aggression and Friendliness__
 * Link to publication: [https://arxiv.org/pdf/1610.08914](https://arxiv.org/pdf/1610.08914)
 * Link to data: [https://github.com/ewulczyn/wiki-detox](https://github.com/ewulczyn/wiki-detox)
-* Task description: Aggression/friendliness judgement on a 5 point scale. (-2 == very aggressive, 0 == neutral, 3 == very friendly). Aggression also includes 'passive aggression'. 
+* Task description: Aggression/friendliness judgement on a 5 point scale. (-2 == very aggressive, 0 == neutral, 3 == very friendly).
 * Details of task: Person-Directed + Group-Directed 
-* Size of dataset: 160000 
+* Size of dataset: 160,000 
 * Percentage abusive: NA 
 * Language: English 
 * Level of annotation: Posts 
@@ -487,10 +458,9 @@ __33. Ex Machina: Personal Attacks Seen at Scale, Aggression and Friendliness__
 __34. CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (French)__
 * Link to publication: [https://www.aclweb.org/anthology/P19-1271.pdf](https://www.aclweb.org/anthology/P19-1271.pdf)
 * Link to data: [https://github.com/marcoguerini/CONAN](https://github.com/marcoguerini/CONAN)
-* Task description: Binary (Islamophobic / not)
-Then: multi-topic: Culture, Economics, Crimes, Rapism, Terrorism, Women Oppression, History, Other/generic 
+* Task description: Binary (Islamophobic / not), Multi-topic (Culture, Economics, Crimes, Rapism, Terrorism, Women Oppression, History, Other/generic)
 * Details of task: Islamophobia 
-* Size of dataset: 1719 
+* Size of dataset: 1,719 
 * Percentage abusive: 1 
 * Language: French 
 * Level of annotation: Posts 
@@ -502,14 +472,9 @@ Then: multi-topic: Culture, Economics, Crimes, Rapism, Terrorism, Women Oppressi
 __35. Multilingual and Multi-Aspect Hate Speech Analysis (French)__
 * Link to publication: [https://arxiv.org/abs/1908.11049](https://arxiv.org/abs/1908.11049)
 * Link to data: [https://github.com/HKUST-KnowComp/MLMA_hate_speech](https://github.com/HKUST-KnowComp/MLMA_hate_speech)
-* Task description: Detailed taxonomy with cross-cutting attributes:
-HOSTILITY (Abusive, Hateful, Offensive, Disrespectful, Fearful, Normal)
-DIRECTNESS (Direct/indirect)
-Target attribute (Origin [covers race, ethnicity and nationality], Gender, Sexual Orientation, Religion, Disability, Other)
-Target Group (16 identified, of which the five most common are: Individual, Other, Women, Special needs, African Descent)
-Annotator sentiment [i.e. how the annotators felt on seeing the tweet] (Disgust, Shock, Anger, Sadness, Fear, Confusion, Indifference) 
+* Task description: Detailed taxonomy with cross-cutting attributes: Hostility, Directness, Target Attribute, Target Group, How annotators felt on seeing the tweet. 
 * Details of task: Gender, Sexual orientation, Religion, Disability 
-* Size of dataset: 4014 
+* Size of dataset: 4,014 
 * Percentage abusive: 0.72 
 * Language: French 
 * Level of annotation: Posts 
@@ -535,10 +500,9 @@ __36. Measuring the Reliability of Hate Speech Annotations: The Case of the Euro
 __37. Detecting Offensive Statements Towards Foreigners in Social Media__
 * Link to publication: [https://pdfs.semanticscholar.org/23dc/df7c7e82807445afd9f19474fc0a3d8169fe.pdf](https://pdfs.semanticscholar.org/23dc/df7c7e82807445afd9f19474fc0a3d8169fe.pdf)
 * Link to data: [http://ub-web.de/research/](http://ub-web.de/research/)
-* Task description: Hierarchical (Anti-foreigner prejudice: (1) slightly offensive/offensive and (2) explicitly/substantially offensive).
-6-targets: Foreigner, Government, Press, Community, Other, Unknown 
+* Task description: Hierarchical (Anti-foreigner prejudice, split into (1) slightly offensive/offensive and (2) explicitly/substantially offensive). 6 targets (Foreigner, Government, Press, Community, Other, Unknown)
 * Details of task: Anti-foreigner prejudice 
-* Size of dataset: 5836 
+* Size of dataset: 5,836 
 * Percentage abusive: 0.11 
 * Language: German 
 * Level of annotation: Posts 
@@ -549,11 +513,9 @@ __37. Detecting Offensive Statements Towards Foreigners in Social Media__
 __38. GermEval 2018__
  * Link to publication: [https://www.researchgate.net/publication/327914386_Overview_of_the_GermEval_2018_Shared_Task_on_the_Identification_of_Offensive_Language](https://www.researchgate.net/publication/327914386_Overview_of_the_GermEval_2018_Shared_Task_on_the_Identification_of_Offensive_Language)
 * Link to data: [https://github.com/uds-lsv/GermEval-2018-Data](https://github.com/uds-lsv/GermEval-2018-Data)
-* Task description: Branching structure:
-Binary (Offense, Other)
-3-levels within Offense (Abuse, Insult, Profanity) 
-* Details of task: Group-directed + incivility 
-* Size of dataset: 8541 
+* Task description: Branching structure: Binary (Offense, Other), 3 levels within Offense (Abuse, Insult, Profanity) 
+* Details of task: Group-directed + Incivility 
+* Size of dataset: 8,541 
 * Percentage abusive: 0.34 
 * Language: German 
 * Level of annotation: Posts 
@@ -564,10 +526,9 @@ Binary (Offense, Other)
 __39. Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Content Identification in Indo-European Languages__
 * Link to publication: [https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true](https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true)
 * Link to data: [https://hasocfire.github.io/hasoc/2019/dataset.html](https://hasocfire.github.io/hasoc/2019/dataset.html)
-* Task description: A: Hate / Offensive or neither;
-B: Hatespeech, Offensive, or Profane 
+* Task description: A: Hate / Offensive or neither, B: Hatespeech, Offensive, or Profane 
 * Details of task: Group-directed + Person-directed 
-* Size of dataset: 4669 
+* Size of dataset: 4,669 
 * Percentage abusive: 0.24 
 * Language: German 
 * Level of annotation: Posts 
@@ -583,7 +544,7 @@ https://www.aclweb.org/anthology/D17-1117)
 * Link to data: [http://www.straintek.com/data/](http://www.straintek.com/data/)
 * Task description: Binary (Flagged, Not) 
 * Details of task: Flagged content 
-* Size of dataset: 1450000 
+* Size of dataset: 1,450,000 
 * Percentage abusive: 0.34 
 * Language: Greek 
 * Level of annotation: Posts 
@@ -594,9 +555,10 @@ https://www.aclweb.org/anthology/D17-1117)
 __41. Deep Learning for User Comment Moderation, Moderated Comments__
 * Link to publication: [https://www.aclweb.org/anthology/W17-3004](https://www.aclweb.org/anthology/W17-3004
 https://www.aclweb.org/anthology/D17-1117)
-* Link to data: [http://www.straintek.com/data/](http://www.straintek.com/data/)* Task description: Binary (Flagged, Not) 
+* Link to data: [http://www.straintek.com/data/](http://www.straintek.com/data/)
+* Task description: Binary (Flagged, Not) 
 * Details of task: Flagged content 
-* Size of dataset: 1500 
+* Size of dataset: 1,500 
 * Percentage abusive: 0.22 
 * Language: Greek 
 * Level of annotation: Posts 
@@ -607,10 +569,7 @@ https://www.aclweb.org/anthology/D17-1117)
 __42. Offensive Language Identification in Greek__
 * Link to publication: [https://arxiv.org/pdf/2003.07459v1.pdf](https://arxiv.org/pdf/2003.07459v1.pdf)
 * Link to data: [https://sites.google.com/site/offensevalsharedtask/home](https://sites.google.com/site/offensevalsharedtask/home)
-* Task description: Branching structure of tasks:
-Binary (Offensive, Not)
-Within Offensive (Target, Not)
-Within Target (Individual, Group, Other) 
+* Task description: Branching structure of tasks: Binary (Offensive, Not), Within Offensive (Target, Not), Within Target (Individual, Group, Other) 
 * Details of task: Group-directed + Person-directed 
 * Size of dataset: 4779 
 * Percentage abusive: 0.29 
@@ -625,9 +584,9 @@ Within Target (Individual, Group, Other)
 __43. Aggression-annotated Corpus of Hindi-English Code-mixed Data__
 * Link to publication: [https://arxiv.org/pdf/1803.09402](https://arxiv.org/pdf/1803.09402)
 * Link to data: [https://github.com/kraiyani/Facebook-Post-Aggression-Identification](https://github.com/kraiyani/Facebook-Post-Aggression-Identification)
-* Task description: 3-part hierachy for hate (None, Covert Aggression, Overt Aggression) & 4-part target categorisation (Physical threat, Sexual threat, Identity threat, Non-threatening aggression) & 3-part discursive role categorisation (Attack, Defend, Abet) 
+* Task description: 3 part hierachy for hate (None, Covert Aggression, Overt Aggression), 4 part target categorisation (Physical threat, Sexual threat, Identity threat, Non-threatening aggression), 3-part discursive role categorisation (Attack, Defend, Abet)
 * Details of task: Numerous sub-categorizations 
-* Size of dataset: 18000 
+* Size of dataset: 18,000 
 * Percentage abusive: 0.06 
 * Language: Hindi-English 
 * Level of annotation: Posts 
@@ -638,9 +597,9 @@ __43. Aggression-annotated Corpus of Hindi-English Code-mixed Data__
 __44. Aggression-annotated Corpus of Hindi-English Code-mixed Data__
 * Link to publication: [https://arxiv.org/pdf/1803.09402](https://arxiv.org/pdf/1803.09402)
 * Link to data: [https://github.com/kraiyani/Facebook-Post-Aggression-Identification](https://github.com/kraiyani/Facebook-Post-Aggression-Identification)
-* Task description: 3-part hierachy for hate (None, Covert Aggression, Overt Aggression) & 4-part target (Physical threat, Sexual threat, Identity threat, Non-threatening aggression) & 3-part discursive roles (Attack, Defend, Abet) 
+* Task description: 3 part hierachy for hate (None, Covert Aggression, Overt Aggression), 4 part target categorisation (Physical threat, Sexual threat, Identity threat, Non-threatening aggression), 3-part discursive role categorisation (Attack, Defend, Abet)
 * Details of task: Numerous sub-categorizations 
-* Size of dataset: 21000 
+* Size of dataset: 21,000 
 * Percentage abusive: 0.27 
 * Language: Hindi-English 
 * Level of annotation: Posts 
@@ -653,7 +612,7 @@ __45. Did You Offend Me? Classification of Offensive Tweets in Hinglish Language
 * Link to data: [https://github.com/pmathur5k10/Hinglish-Offensive-Text-Classification](https://github.com/pmathur5k10/Hinglish-Offensive-Text-Classification)
 * Task description: Hierarchy (Not Offensive, Abusive, Hate) 
 * Details of task: Sexism 
-* Size of dataset: 3189 
+* Size of dataset: 3,189 
 * Percentage abusive: 0.65 
 * Language: Hindi-English 
 * Level of annotation: Posts 
@@ -666,7 +625,7 @@ __46. A Dataset of Hindi-English Code-Mixed Social Media Text for Hate Speech De
 * Link to data: [https://github.com/deepanshu1995/HateSpeech-Hindi-English-Code-Mixed-Social-Media-Text](https://github.com/deepanshu1995/HateSpeech-Hindi-English-Code-Mixed-Social-Media-Text)
 * Task description: Binary (Hate, Not) 
 * Details of task: Hate per se 
-* Size of dataset: 4575 
+* Size of dataset: 4,575 
 * Percentage abusive: 0.36 
 * Language: Hindi-English 
 * Level of annotation: Posts 
@@ -677,11 +636,9 @@ __46. A Dataset of Hindi-English Code-Mixed Social Media Text for Hate Speech De
 __47. Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Content Identification in Indo-European Languages__
 * Link to publication: [https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true](https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true)
 * Link to data: [https://hasocfire.github.io/hasoc/2019/dataset.htm](https://hasocfire.github.io/hasoc/2019/dataset.html)
-* Task description: A: Hate / Offensive or neither;
-B: Hatespeech, Offensive, or Profane;
-C: Targeted or Untargeted 
+* Task description: A: Hate, Offensive or Neither, B: Hatespeech, Offensive, or Profane, C: Targeted or Untargeted 
 * Details of task: Group-directed + Person-directed 
-* Size of dataset: 5983 
+* Size of dataset: 5,983 
 * Percentage abusive: 0.51 
 * Language: Hindi 
 * Level of annotation: Posts 
@@ -708,11 +665,9 @@ __48. Hate Speech Detection in the Indonesian Language: A Dataset and Preliminar
 __49. Multi-Label Hate Speech and Abusive Language Detection in Indonesian Twitter__
 * Link to publication: [https://www.aclweb.org/anthology/W19-3506](https://www.aclweb.org/anthology/W19-3506)
 * Link to data: [https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection](https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection)
-* Task description: Four-levels (No hate speech, no hate speech but abusive, hate speech but no abuse, hate speech and abuse)
-Within hate there are 5 categories (content can be split into multiple of the first four): (1) Religion/creed, (2) Race/ethnicity, (3) Physical/disability, (4) Gender/sexual orientation, (5) Other invective/slander
-Within hate there are also 5 strengths: Weak, Moderate and Strong 
-* Details of task: Religion, Race, Diab 
-* Size of dataset: 13169 
+* Task description: (No hate speech, No hate speech but abusive, Hate speech but no abuse, Hate speech and abuse), within hate, category (Religion/creed, Race/ethnicity, Physical/disability, Gender/sexual orientation, Other invective/slander), within hate, strength (Weak, Moderate and Strong)
+* Details of task: Religion, Race, Disability, Gender
+* Size of dataset: 13,169 
 * Percentage abusive: 0.42 
 * Language: Indonesian 
 * Level of annotation: Posts 
@@ -725,7 +680,7 @@ Within hate there are also 5 strengths: Weak, Moderate and Strong
 * Link to data: [https://github.com/okkyibrohim/id-abusive-language-detection](https://github.com/okkyibrohim/id-abusive-language-detection)
 * Task description: Hierarchical (Not abusive, Abusive but not offensive, Offensive) 
 * Details of task: Incivility 
-* Size of dataset: 2016 
+* Size of dataset: 2,016 
 * Percentage abusive: 0.54 
 * Language: Indonesian 
 * Level of annotation: Posts 
@@ -738,9 +693,9 @@ Within hate there are also 5 strengths: Weak, Moderate and Strong
 __51. An Italian Twitter Corpus of Hate Speech against Immigrants__
 * Link to publication: [https://www.aclweb.org/anthology/L18-1443](https://www.aclweb.org/anthology/L18-1443)
 * Link to data: [https://github.com/msang/hate-speech-corpus](https://github.com/msang/hate-speech-corpus)
-* Task description: Binary target: Immigrants, Roma and Muslims [combined]. AND Multi-thematic categories are identified. Hate is also measured by intensity, making it hiearchical (Hate: no/yes, Aggressiveness: no/weak/strong, Offensiveness: no/weak/strong, Irony: no/yes, Stereotype: no/yes, Incitement degree: 0-4) 
-* Details of task: Immigrants, Roma and Muslims 
-* Size of dataset: 1827 
+* Task description: Binary (Immigrants/Roma/Muslims, Not), additional categories. Within Hate, Intensity measurement (Aggressiveness: No, Weak, Strong, Offensiveness: No, Weak, Strong, Irony: No, Yes, Stereotype: No, Yes, Incitement degree: 0-4) 
+* Details of task: Immigrants, Roma and Muslims + numerous sub-categorizations
+* Size of dataset: 1,827 
 * Percentage abusive: 0.13 
 * Language: Italian 
 * Level of annotation: Posts 
@@ -751,14 +706,9 @@ __51. An Italian Twitter Corpus of Hate Speech against Immigrants__
 __52. Overview of the EVALITA 2018 Hate Speech Detection Task (Facebook)__
 * Link to publication: [http://ceur-ws.org/Vol-2263/paper010.pdf](http://ceur-ws.org/Vol-2263/paper010.pdf)
 * Link to data: [http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html](http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html)
-* Task description: Binary (Hate / not)
-
-Other variables, not used in the competition but described in the data:
-
-Within hate for FACEBOOK only: (1) No hate, (2) Weak Hate, (3) Strong Hate
-Within hate for FACEBOOK only: (1) religion, (2) physical and/or mental handicap, (3) socio-economic status, (4) politics, (5) race, (6) sex and gender, (7) Other 
+* Task description: Binary (Hate, Not), Within hate for Facebook only, strength (No hate, Weak hate, Strong hate) and theme ((1) religion, (2) physical and/or mental handicap, (3) socio-economic status, (4) politics, (5) race, (6) sex and gender, (7) Other) 
 * Details of task: Religion, physical and/or mental handicap, socio-economic status, politics, race, sex and gender 
-* Size of dataset: 4000 
+* Size of dataset: 4,000 
 * Percentage abusive: 0.51 
 * Language: Italian 
 * Level of annotation: Posts 
@@ -770,14 +720,9 @@ Within hate for FACEBOOK only: (1) religion, (2) physical and/or mental handicap
 __53. Overview of the EVALITA 2018 Hate Speech Detection Task (Twitter)__
 * Link to publication: [http://ceur-ws.org/Vol-2263/paper010.pdf](http://ceur-ws.org/Vol-2263/paper010.pdf)
 * Link to data: [http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html](http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html) 
-* Task description: Binary (Hate / not)
-
-Other variables, not used in the competition but described in the data:
-
-Within hate for TWITTER only: 1-4 rating of intensity
-Within hate for TWITTER only: Aggressiveness (no, weak, strong), Offensiveness (no, weak, strong), Irony (yes, no) 
+* Task description: Binary (Hate, Not), Within Hate For Twitter only Intensity (1-4 rating), Aggressiveness (No, Weak, Strong), Offensiveness (No, Weak, Strong), Irony (Yes, No) 
 * Details of task: Group-directed 
-* Size of dataset: 4000 
+* Size of dataset: 4,000 
 * Percentage abusive: 0.32 
 * Language: Italian 
 * Level of annotation: Posts 
@@ -788,10 +733,9 @@ Within hate for TWITTER only: Aggressiveness (no, weak, strong), Offensiveness (
 __54. CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (Italian)__
 * Link to publication: [https://www.aclweb.org/anthology/P19-1271.pdf](https://www.aclweb.org/anthology/P19-1271.pdf)
 * Link to data: [https://github.com/marcoguerini/CONAN](https://github.com/marcoguerini/CONAN)
-* Task description: Binary (Islamophobic / not)
-Then: multi-topic: Culture, Economics, Crimes, Rapism, Terrorism, Women Oppression, History, Other/generic 
+* Task description: Binary (Islamophobic, Not), Multi-topic (Culture, Economics, Crimes, Rapism, Terrorism, Women Oppression, History, Other/generic)
 * Details of task: Islamophobia 
-* Size of dataset: 1071 
+* Size of dataset: 1,071 
 * Percentage abusive: 1 
 * Language: Italian 
 * Level of annotation: Posts 
@@ -805,7 +749,7 @@ __55. Creating a WhatsApp Dataset to Study Pre-teen Cyberbullying__
 * Link to data: [https://github.com/dhfbk/WhatsApp-Dataset](https://github.com/dhfbk/WhatsApp-Dataset)
 * Task description: Binary (Cyberbullying, Not) 
 * Details of task: Person-directed 
-* Size of dataset: 14600 
+* Size of dataset: 14,600 
 * Percentage abusive: 0.08 
 * Language: Italian 
 * Level of annotation: Posts, structured into 10 chats, with token level information 
@@ -818,11 +762,9 @@ __55. Creating a WhatsApp Dataset to Study Pre-teen Cyberbullying__
 __56. Results of the PolEval 2019 Shared Task 6:First Dataset and Open Shared Task for Automatic Cyberbullying Detection in Polish Twitter__
 * Link to publication: [http://poleval.pl/files/poleval2019.pdf](http://poleval.pl/files/poleval2019.pdf)
 * Link to data: [http://poleval.pl/tasks/task6](http://poleval.pl/tasks/task6)
-* Task description: Harmfulness score, three values;
-Multilabel from seven phenomena;
-Specific phrase in the text conveying the phenomena/om 
+* Task description: Harmfulness score (three values), Multilabel from seven phenomena
 * Details of task: Person-directed 
-* Size of dataset: 10041 
+* Size of dataset: 10,041 
 * Percentage abusive: 0.09 
 * Language: Polish 
 * Level of annotation: Posts 
@@ -835,10 +777,9 @@ Specific phrase in the text conveying the phenomena/om
 __57. A Hiierarchically-Labeled Portugese Hate Speech Dataset__
 * Link to publication: [https://www.aclweb.org/anthology/W19-3510](https://www.aclweb.org/anthology/W19-3510)
 * Link to data: [https://rdm.inesctec.pt/dataset/cs-2017-008](https://rdm.inesctec.pt/dataset/cs-2017-008)
-* Task description: Binary (Hate, Not)
-Multi-level (81 categories, identified inductively; categories have different granularities and content ncan be assigned to multiple categories at once) 
+* Task description: Binary (Hate, Not), Multi-level (81 categories, identified inductively; categories have different granularities and content can be assigned to multiple categories at once) 
 * Details of task: Multiple identities inductively categorized 
-* Size of dataset: 3059 
+* Size of dataset: 3,059 
 * Percentage abusive: 0.32 
 * Language: Portugese 
 * Level of annotation: Posts 
@@ -849,10 +790,9 @@ Multi-level (81 categories, identified inductively; categories have different gr
 __58. Offensive Comments in the Brazilian Web: A Dataset and Baseline Results__
 * Link to publication: [http://www.each.usp.br/digiampietri/BraSNAM/2017/p04.pdf](http://www.each.usp.br/digiampietri/BraSNAM/2017/p04.pdf)
 * Link to data: [https://github.com/rogersdepelle/OffComBR](https://github.com/rogersdepelle/OffComBR)
-* Task description: Binary (offensive content / not)
-Target of abuse is also annotated (Xenophobia, homophobia, sexism, racism, cursing, religious intolerance) 
+* Task description: Binary (Offensive, Not), Target (Xenophobia, homophobia, sexism, racism, cursing, religious intolerance) 
 * Details of task: Religion/creed, Race/ethnicity, Physical/disability, Gender/sexual orientation 
-* Size of dataset: 1250 
+* Size of dataset: 1,250 
 * Percentage abusive: 0.33 
 * Language: Portugese 
 * Level of annotation: Posts 
@@ -867,7 +807,7 @@ __59. Datasets of Slovene and Croatian Moderated News Comments__
 * Link to data: [http://hdl.handle.net/11356/1201](http://hdl.handle.net/11356/1201)
 * Task description: Binary (Deleted, Not) 
 * Details of task: Flagged content 
-* Size of dataset: 7600000 
+* Size of dataset: 7,600,000 
 * Percentage abusive: 0.08 
 * Language: Slovene 
 * Level of annotation: Posts 
@@ -880,9 +820,9 @@ __59. Datasets of Slovene and Croatian Moderated News Comments__
 __60. Overview of MEX-A3T at IberEval 2018: Authorship and Aggressiveness Analysis in Mexican Spanish Tweets__
 * Link to publication: [http://ceur-ws.org/Vol-2150/overview-mex-a3t.pdf](http://ceur-ws.org/Vol-2150/overview-mex-a3t.pdf)
 * Link to data: [https://mexa3t.wixsite.com/home/aggressive-detection-track](https://mexa3t.wixsite.com/home/aggressive-detection-track)
-* Task description: Binary (aggressive / not aggressive) 
+* Task description: Binary (Aggressive, Not) 
 * Details of task: Group-directed 
-* Size of dataset: 11000 
+* Size of dataset: 11,000 
 * Percentage abusive: 0.32 
 * Language: Spanish 
 * Level of annotation: Posts 
@@ -893,11 +833,9 @@ __60. Overview of MEX-A3T at IberEval 2018: Authorship and Aggressiveness Analys
 __61. Overview of the Task on Automatic Misogyny Identification at IberEval 2018 (Spanish)__
 * Link to publication: [http://ceur-ws.org/Vol-2150/overview-AMI.pdf](http://ceur-ws.org/Vol-2150/overview-AMI.pdf)
 * Link to data: [https://amiibereval2018.wordpress.com/important-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/) 
-* Task description: Binary (misogyny / not)
-5 categories of misogyny (stereotype, dominance, derailing, sexual harassment, discredit)
-Target of misogyny (active [individual directed] or passive [group directed]) 
+* Task description: Binary (Misogyny, Not), 5 categories (Stereotype, Dominance, Derailing, Sexual harassment, Discredit), Target of misogyny (Active or Passive) 
 * Details of task: Sexism 
-* Size of dataset: 4138 
+* Size of dataset: 4,138 
 * Percentage abusive: 0.5 
 * Language: Spanish 
 * Level of annotation: Posts 
@@ -908,12 +846,9 @@ Target of misogyny (active [individual directed] or passive [group directed])
 __62. hatEval, SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter (Spanish)__
 * Link to publication: [https://www.aclweb.org/anthology/S19-2007](https://www.aclweb.org/anthology/S19-2007)
 * Link to data: [competitions.codalab.org/competitions/19935](competitions.codalab.org/competitions/19935)
-* Task description: Branching structure of tasks:
-Binary (Hate, Not)
-Within Hate (Group, Individual)
-Within Hate (Agressive, Not) 
+* Task description: Branching structure of tasks: Binary (Hate, Not), Within Hate (Group, Individual), Within Hate (Agressive, Not)
 * Details of task: Group-directed + Person-directed 
-* Size of dataset: 6600 
+* Size of dataset: 6,600 
 * Percentage abusive: 0.4 
 * Language: Spanish 
 * Level of annotation: Posts 
@@ -926,10 +861,7 @@ Within Hate (Agressive, Not)
 __63. A Corpus of Turkish Offensive Language on Social Media__
 * Link to publication: [https://coltekin.github.io/offensive-turkish/troff.pdf](https://coltekin.github.io/offensive-turkish/troff.pdf)
 * Link to data: [https://sites.google.com/site/offensevalsharedtask/home](https://sites.google.com/site/offensevalsharedtask/home) 
-* Task description: Branching structure of tasks:
-Binary (Offensive, Not)
-Within Offensive (Target, Not)
-Within Target (Individual, Group, Other) 
+* Task description: Branching structure of tasks: Binary (Hate, Not), Within Hate (Group, Individual), Within Hate (Agressive, Not)
 * Details of task: Group-directed + Person-directed 
 * Size of dataset: 36232 
 * Percentage abusive: 0.19 
