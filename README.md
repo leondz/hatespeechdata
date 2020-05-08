@@ -579,7 +579,7 @@ __42. Offensive Language Identification in Greek__
 * Reference: Pitenis, Z., Zampieri, M. and Ranasinghe, T., 2020. Offensive Language Identification in Greek. ArXiv. 
 
  
- ### Hindi-English
+### Hindi-English
 __43. Aggression-annotated Corpus of Hindi-English Code-mixed Data__
 * Link to publication: [https://arxiv.org/pdf/1803.09402](https://arxiv.org/pdf/1803.09402)
 * Link to data: [https://github.com/kraiyani/Facebook-Post-Aggression-Identification](https://github.com/kraiyani/Facebook-Post-Aggression-Identification)
@@ -646,7 +646,7 @@ __47. Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Conten
 * Reference: Mandl, T., Modha, S., Majumder, P., Patel, D., Dave, M., Mandlia, C. and Patel, A., 2019. Overview of the HASOC track at FIRE 2019. In: Proceedings of the 11th Forum for Information Retrieval Evaluation,. 
 
  
- ### Indonesian
+### Indonesian
 __48. Hate Speech Detection in the Indonesian Language: A Dataset and Preliminary Study__
 * Link to publication: [https://ieeexplore.ieee.org/document/8355039](https://ieeexplore.ieee.org/document/8355039)
 * Link to data: [https://github.com/ialfina/id-hatespeech-detection](https://github.com/ialfina/id-hatespeech-detection)
@@ -757,7 +757,7 @@ __55. Creating a WhatsApp Dataset to Study Pre-teen Cyberbullying__
 * Reference: Sprugnoli, R., Menini, S., Tonelli, S., Oncini, F. and Piras, E., 2018. Creating a WhatsApp Dataset to Study Pre-teen Cyberbullying. In: Proceedings of the 2nd Workshop on Abusive Language Online (ALW2) Month: October. Brussels, Belgium: Association for Computational Linguistics, pp.51-59. 
 
  
- ### Polish
+### Polish
 __56. Results of the PolEval 2019 Shared Task 6:First Dataset and Open Shared Task for Automatic Cyberbullying Detection in Polish Twitter__
 * Link to publication: [http://poleval.pl/files/poleval2019.pdf](http://poleval.pl/files/poleval2019.pdf)
 * Link to data: [http://poleval.pl/tasks/task6](http://poleval.pl/tasks/task6)
@@ -772,7 +772,7 @@ __56. Results of the PolEval 2019 Shared Task 6:First Dataset and Open Shared Ta
 * Reference: Ogrodniczuk, M. and Kobyliński, L., 2019. Results of the PolEval 2019 Shared Task 6: First Dataset and Open Shared Task for Automatic Cyberbullying Detection in Polish Twitter. In: Proceedings of the PolEval 2019 Workshop. Warszawa: Institute of Computer Science, Polish Academy of Sciences. 
 
  
- ### Portugese
+### Portugese
 __57. A Hiierarchically-Labeled Portugese Hate Speech Dataset__
 * Link to publication: [https://www.aclweb.org/anthology/W19-3510](https://www.aclweb.org/anthology/W19-3510)
 * Link to data: [https://rdm.inesctec.pt/dataset/cs-2017-008](https://rdm.inesctec.pt/dataset/cs-2017-008)
