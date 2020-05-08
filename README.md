@@ -5,7 +5,7 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) and [Be
 
 Please make contributions via pull request or email. Accompanying [data statements](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00041) preferred for all corpora.
 
-If you use these resources, please cite (and read!) our paper: [Directions in Abusive Language Training Data: Garabge In, Garbage Out](https://arxiv.org/abs/2004.01670).
+If you use these resources, please cite (and read!) our paper: [Directions in Abusive Language Training Data: Garabge In, Garbage Out](https://arxiv.org/abs/2004.01670). And if you would like to find other resources for researching online hate, visit the Alan Turing Institute's [Online Hate Research Hub](https://www.turing.ac.uk/research/research-programmes/public-policy/online-hate-research-hub) or read the Alan Turing Institute's [Reading List on Online Hate and Abuse Research](https://docs.google.com/document/d/1WVkVGp29Jt6d-4fBnZ5OWVYuFn_03rzz-KBqPsu6gTM/edit?usp=sharing).
 
 
 ## List of datasets
@@ -553,8 +553,7 @@ https://www.aclweb.org/anthology/D17-1117)
 * Reference: Pavlopoulos, J., Malakasiotis, P. and Androutsopoulos, I., 2017. Deep Learning for User Comment Moderation. In: Proceedings of the First Workshop on Abusive Language Online. Vancouver, Canada: Association for Computational Linguistics, pp.25-35. 
 
 __41. Deep Learning for User Comment Moderation, Moderated Comments__
-* Link to publication: [https://www.aclweb.org/anthology/W17-3004](https://www.aclweb.org/anthology/W17-3004
-https://www.aclweb.org/anthology/D17-1117)
+* Link to publication: [https://www.aclweb.org/anthology/W17-3004](https://www.aclweb.org/anthology/W17-3004)
 * Link to data: [http://www.straintek.com/data/](http://www.straintek.com/data/)
 * Task description: Binary (Flagged, Not) 
 * Details of task: Flagged content 
