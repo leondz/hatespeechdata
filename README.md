@@ -579,529 +579,565 @@ __33. Ex Machina: Personal Attacks Seen at Scale, Aggression and Friendliness__
 
 
 ### French
- 34. __CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (French)__
- * Reference: Chung, Y., Kuzmenko, E., Tekiroglu, S. and Guerini, M., 2019. CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech. In: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. Florence, Italy: Association for Computational Linguistics, pp.2819-2829. 
- * Link to publication: [https://www.aclweb.org/anthology/P19-1271.pdf] (https://www.aclweb.org/anthology/P19-1271.pdf)* Link to data: https://github.com/marcoguerini/CONAN 
- * Task description: Binary (Islamophobic / not)
+__34. CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (French)__
+* Link to publication: [https://www.aclweb.org/anthology/P19-1271.pdf](https://www.aclweb.org/anthology/P19-1271.pdf)
+* Link to data: [https://github.com/marcoguerini/CONAN](https://github.com/marcoguerini/CONAN)
+* Task description: Binary (Islamophobic / not)
 Then: multi-topic: Culture, Economics, Crimes, Rapism, Terrorism, Women Oppression, History, Other/generic 
- * Details of task: Islamophobia 
- * Size of dataset: 1719 
- * Percentage abusive: 1 
- * Language: French 
- * Level of annotation: Posts 
- * Platform: Synthetic / Facebook 
- * Medium: Text 
- * Annotation process: 111 expert 'operators' from NGOs against hate speech, during 9 sessions (usually lasting 3 hours), created the synthetic posts 
- * Annotation agreement: Not relevant 
-  
- 35. __Multilingual and Multi-Aspect Hate Speech Analysis (French)__
- * Reference: Ousidhoum, N., Lin, Z., Zhang, H., Song, Y. and Yeung, D., 2019. Multilingual and Multi-Aspect Hate Speech Analysis. ArXiv,. 
- * Link to publication: [https://arxiv.org/abs/1908.11049] (https://arxiv.org/abs/1908.11049)* Link to data: https://github.com/HKUST-KnowComp/MLMA_hate_speech 
- * Task description: Detailed taxonomy with cross-cutting attributes:
+* Details of task: Islamophobia 
+* Size of dataset: 1719 
+* Percentage abusive: 1 
+* Language: French 
+* Level of annotation: Posts 
+* Platform: Synthetic / Facebook 
+* Medium: Text 
+* Annotation process: 111 expert 'operators' from NGOs against hate speech, during 9 sessions (usually lasting 3 hours), created the synthetic posts 
+* Annotation agreement: Not relevant 
+* Reference: Chung, Y., Kuzmenko, E., Tekiroglu, S. and Guerini, M., 2019. CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech. In: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. Florence, Italy: Association for Computational Linguistics, pp.2819-2829. 
+
+
+__35. Multilingual and Multi-Aspect Hate Speech Analysis (French)__
+* Link to publication: [https://arxiv.org/abs/1908.11049](https://arxiv.org/abs/1908.11049)
+* Link to data: [https://github.com/HKUST-KnowComp/MLMA_hate_speech](https://github.com/HKUST-KnowComp/MLMA_hate_speech)
+* Task description: Detailed taxonomy with cross-cutting attributes:
 HOSTILITY (Abusive, Hateful, Offensive, Disrespectful, Fearful, Normal)
 DIRECTNESS (Direct/indirect)
 Target attribute (Origin [covers race, ethnicity and nationality], Gender, Sexual Orientation, Religion, Disability, Other)
 Target Group (16 identified, of which the five most common are: Individual, Other, Women, Special needs, African Descent)
 Annotator sentiment [i.e. how the annotators felt on seeing the tweet] (Disgust, Shock, Anger, Sadness, Fear, Confusion, Indifference) 
- * Details of task: Gender, Sexual orientation, Religion, Disability 
- * Size of dataset: 4014 
- * Percentage abusive: 0.72 
- * Language: French 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: Annotators on Mechanical Turk.
+* Details of task: Gender, Sexual orientation, Religion, Disability 
+* Size of dataset: 4014 
+* Percentage abusive: 0.72 
+* Language: French 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: Annotators on Mechanical Turk.
 5 annotators per entry, with majority voting to decide final labels.
 For the more subjetive labels, all of the annotations were retained(i.e. hostility type and the annotator’s sentiment labels).
 Annotators were provided with definitions of offensive words from Urban Dictionary.
 Annotators were reminded 'not to let their personal opinions about the topics being discussed in the tweets influence their annotation decisions'.
- 
- * Annotation agreement: Krippendorf score: 0.244 
+
+* Annotation agreement: Krippendorf score: 0.244 
+* Reference: Ousidhoum, N., Lin, Z., Zhang, H., Song, Y. and Yeung, D., 2019. Multilingual and Multi-Aspect Hate Speech Analysis. ArXiv,. 
 
 
 ### German
- 36. __Measuring the Reliability of Hate Speech Annotations: The Case of the European Refugee Crisis__
- * Reference: Ross, B., Rist, M., Carbonell, G., Cabrera, B., Kurowsky, N. and Wojatzki, M., 2017. Measuring the Reliability of Hate Speech Annotations: The Case of the European Refugee Crisis. ArXiv,. 
- * Link to publication: [https://arxiv.org/pdf/1701.08118.pdf] (https://arxiv.org/pdf/1701.08118.pdf)* Link to data: https://github.com/UCSM-DUE/IWG_hatespeech_public 
- * Task description: Binary (Anti-refugee hate, None) 
- * Details of task: Refugees 
- * Size of dataset: 469 
- * Percentage abusive: NA 
- * Language: German 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: 2 annotations per tweet, from six expert annotators. Then, the second expert gives each tweet a rating based on a 6-point Likert scale (1 = Not offensive at all, 6 = Very offensive) 
- * Annotation agreement: Krippendorf alpha = 0.38 (hate/not) 
- 
- 37. __Detecting Offensive Statements Towards Foreigners in Social Media__
- * Reference: Bretschneider, U. and Peters, R., 2017. Detecting Offensive Statements towards Foreigners in Social Media. In: Proceedings of the 50th Hawaii International Conference on System Sciences. 
- * Link to publication: [https://pdfs.semanticscholar.org/23dc/df7c7e82807445afd9f19474fc0a3d8169fe.pdf] (https://pdfs.semanticscholar.org/23dc/df7c7e82807445afd9f19474fc0a3d8169fe.pdf)* Link to data: http://ub-web.de/research/ 
- * Task description: Hierarchical (Anti-foreigner prejudice: (1) slightly offensive/offensive and (2) explicitly/substantially offensive).
+__36. Measuring the Reliability of Hate Speech Annotations: The Case of the European Refugee Crisis__
+* Link to publication: [https://arxiv.org/pdf/1701.08118.pdf](https://arxiv.org/pdf/1701.08118.pdf)
+* Link to data: [https://github.com/UCSM-DUE/IWG_hatespeech_public](https://github.com/UCSM-DUE/IWG_hatespeech_public)
+* Task description: Binary (Anti-refugee hate, None) 
+* Details of task: Refugees 
+* Size of dataset: 469 
+* Percentage abusive: NA 
+* Language: German 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: 2 annotations per tweet, from six expert annotators. Then, the second expert gives each tweet a rating based on a 6-point Likert scale (1 = Not offensive at all, 6 = Very offensive) 
+* Annotation agreement: Krippendorf alpha = 0.38 (hate/not) 
+* Reference: Ross, B., Rist, M., Carbonell, G., Cabrera, B., Kurowsky, N. and Wojatzki, M., 2017. Measuring the Reliability of Hate Speech Annotations: The Case of the European Refugee Crisis. ArXiv,. 
+
+__37. Detecting Offensive Statements Towards Foreigners in Social Media__
+* Link to publication: [https://pdfs.semanticscholar.org/23dc/df7c7e82807445afd9f19474fc0a3d8169fe.pdf](https://pdfs.semanticscholar.org/23dc/df7c7e82807445afd9f19474fc0a3d8169fe.pdf)
+* Link to data: [http://ub-web.de/research/](http://ub-web.de/research/)
+* Task description: Hierarchical (Anti-foreigner prejudice: (1) slightly offensive/offensive and (2) explicitly/substantially offensive).
 6-targets: Foreigner, Government, Press, Community, Other, Unknown 
- * Details of task: Anti-foreigner prejudice 
- * Size of dataset: 5836 
- * Percentage abusive: 0.11 
- * Language: German 
- * Level of annotation: Posts 
- * Platform: Facebook 
- * Medium: Text 
- * Annotation process: 2 expert annotators. A 'consensus' annotation is computed. 
- * Annotation agreement: Cohens Kappa = 0.78, 0.73 and 068 across the 3 pages - only calculated on posts which at least one annotator annotated as offensive 
-  
- 38. __GermEval 2018__
- * Reference: Wiegand, M., Siegel, M. and Ruppenhofer, J., 2018. Overview of the GermEval 2018 Shared Task on the Identification of Offensive Language. In: Proceedings of GermEval 2018, 14th Conference on Natural Language Processing (KONVENS 2018). Vienna, Austria: Research Gate. 
- * Link to publication: [https://www.researchgate.net/publication/327914386_Overview_of_the_GermEval_2018_Shared_Task_on_the_Identification_of_Offensive_Language] (https://www.researchgate.net/publication/327914386_Overview_of_the_GermEval_2018_Shared_Task_on_the_Identification_of_Offensive_Language)* Link to data: https://github.com/uds-lsv/GermEval-2018-Data 
- * Task description: Branching structure:
+* Details of task: Anti-foreigner prejudice 
+* Size of dataset: 5836 
+* Percentage abusive: 0.11 
+* Language: German 
+* Level of annotation: Posts 
+* Platform: Facebook 
+* Medium: Text 
+* Annotation process: 2 expert annotators. A 'consensus' annotation is computed. 
+* Annotation agreement: Cohens Kappa = 0.78, 0.73 and 068 across the 3 pages - only calculated on posts which at least one annotator annotated as offensive 
+* Reference: Bretschneider, U. and Peters, R., 2017. Detecting Offensive Statements towards Foreigners in Social Media. In: Proceedings of the 50th Hawaii International Conference on System Sciences. 
+
+__38. GermEval 2018__
+ * Link to publication: [https://www.researchgate.net/publication/327914386_Overview_of_the_GermEval_2018_Shared_Task_on_the_Identification_of_Offensive_Language](https://www.researchgate.net/publication/327914386_Overview_of_the_GermEval_2018_Shared_Task_on_the_Identification_of_Offensive_Language)
+* Link to data: [https://github.com/uds-lsv/GermEval-2018-Data](https://github.com/uds-lsv/GermEval-2018-Data)
+* Task description: Branching structure:
 Binary (Offense, Other)
 3-levels within Offense (Abuse, Insult, Profanity) 
- * Details of task: Group-directed + incivility 
- * Size of dataset: 8541 
- * Percentage abusive: 0.34 
- * Language: German 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: After testing on 240 tweets, each tweet was annotated by one of the 3 experts. Very unusual strategy.  
- * Annotation agreement: Tested on 240 tweets; 3 annotators. Fleiss' Kappa = 0.66. 
- 
- 39. __Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Content Identification in Indo-European Languages__
- * Reference: Mandl, T., Modha, S., Majumder, P., Patel, D., Dave, M., Mandlia, C. and Patel, A., 2019. Overview of the HASOC track at FIRE 2019. In: Proceedings of the 11th Forum for Information Retrieval Evaluation,. 
- * Link to publication: [https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true] (https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true)* Link to data: https://hasocfire.github.io/hasoc/2019/dataset.html 
- * Task description: A: Hate / Offensive or neither;
+* Details of task: Group-directed + incivility 
+* Size of dataset: 8541 
+* Percentage abusive: 0.34 
+* Language: German 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: After testing on 240 tweets, each tweet was annotated by one of the 3 experts. Very unusual strategy.  
+* Annotation agreement: Tested on 240 tweets; 3 annotators. Fleiss' Kappa = 0.66. 
+* Reference: Wiegand, M., Siegel, M. and Ruppenhofer, J., 2018. Overview of the GermEval 2018 Shared Task on the Identification of Offensive Language. In: Proceedings of GermEval 2018, 14th Conference on Natural Language Processing (KONVENS 2018). Vienna, Austria: Research Gate. 
+
+__39. Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Content Identification in Indo-European Languages__
+* Link to publication: [https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true](https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true)
+* Link to data: [https://hasocfire.github.io/hasoc/2019/dataset.html](https://hasocfire.github.io/hasoc/2019/dataset.html)
+* Task description: A: Hate / Offensive or neither;
 B: Hatespeech, Offensive, or Profane 
- * Details of task: Group-directed + Person-directed 
- * Size of dataset: 4669 
- * Percentage abusive: 0.24 
- * Language: German 
- * Level of annotation: Posts 
- * Platform: Twitter and Facebook 
- * Medium: Text 
- * Annotation process: Students 
- * Annotation agreement: 96% 
- 
+* Details of task: Group-directed + Person-directed 
+* Size of dataset: 4669 
+* Percentage abusive: 0.24 
+* Language: German 
+* Level of annotation: Posts 
+* Platform: Twitter and Facebook 
+* Medium: Text 
+* Annotation process: Students 
+* Annotation agreement: 96% 
+* Reference: Mandl, T., Modha, S., Majumder, P., Patel, D., Dave, M., Mandlia, C. and Patel, A., 2019. Overview of the HASOC track at FIRE 2019. In: Proceedings of the 11th Forum for Information Retrieval Evaluation,. 
+
  
  ### Greek
- 40. __Deep Learning for User Comment Moderation, Flagged Comments__
- * Reference: Pavlopoulos, J., Malakasiotis, P. and Androutsopoulos, I., 2017. Deep Learning for User Comment Moderation. In: Proceedings of the First Workshop on Abusive Language Online. Vancouver, Canada: Association for Computational Linguistics, pp.25-35. 
- * Link to publication: [https://www.aclweb.org/anthology/W17-3004
-https://www.aclweb.org/anthology/D17-1117] (https://www.aclweb.org/anthology/W17-3004
-https://www.aclweb.org/anthology/D17-1117)* Link to data: http://www.straintek.com/data/ 
- * Task description: Binary (Flagged, Not) 
- * Details of task: Flagged content 
- * Size of dataset: 1450000 
- * Percentage abusive: 0.34 
- * Language: Greek 
- * Level of annotation: Posts 
- * Platform: Gazetta 
- * Medium: text 
- * Annotation process: Flagged by moderators - 2 professionals + occasional journalist help 
- * Annotation agreement: Not reported; most likely not tested 
-  
- 41. __Deep Learning for User Comment Moderation, Moderated Comments__
- * Reference: Pavlopoulos, J., Malakasiotis, P. and Androutsopoulos, I., 2017. Deep Learning for User Comment Moderation. In: Proceedings of the First Workshop on Abusive Language Online. Vancouver, Canada: Association for Computational Linguistics, pp.25-35. 
- * Link to publication: [https://www.aclweb.org/anthology/W17-3004
-https://www.aclweb.org/anthology/D17-1117] (https://www.aclweb.org/anthology/W17-3004
-https://www.aclweb.org/anthology/D17-1117)* Link to data: http://www.straintek.com/data/ 
- * Task description: Binary (Flagged, Not) 
- * Details of task: Flagged content 
- * Size of dataset: 1500 
- * Percentage abusive: 0.22 
- * Language: Greek 
- * Level of annotation: Posts 
- * Platform: Gazetta 
- * Medium: text 
- * Annotation process: 5 annotators re-annotated the dataset 
- * Annotation agreement: 0.4762 Krippendorf Alpha
+__40. Deep Learning for User Comment Moderation, Flagged Comments__
+* Link to publication: [https://www.aclweb.org/anthology/W17-3004](https://www.aclweb.org/anthology/W17-3004
+https://www.aclweb.org/anthology/D17-1117)
+* Link to data: [http://www.straintek.com/data/](http://www.straintek.com/data/)
+* Task description: Binary (Flagged, Not) 
+* Details of task: Flagged content 
+* Size of dataset: 1450000 
+* Percentage abusive: 0.34 
+* Language: Greek 
+* Level of annotation: Posts 
+* Platform: Gazetta 
+* Medium: text 
+* Annotation process: Flagged by moderators - 2 professionals + occasional journalist help 
+* Annotation agreement: Not reported; most likely not tested 
+* Reference: Pavlopoulos, J., Malakasiotis, P. and Androutsopoulos, I., 2017. Deep Learning for User Comment Moderation. In: Proceedings of the First Workshop on Abusive Language Online. Vancouver, Canada: Association for Computational Linguistics, pp.25-35. 
+
+__41. Deep Learning for User Comment Moderation, Moderated Comments__
+* Link to publication: [https://www.aclweb.org/anthology/W17-3004](https://www.aclweb.org/anthology/W17-3004
+https://www.aclweb.org/anthology/D17-1117)
+* Link to data: [http://www.straintek.com/data/](http://www.straintek.com/data/)* Task description: Binary (Flagged, Not) 
+* Details of task: Flagged content 
+* Size of dataset: 1500 
+* Percentage abusive: 0.22 
+* Language: Greek 
+* Level of annotation: Posts 
+* Platform: Gazetta 
+* Medium: text 
+* Annotation process: 5 annotators re-annotated the dataset 
+* Annotation agreement: 0.4762 Krippendorf Alpha
 0.4749 mean pairwise Cohen's Kappa
 81.33% average pairwise agreement 
-  
- 42. __Offensive Language Identification in Greek__
- * Reference: Pitenis, Z., Zampieri, M. and Ranasinghe, T., 2020. Offensive Language Identification in Greek. ArXiv. 
- * Link to publication: [https://arxiv.org/pdf/2003.07459v1.pdf] (https://arxiv.org/pdf/2003.07459v1.pdf)* Link to data: https://sites.google.com/site/offensevalsharedtask/home 
- * Task description: Branching structure of tasks:
+* Reference: Pavlopoulos, J., Malakasiotis, P. and Androutsopoulos, I., 2017. Deep Learning for User Comment Moderation. In: Proceedings of the First Workshop on Abusive Language Online. Vancouver, Canada: Association for Computational Linguistics, pp.25-35. 
+
+__42. Offensive Language Identification in Greek__
+* Link to publication: [https://arxiv.org/pdf/2003.07459v1.pdf](https://arxiv.org/pdf/2003.07459v1.pdf)
+* Link to data: [https://sites.google.com/site/offensevalsharedtask/home](https://sites.google.com/site/offensevalsharedtask/home)
+* Task description: Branching structure of tasks:
 Binary (Offensive, Not)
 Within Offensive (Target, Not)
 Within Target (Individual, Group, Other) 
- * Details of task: Group-directed + Person-directed 
- * Size of dataset: 4779 
- * Percentage abusive: 0.29 
- * Language: Greek 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: Three volunteers, pairwise comparisons 
- * Annotation agreement: unclear 
- 
+* Details of task: Group-directed + Person-directed 
+* Size of dataset: 4779 
+* Percentage abusive: 0.29 
+* Language: Greek 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: Three volunteers, pairwise comparisons 
+* Annotation agreement: unclear 
+* Reference: Pitenis, Z., Zampieri, M. and Ranasinghe, T., 2020. Offensive Language Identification in Greek. ArXiv. 
+
  
  ### Hindi-English
- 43. __Aggression-annotated Corpus of Hindi-English Code-mixed Data__
- * Reference: Kumar, R., Reganti, A., Bhatia, A. and Maheshwari, T., 2018. Aggression-annotated Corpus of Hindi-English Code-mixed Data. ArXiv,. 
- * Link to publication: [https://arxiv.org/pdf/1803.09402] (https://arxiv.org/pdf/1803.09402)* Link to data: https://github.com/kraiyani/Facebook-Post-Aggression-Identification 
- * Task description: 3-part hierachy for hate (None, Covert Aggression, Overt Aggression) & 4-part target categorisation (Physical threat, Sexual threat, Identity threat, Non-threatening aggression) & 3-part discursive role categorisation (Attack, Defend, Abet) 
- * Details of task: Numerous sub-categorizations 
- * Size of dataset: 18000 
- * Percentage abusive: 0.06 
- * Language: Hindi-English 
- * Level of annotation: Posts 
- * Platform: Facebook 
- * Medium: Text 
- * Annotation process: 
+__43. Aggression-annotated Corpus of Hindi-English Code-mixed Data__
+* Link to publication: [https://arxiv.org/pdf/1803.09402](https://arxiv.org/pdf/1803.09402)
+* Link to data: [https://github.com/kraiyani/Facebook-Post-Aggression-Identification](https://github.com/kraiyani/Facebook-Post-Aggression-Identification)
+* Task description: 3-part hierachy for hate (None, Covert Aggression, Overt Aggression) & 4-part target categorisation (Physical threat, Sexual threat, Identity threat, Non-threatening aggression) & 3-part discursive role categorisation (Attack, Defend, Abet) 
+* Details of task: Numerous sub-categorizations 
+* Size of dataset: 18000 
+* Percentage abusive: 0.06 
+* Language: Hindi-English 
+* Level of annotation: Posts 
+* Platform: Facebook 
+* Medium: Text 
+* Annotation process: 
 The actual work (~40k comments) was done by 4 expert annotators (PhD students in Linguistics) - native Hindi + native-like English competence.
 Testing of the annotation taxaonomy was done on CF and with experts. 
- * Annotation agreement: Using CrowdFlower, each tweet was annotated by 3 annotators (77 annotators took part in total). Testing was conducted on 1,100 test instances. 72% agreement for (Overt/Covert/None) and for the other categories (10-classes), agreement was 57%. 
-  
- 44. __Aggression-annotated Corpus of Hindi-English Code-mixed Data__
- * Reference: Kumar, R., Reganti, A., Bhatia, A. and Maheshwari, T., 2018. Aggression-annotated Corpus of Hindi-English Code-mixed Data. ArXiv,. 
- * Link to publication: [https://arxiv.org/pdf/1803.09402] (https://arxiv.org/pdf/1803.09402)* Link to data: https://github.com/kraiyani/Facebook-Post-Aggression-Identification 
- * Task description: 3-part hierachy for hate (None, Covert Aggression, Overt Aggression) & 4-part target (Physical threat, Sexual threat, Identity threat, Non-threatening aggression) & 3-part discursive roles (Attack, Defend, Abet) 
- * Details of task: Numerous sub-categorizations 
- * Size of dataset: 21000 
- * Percentage abusive: 0.27 
- * Language: Hindi-English 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: 
+* Annotation agreement: Using CrowdFlower, each tweet was annotated by 3 annotators (77 annotators took part in total). Testing was conducted on 1,100 test instances. 72% agreement for (Overt/Covert/None) and for the other categories (10-classes), agreement was 57%. 
+* Reference: Kumar, R., Reganti, A., Bhatia, A. and Maheshwari, T., 2018. Aggression-annotated Corpus of Hindi-English Code-mixed Data. ArXiv,. 
+
+__44. Aggression-annotated Corpus of Hindi-English Code-mixed Data__
+* Link to publication: [https://arxiv.org/pdf/1803.09402](https://arxiv.org/pdf/1803.09402)
+* Link to data: [https://github.com/kraiyani/Facebook-Post-Aggression-Identification](https://github.com/kraiyani/Facebook-Post-Aggression-Identification)
+* Task description: 3-part hierachy for hate (None, Covert Aggression, Overt Aggression) & 4-part target (Physical threat, Sexual threat, Identity threat, Non-threatening aggression) & 3-part discursive roles (Attack, Defend, Abet) 
+* Details of task: Numerous sub-categorizations 
+* Size of dataset: 21000 
+* Percentage abusive: 0.27 
+* Language: Hindi-English 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: 
 The actual work (~40k comments) was done by 4 expert annotators (PhD students in Linguistics) - native Hindi + native-like English competence.
 Testing of the annotation taxaonomy was done on CF and with experts. 
- * Annotation agreement: Using CrowdFlower, each tweet was annotated by 3 annotators (77 annotators took part in total). Testing was conducted on 1,100 test instances. 72% agreement for (Overt/Covert/None) and for the other categories (10-classes), agreement was 57%. 
-  
- 45. __Did You Offend Me? Classification of Offensive Tweets in Hinglish Language__
- * Reference: Mathur, P., Sawhney, R., Ayyar, M. and Shah, R., 2018. Did you offend me? Classification of Offensive Tweets in Hinglish Language. In: Proceedings of the 2nd Workshop on Abusive Language Online (ALW2). Brussels, Belgium: Association for Computational Linguistics, pp.138-148. 
- * Link to publication: [https://www.aclweb.org/anthology/W18-5118] (https://www.aclweb.org/anthology/W18-5118)* Link to data: https://github.com/pmathur5k10/Hinglish-Offensive-Text-Classification 
- * Task description: Hierarchy (Not Offensive, Abusive, Hate) 
- * Details of task: Sexism 
- * Size of dataset: 3189 
- * Percentage abusive: 0.65 
- * Language: Hindi-English 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: 3 experts in NLP annotated all of the tweets. Majority decision (2/3 accepted). In case of disagreement (i.e. all 3 pick something different), additiional expert make the decision - this happened in 386 tweets. 
- * Annotation agreement: average Cohen's kappa = 0.83 
-  
- 46. __A Dataset of Hindi-English Code-Mixed Social Media Text for Hate Speech Detection__
- * Reference: Bohra, A., Vijay, D., Singh, V., Sarfaraz Akhtar, S. and Shrivastava, M., 2018. A Dataset of Hindi-English Code-Mixed Social Media Text for Hate Speech Detection. In: Proceedings of the Second Workshop on Computational Modeling of People’s Opinions, Personality, and Emotions in Social Media. New Orleans, Louisiana: Association for Computational Linguistics, pp.36-41. 
- * Link to publication: [https://www.aclweb.org/anthology/W18-1105] (https://www.aclweb.org/anthology/W18-1105)* Link to data: https://github.com/deepanshu1995/HateSpeech-Hindi-English-Code-Mixed-Social-Media-Text 
- * Task description: Binary (Hate, Not) 
- * Details of task: Hate per se 
- * Size of dataset: 4575 
- * Percentage abusive: 0.36 
- * Language: Hindi-English 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: 2 expert annotators with experience in Hindi and English. They were given a set of 50 tweets (25 hate and 25 non hate) to make their annotations. 
- * Annotation agreement: Kappa = 0.982 
-  
- 47. __Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Content Identification in Indo-European Languages__
- * Reference: Mandl, T., Modha, S., Majumder, P., Patel, D., Dave, M., Mandlia, C. and Patel, A., 2019. Overview of the HASOC track at FIRE 2019. In: Proceedings of the 11th Forum for Information Retrieval Evaluation,. 
- * Link to publication: [https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true] (https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true)* Link to data: https://hasocfire.github.io/hasoc/2019/dataset.html 
- * Task description: A: Hate / Offensive or neither;
+* Annotation agreement: Using CrowdFlower, each tweet was annotated by 3 annotators (77 annotators took part in total). Testing was conducted on 1,100 test instances. 72% agreement for (Overt/Covert/None) and for the other categories (10-classes), agreement was 57%. 
+* Reference: Kumar, R., Reganti, A., Bhatia, A. and Maheshwari, T., 2018. Aggression-annotated Corpus of Hindi-English Code-mixed Data. ArXiv,. 
+   
+__45. Did You Offend Me? Classification of Offensive Tweets in Hinglish Language__
+* Link to publication: [https://www.aclweb.org/anthology/W18-5118](https://www.aclweb.org/anthology/W18-5118)
+* Link to data: [https://github.com/pmathur5k10/Hinglish-Offensive-Text-Classification](https://github.com/pmathur5k10/Hinglish-Offensive-Text-Classification)
+* Task description: Hierarchy (Not Offensive, Abusive, Hate) 
+* Details of task: Sexism 
+* Size of dataset: 3189 
+* Percentage abusive: 0.65 
+* Language: Hindi-English 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: 3 experts in NLP annotated all of the tweets. Majority decision (2/3 accepted). In case of disagreement (i.e. all 3 pick something different), additiional expert make the decision - this happened in 386 tweets. 
+* Annotation agreement: average Cohen's kappa = 0.83 
+* Reference: Mathur, P., Sawhney, R., Ayyar, M. and Shah, R., 2018. Did you offend me? Classification of Offensive Tweets in Hinglish Language. In: Proceedings of the 2nd Workshop on Abusive Language Online (ALW2). Brussels, Belgium: Association for Computational Linguistics, pp.138-148. 
+
+__46. A Dataset of Hindi-English Code-Mixed Social Media Text for Hate Speech Detection__
+* Link to publication: [https://www.aclweb.org/anthology/W18-1105](https://www.aclweb.org/anthology/W18-1105)
+* Link to data: [https://github.com/deepanshu1995/HateSpeech-Hindi-English-Code-Mixed-Social-Media-Text](https://github.com/deepanshu1995/HateSpeech-Hindi-English-Code-Mixed-Social-Media-Text)
+* Task description: Binary (Hate, Not) 
+* Details of task: Hate per se 
+* Size of dataset: 4575 
+* Percentage abusive: 0.36 
+* Language: Hindi-English 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: 2 expert annotators with experience in Hindi and English. They were given a set of 50 tweets (25 hate and 25 non hate) to make their annotations. 
+* Annotation agreement: Kappa = 0.982 
+* Reference: Bohra, A., Vijay, D., Singh, V., Sarfaraz Akhtar, S. and Shrivastava, M., 2018. A Dataset of Hindi-English Code-Mixed Social Media Text for Hate Speech Detection. In: Proceedings of the Second Workshop on Computational Modeling of People’s Opinions, Personality, and Emotions in Social Media. New Orleans, Louisiana: Association for Computational Linguistics, pp.36-41. 
+
+__47. Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Content Identification in Indo-European Languages__
+* Link to publication: [https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true](https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true)
+* Link to data: [https://hasocfire.github.io/hasoc/2019/dataset.htm](https://hasocfire.github.io/hasoc/2019/dataset.html)
+* Task description: A: Hate / Offensive or neither;
 B: Hatespeech, Offensive, or Profane;
 C: Targeted or Untargeted 
- * Details of task: Group-directed + Person-directed 
- * Size of dataset: 5983 
- * Percentage abusive: 0.51 
- * Language: Hindi 
- * Level of annotation: Posts 
- * Platform: Twitter and Facebook 
- * Medium: Text 
- * Annotation process: Students 
- * Annotation agreement: 83% 
- 
+* Details of task: Group-directed + Person-directed 
+* Size of dataset: 5983 
+* Percentage abusive: 0.51 
+* Language: Hindi 
+* Level of annotation: Posts 
+* Platform: Twitter and Facebook 
+* Medium: Text 
+* Annotation process: Students 
+* Annotation agreement: 83% 
+* Reference: Mandl, T., Modha, S., Majumder, P., Patel, D., Dave, M., Mandlia, C. and Patel, A., 2019. Overview of the HASOC track at FIRE 2019. In: Proceedings of the 11th Forum for Information Retrieval Evaluation,. 
+
  
  ### Indonesian
- 48. __Hate Speech Detection in the Indonesian Language: A Dataset and Preliminary Study__
- * Reference: Alfina, I., Mulia, R., Fanany, M. and Ekanata, Y., 2017. Hate Speech Detection in the Indonesian Language: A Dataset and Preliminary Study. In: International Conference on Advanced Computer Science and Information Systems. pp.233-238. 
- * Link to publication: [https://ieeexplore.ieee.org/document/8355039] (https://ieeexplore.ieee.org/document/8355039)* Link to data: https://github.com/ialfina/id-hatespeech-detection 
- * Task description: Binary (Hate, Not) 
- * Details of task: Hate per se 
- * Size of dataset: 713 
- * Percentage abusive: 0.36 
- * Language: Indonesian 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: 3 annotators per tweet from a team of 30 volunteers.
+__48. Hate Speech Detection in the Indonesian Language: A Dataset and Preliminary Study__
+* Link to publication: [https://ieeexplore.ieee.org/document/8355039](https://ieeexplore.ieee.org/document/8355039)
+* Link to data: [https://github.com/ialfina/id-hatespeech-detection](https://github.com/ialfina/id-hatespeech-detection)
+* Task description: Binary (Hate, Not) 
+* Details of task: Hate per se 
+* Size of dataset: 713 
+* Percentage abusive: 0.36 
+* Language: Indonesian 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: 3 annotators per tweet from a team of 30 volunteers.
 22 sets of 50 tweets created; each set was annotated by different teams, with diverse members (based on religious, racial and gender backgrounds).
 Annotators trained to ensure they understand the definition of hate speech that they were given.
 Only 100% agreement tweets retained. This reduced the size from 1,100 tweets to 713 
- * Annotation agreement: 64.8% of tweets there was 100% agreement 
-  
- 49. __Multi-Label Hate Speech and Abusive Language Detection in Indonesian Twitter__
- * Reference: Okky Ibrohim, M. and Budi, I., 2019. Multi-label Hate Speech and Abusive Language Detection in Indonesian Twitter. In: Proceedings of the Third Workshop on Abusive Language Online. Florence, Italy: Association for Computational Linguistics, pp.46-57. 
- * Link to publication: [https://www.aclweb.org/anthology/W19-3506] (https://www.aclweb.org/anthology/W19-3506)* Link to data: https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection 
- * Task description: Four-levels (No hate speech, no hate speech but abusive, hate speech but no abuse, hate speech and abuse)
+* Annotation agreement: 64.8% of tweets there was 100% agreement 
+* Reference: Alfina, I., Mulia, R., Fanany, M. and Ekanata, Y., 2017. Hate Speech Detection in the Indonesian Language: A Dataset and Preliminary Study. In: International Conference on Advanced Computer Science and Information Systems. pp.233-238. 
+
+
+__49. Multi-Label Hate Speech and Abusive Language Detection in Indonesian Twitter__
+* Link to publication: [https://www.aclweb.org/anthology/W19-3506](https://www.aclweb.org/anthology/W19-3506)
+* Link to data: [https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection](https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection)
+* Task description: Four-levels (No hate speech, no hate speech but abusive, hate speech but no abuse, hate speech and abuse)
 Within hate there are 5 categories (content can be split into multiple of the first four): (1) Religion/creed, (2) Race/ethnicity, (3) Physical/disability, (4) Gender/sexual orientation, (5) Other invective/slander
 Within hate there are also 5 strengths: Weak, Moderate and Strong 
- * Details of task: Religion, Race, Diab 
- * Size of dataset: 13169 
- * Percentage abusive: 0.42 
- * Language: Indonesian 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: Crowdsourcing, implemented in two phases.
+* Details of task: Religion, Race, Diab 
+* Size of dataset: 13169 
+* Percentage abusive: 0.42 
+* Language: Indonesian 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: Crowdsourcing, implemented in two phases.
 First: annotate whether tweets are hate/abuse or not
 Second: annotate for target, categories and levels.
 30 crowdsourced annotators used in total. 3 annotators per tweet.
 Only 100% agreement retained for the binary task.
 Majority decision (2/3) used for the second task.
 Gold standard questions were created by a trained linguist.
- 
- * Annotation agreement: Binary decisions (hate speech/abusive or not): 68.44% - 11,292 out of 16,500 tweets (originally collected + harvested from prior datasets) have 100% agreement
+
+* Annotation agreement: Binary decisions (hate speech/abusive or not): 68.44% - 11,292 out of 16,500 tweets (originally collected + harvested from prior datasets) have 100% agreement
 Second task (Categories + strengths): 97.56% have either 2/3 agreement or 100% (139 are removed when disagreement is greater than this) 
-  
- 50. __A Dataset and Preliminaries Study for Abusive Language Detection in Indonesian Social Media__
- * Reference: Ibrohim, M. and Budi, I., 2018. A Dataset and Preliminaries Study for Abusive Language Detection in Indonesian Social Media. Procedia Computer Science, 135, pp.222-229. 
- * Link to publication: [https://www.sciencedirect.com/science/article/pii/S1877050918314583] (https://www.sciencedirect.com/science/article/pii/S1877050918314583)* Link to data: https://github.com/okkyibrohim/id-abusive-language-detection 
- * Task description: Hierarchical (Not abusive, Abusive but not offensive, Offensive) 
- * Details of task: Incivility 
- * Size of dataset: 2016 
- * Percentage abusive: 0.54 
- * Language: Indonesian 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: Each tweet was labelled by 3 people. There were 20 volunteer annotators - 'To ensure that annotators understand for they task, we make an annotation guide and explaining that annotation guide to the annotators' (p. 226) 
- * Annotation agreement: Only 100% retained; in 80.6% of cases there was 100% agreement 
+* Reference: Okky Ibrohim, M. and Budi, I., 2019. Multi-label Hate Speech and Abusive Language Detection in Indonesian Twitter. In: Proceedings of the Third Workshop on Abusive Language Online. Florence, Italy: Association for Computational Linguistics, pp.46-57. 
+
+ __50. A Dataset and Preliminaries Study for Abusive Language Detection in Indonesian Social Media__
+* Link to publication: [https://www.sciencedirect.com/science/article/pii/S1877050918314583](https://www.sciencedirect.com/science/article/pii/S1877050918314583)
+* Link to data: [https://github.com/okkyibrohim/id-abusive-language-detection](https://github.com/okkyibrohim/id-abusive-language-detection)
+* Task description: Hierarchical (Not abusive, Abusive but not offensive, Offensive) 
+* Details of task: Incivility 
+* Size of dataset: 2016 
+* Percentage abusive: 0.54 
+* Language: Indonesian 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: Each tweet was labelled by 3 people. There were 20 volunteer annotators - 'To ensure that annotators understand for they task, we make an annotation guide and explaining that annotation guide to the annotators' (p. 226) 
+* Annotation agreement: Only 100% retained; in 80.6% of cases there was 100% agreement 
+* Reference: Ibrohim, M. and Budi, I., 2018. A Dataset and Preliminaries Study for Abusive Language Detection in Indonesian Social Media. Procedia Computer Science, 135, pp.222-229. 
+
  
- 
- ### Italian
- 51. __An Italian Twitter Corpus of Hate Speech against Immigrants__
- * Reference: Sanguinetti, M., Poletto, F., Bosco, C., Patti, V. and Stranisci, M., 2018. An Italian Twitter Corpus of Hate Speech against Immigrants. In: Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018). Miyazaki, Japan: European Language Resources Association (ELRA). 
- * Link to publication: [https://www.aclweb.org/anthology/L18-1443] (https://www.aclweb.org/anthology/L18-1443)* Link to data: https://github.com/msang/hate-speech-corpus 
- * Task description: Binary target: Immigrants, Roma and Muslims [combined]. AND Multi-thematic categories are identified. Hate is also measured by intensity, making it hiearchical (Hate: no/yes, Aggressiveness: no/weak/strong, Offensiveness: no/weak/strong, Irony: no/yes, Stereotype: no/yes, Incitement degree: 0-4) 
- * Details of task: Immigrants, Roma and Muslims 
- * Size of dataset: 1827 
- * Percentage abusive: 0.13 
- * Language: Italian 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: 3,154 annotated by experts (2 per tweet) and then 2,855 annotated by CF (3+ per tweet). Crowdflower annotators are assessed for minimum reliability (65% required) - five annotators did more than 90% of the work 
- * Annotation agreement: Experts (Cohen's K): hs (0.45), aggression (0.45), irony (0.32), stereotypes (0.41), intensity (0.21)
+### Italian
+__51. An Italian Twitter Corpus of Hate Speech against Immigrants__
+* Link to publication: [https://www.aclweb.org/anthology/L18-1443](https://www.aclweb.org/anthology/L18-1443)
+* Link to data: [https://github.com/msang/hate-speech-corpus](https://github.com/msang/hate-speech-corpus)
+* Task description: Binary target: Immigrants, Roma and Muslims [combined]. AND Multi-thematic categories are identified. Hate is also measured by intensity, making it hiearchical (Hate: no/yes, Aggressiveness: no/weak/strong, Offensiveness: no/weak/strong, Irony: no/yes, Stereotype: no/yes, Incitement degree: 0-4) 
+* Details of task: Immigrants, Roma and Muslims 
+* Size of dataset: 1827 
+* Percentage abusive: 0.13 
+* Language: Italian 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: 3,154 annotated by experts (2 per tweet) and then 2,855 annotated by CF (3+ per tweet). Crowdflower annotators are assessed for minimum reliability (65% required) - five annotators did more than 90% of the work 
+* Annotation agreement: Experts (Cohen's K): hs (0.45), aggression (0.45), irony (0.32), stereotypes (0.41), intensity (0.21)
 CF (Krippendorf's Alpha): hs (0.38), aggression (0.25), irony (0.12), stereotypes (0.20), intensity (0.31) 
+* Reference: Sanguinetti, M., Poletto, F., Bosco, C., Patti, V. and Stranisci, M., 2018. An Italian Twitter Corpus of Hate Speech against Immigrants. In: Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018). Miyazaki, Japan: European Language Resources Association (ELRA). 
   
- 52. __Overview of the EVALITA 2018 Hate Speech Detection Task (Facebook)__
- * Reference: Bosco, C., Dell'Orletta, F. and Poletto, F., 2018. Overview of the EVALITA 2018 Hate Speech Detection Task. In: EVALITA 2018-Sixth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. CEUR, pp.1-9. 
- * Link to publication: [http://ceur-ws.org/Vol-2263/paper010.pdf] (http://ceur-ws.org/Vol-2263/paper010.pdf)* Link to data: http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html 
- * Task description: Binary (Hate / not)
+__52. Overview of the EVALITA 2018 Hate Speech Detection Task (Facebook)__
+* Link to publication: [http://ceur-ws.org/Vol-2263/paper010.pdf](http://ceur-ws.org/Vol-2263/paper010.pdf)
+* Link to data: [http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html](http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html)
+* Task description: Binary (Hate / not)
 
 Other variables, not used in the competition but described in the data:
 
 Within hate for FACEBOOK only: (1) No hate, (2) Weak Hate, (3) Strong Hate
 Within hate for FACEBOOK only: (1) religion, (2) physical and/or mental handicap, (3) socio-economic status, (4) politics, (5) race, (6) sex and gender, (7) Other 
- * Details of task: Religion, physical and/or mental handicap, socio-economic status, politics, race, sex and gender 
- * Size of dataset: 4000 
- * Percentage abusive: 0.51 
- * Language: Italian 
- * Level of annotation: Posts 
- * Platform: Facebook 
- * Medium: Text 
- * Annotation process: Facebook:
+* Details of task: Religion, physical and/or mental handicap, socio-economic status, politics, race, sex and gender 
+* Size of dataset: 4000 
+* Percentage abusive: 0.51 
+* Language: Italian 
+* Level of annotation: Posts 
+* Platform: Facebook 
+* Medium: Text 
+* Annotation process: Facebook:
 5 bachelor students annotated comments.
 3,865 received at least 3 annotations. 
- * Annotation agreement: Not given 
-  
- 53. __Overview of the EVALITA 2018 Hate Speech Detection Task (Twitter)__
- * Reference: Bosco, C., Dell'Orletta, F. and Poletto, F., 2018. Overview of the EVALITA 2018 Hate Speech Detection Task. In: EVALITA 2018-Sixth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. CEUR, pp.1-9. 
- * Link to publication: [http://ceur-ws.org/Vol-2263/paper010.pdf] (http://ceur-ws.org/Vol-2263/paper010.pdf)* Link to data: http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html 
- * Task description: Binary (Hate / not)
+* Annotation agreement: Not given 
+* Reference: Bosco, C., Dell'Orletta, F. and Poletto, F., 2018. Overview of the EVALITA 2018 Hate Speech Detection Task. In: EVALITA 2018-Sixth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. CEUR, pp.1-9. 
+
+
+__53. Overview of the EVALITA 2018 Hate Speech Detection Task (Twitter)__
+* Link to publication: [http://ceur-ws.org/Vol-2263/paper010.pdf](http://ceur-ws.org/Vol-2263/paper010.pdf)
+* Link to data: [http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html](http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html) 
+* Task description: Binary (Hate / not)
 
 Other variables, not used in the competition but described in the data:
 
 Within hate for TWITTER only: 1-4 rating of intensity
 Within hate for TWITTER only: Aggressiveness (no, weak, strong), Offensiveness (no, weak, strong), Irony (yes, no) 
- * Details of task: Group-directed 
- * Size of dataset: 4000 
- * Percentage abusive: 0.32 
- * Language: Italian 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: 
+* Details of task: Group-directed 
+* Size of dataset: 4000 
+* Percentage abusive: 0.32 
+* Language: Italian 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: 
 Twitter:
 Mix of Crowdflower and experts (the breakdown between the two is not explained) 
- * Annotation agreement: Not given 
-  
- 54. __CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (Italian)__
- * Reference: Chung, Y., Kuzmenko, E., Tekiroglu, S. and Guerini, M., 2019. CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech. In: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. Florence, Italy: Association for Computational Linguistics, pp.2819-2829. 
- * Link to publication: [https://www.aclweb.org/anthology/P19-1271.pdf] (https://www.aclweb.org/anthology/P19-1271.pdf)* Link to data: https://github.com/marcoguerini/CONAN 
- * Task description: Binary (Islamophobic / not)
+* Annotation agreement: Not given 
+* Reference: Bosco, C., Dell'Orletta, F. and Poletto, F., 2018. Overview of the EVALITA 2018 Hate Speech Detection Task. In: EVALITA 2018-Sixth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. CEUR, pp.1-9. 
+
+__54. CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (Italian)__
+* Link to publication: [https://www.aclweb.org/anthology/P19-1271.pdf](https://www.aclweb.org/anthology/P19-1271.pdf)
+* Link to data: [https://github.com/marcoguerini/CONAN](https://github.com/marcoguerini/CONAN)
+* Task description: Binary (Islamophobic / not)
 Then: multi-topic: Culture, Economics, Crimes, Rapism, Terrorism, Women Oppression, History, Other/generic 
- * Details of task: Islamophobia 
- * Size of dataset: 1071 
- * Percentage abusive: 1 
- * Language: Italian 
- * Level of annotation: Posts 
- * Platform: Synthetic / Facebook 
- * Medium: Text 
- * Annotation process: 111 expert 'operators' from NGOs against hate speech, during 9 sessions (usually lasting 3 hours), created the synthetic posts 
- * Annotation agreement: Not relevant 
-  
- 55. __Creating a WhatsApp Dataset to Study Pre-teen Cyberbullying__
- * Reference: Sprugnoli, R., Menini, S., Tonelli, S., Oncini, F. and Piras, E., 2018. Creating a WhatsApp Dataset to Study Pre-teen Cyberbullying. In: Proceedings of the 2nd Workshop on Abusive Language Online (ALW2) Month: October. Brussels, Belgium: Association for Computational Linguistics, pp.51-59. 
- * Link to publication: [https://www.aclweb.org/anthology/W18-5107] (https://www.aclweb.org/anthology/W18-5107)* Link to data: https://github.com/dhfbk/WhatsApp-Dataset 
- * Task description: Binary (Cyberbullying, Not) 
- * Details of task: Person-directed 
- * Size of dataset: 14600 
- * Percentage abusive: 0.08 
- * Language: Italian 
- * Level of annotation: Posts, structured into 10 chats, with token level information 
- * Platform: Synthetic / Whatsapp 
- * Medium: Text 
- * Annotation process: The chats were developed synthetically, by children using Whatsapp as a form of role-play (each given roles with one researcher as the victim). Then, they were annotated by the researchers. 
- * Annotation agreement: Dice coefficient: 0.8 (based on one chat of 1,000 tokens) 
- 
+* Details of task: Islamophobia 
+* Size of dataset: 1071 
+* Percentage abusive: 1 
+* Language: Italian 
+* Level of annotation: Posts 
+* Platform: Synthetic / Facebook 
+* Medium: Text 
+* Annotation process: 111 expert 'operators' from NGOs against hate speech, during 9 sessions (usually lasting 3 hours), created the synthetic posts 
+* Annotation agreement: Not relevant 
+* Reference: Chung, Y., Kuzmenko, E., Tekiroglu, S. and Guerini, M., 2019. CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech. In: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. Florence, Italy: Association for Computational Linguistics, pp.2819-2829. 
+
+
+__55. Creating a WhatsApp Dataset to Study Pre-teen Cyberbullying__
+* Link to publication: [https://www.aclweb.org/anthology/W18-5107](https://www.aclweb.org/anthology/W18-5107)
+* Link to data: [https://github.com/dhfbk/WhatsApp-Dataset](https://github.com/dhfbk/WhatsApp-Dataset)
+* Task description: Binary (Cyberbullying, Not) 
+* Details of task: Person-directed 
+* Size of dataset: 14600 
+* Percentage abusive: 0.08 
+* Language: Italian 
+* Level of annotation: Posts, structured into 10 chats, with token level information 
+* Platform: Synthetic / Whatsapp 
+* Medium: Text 
+* Annotation process: The chats were developed synthetically, by children using Whatsapp as a form of role-play (each given roles with one researcher as the victim). Then, they were annotated by the researchers. 
+* Annotation agreement: Dice coefficient: 0.8 (based on one chat of 1,000 tokens) 
+* Reference: Sprugnoli, R., Menini, S., Tonelli, S., Oncini, F. and Piras, E., 2018. Creating a WhatsApp Dataset to Study Pre-teen Cyberbullying. In: Proceedings of the 2nd Workshop on Abusive Language Online (ALW2) Month: October. Brussels, Belgium: Association for Computational Linguistics, pp.51-59. 
+
  
  ### Polish
- 56. __Results of the PolEval 2019 Shared Task 6:First Dataset and Open Shared Task for Automatic Cyberbullying Detection in Polish Twitter__
- * Reference: Ogrodniczuk, M. and Kobyliński, L., 2019. Results of the PolEval 2019 Shared Task 6: First Dataset and Open Shared Task for Automatic Cyberbullying Detection in Polish Twitter. In: Proceedings of the PolEval 2019 Workshop. Warszawa: Institute of Computer Science, Polish Academy of Sciences. 
- * Link to publication: [http://poleval.pl/files/poleval2019.pdf] (http://poleval.pl/files/poleval2019.pdf)* Link to data: http://poleval.pl/tasks/task6 
- * Task description: Harmfulness score, three values;
+__56. Results of the PolEval 2019 Shared Task 6:First Dataset and Open Shared Task for Automatic Cyberbullying Detection in Polish Twitter__
+* Link to publication: [http://poleval.pl/files/poleval2019.pdf](http://poleval.pl/files/poleval2019.pdf)
+* Link to data: [http://poleval.pl/tasks/task6](http://poleval.pl/tasks/task6)
+* Task description: Harmfulness score, three values;
 Multilabel from seven phenomena;
 Specific phrase in the text conveying the phenomena/om 
- * Details of task: Person-directed 
- * Size of dataset: 10041 
- * Percentage abusive: 0.09 
- * Language: Polish 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: Two annotators label each doc, mixture of annotators, ties broken by senior annotator 
- * Annotation agreement: 0.9138 
-  
+* Details of task: Person-directed 
+* Size of dataset: 10041 
+* Percentage abusive: 0.09 
+* Language: Polish 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: Two annotators label each doc, mixture of annotators, ties broken by senior annotator 
+* Annotation agreement: 0.9138 
+* Reference: Ogrodniczuk, M. and Kobyliński, L., 2019. Results of the PolEval 2019 Shared Task 6: First Dataset and Open Shared Task for Automatic Cyberbullying Detection in Polish Twitter. In: Proceedings of the PolEval 2019 Workshop. Warszawa: Institute of Computer Science, Polish Academy of Sciences. 
+
  
  ### Portugese
- 57. __A Hiierarchically-Labeled Portugese Hate Speech Dataset__
- * Reference: Fortuna, P., Rocha da Silva, J., Soler-Company, J., Warner, L. and Nunes, S., 2019. A Hierarchically-Labeled Portuguese Hate Speech Dataset. In: Proceedings of the Third Workshop on Abusive Language Online. Florence, Italy: Association for Computational Linguistics, pp.94-104. 
- * Link to publication: [https://www.aclweb.org/anthology/W19-3510] (https://www.aclweb.org/anthology/W19-3510)* Link to data: https://rdm.inesctec.pt/dataset/cs-2017-008 
- * Task description: Binary (Hate, Not)
+__57. A Hiierarchically-Labeled Portugese Hate Speech Dataset__
+* Link to publication: [https://www.aclweb.org/anthology/W19-3510](https://www.aclweb.org/anthology/W19-3510)
+* Link to data: [https://rdm.inesctec.pt/dataset/cs-2017-008](https://rdm.inesctec.pt/dataset/cs-2017-008)
+* Task description: Binary (Hate, Not)
 Multi-level (81 categories, identified inductively; categories have different granularities and content ncan be assigned to multiple categories at once) 
- * Details of task: Multiple identities inductively categorized 
- * Size of dataset: 3059 
- * Percentage abusive: 0.32 
- * Language: Portugese 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: Binary: Every tweet was annotated by 3 annotators (From a team of 18 annotators).
+* Details of task: Multiple identities inductively categorized 
+* Size of dataset: 3059 
+* Percentage abusive: 0.32 
+* Language: Portugese 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: Binary: Every tweet was annotated by 3 annotators (From a team of 18 annotators).
 Note: annotators used their opinion to make judgements.
 Majority vote taken for assignments
 Hierarchy: one researcher annotated the corpus. Then, 500 tweets were checked by another to calculate IRR 
- * Annotation agreement: Binary, Fleiss' Kappa = 0.17
+* Annotation agreement: Binary, Fleiss' Kappa = 0.17
 Hierarchy, Cohen's Kappa = 0.72
 Agreement for each sub-category is also given, ranging from 0.276 to 0.879 
- 
- 58. __Offensive Comments in the Brazilian Web: A Dataset and Baseline Results__* Reference: de Pelle, R. and Moreira, V., 2017. Offensive Comments in the Brazilian Web: A Dataset and Baseline Results. In: VI Brazilian Workshop on Social Network Analysis and Mining. SBC. 
- * Link to publication: [http://www.each.usp.br/digiampietri/BraSNAM/2017/p04.pdf] (http://www.each.usp.br/digiampietri/BraSNAM/2017/p04.pdf)* Link to data: https://github.com/rogersdepelle/OffComBR 
- * Task description: Binary (offensive content / not)
+* Reference: Fortuna, P., Rocha da Silva, J., Soler-Company, J., Warner, L. and Nunes, S., 2019. A Hierarchically-Labeled Portuguese Hate Speech Dataset. In: Proceedings of the Third Workshop on Abusive Language Online. Florence, Italy: Association for Computational Linguistics, pp.94-104. 
+
+__58. Offensive Comments in the Brazilian Web: A Dataset and Baseline Results__
+* Link to publication: [http://www.each.usp.br/digiampietri/BraSNAM/2017/p04.pdf](http://www.each.usp.br/digiampietri/BraSNAM/2017/p04.pdf)
+* Link to data: [https://github.com/rogersdepelle/OffComBR](https://github.com/rogersdepelle/OffComBR)
+* Task description: Binary (offensive content / not)
 Target of abuse is also annotated (Xenophobia, homophobia, sexism, racism, cursing, religious intolerance) 
- * Details of task: Religion/creed, Race/ethnicity, Physical/disability, Gender/sexual orientation 
- * Size of dataset: 1250 
- * Percentage abusive: 0.33 
- * Language: Portugese 
- * Level of annotation: Posts 
- * Platform: g1.globo.com 
- * Medium: Text 
- * Annotation process: Annotation process not given: whether expert or crowdsourced is not identified.
+* Details of task: Religion/creed, Race/ethnicity, Physical/disability, Gender/sexual orientation 
+* Size of dataset: 1250 
+* Percentage abusive: 0.33 
+* Language: Portugese 
+* Level of annotation: Posts 
+* Platform: g1.globo.com 
+* Medium: Text 
+* Annotation process: Annotation process not given: whether expert or crowdsourced is not identified.
 Note: comments on the website already undergo an annotation process. 
- * Annotation agreement: Kappa Fleiss: 0.71 
-  
-  
-  ### Slovene
- 59. __Datasets of Slovene and Croatian Moderated News Comments__* Reference: Ljubešić, N., Erjavec, T. and Fišer, D., 2018. Datasets of Slovene and Croatian Moderated News Comments. In: Proceedings of the 2nd Workshop on Abusive Language Online (ALW2). Brussels, Belgium: Association for Computational Linguistics, pp.124-131. 
- * Link to publication: [https://www.aclweb.org/anthology/W18-5116] (https://www.aclweb.org/anthology/W18-5116)* Link to data: http://hdl.handle.net/11356/1201 
- * Task description: Binary (Deleted, Not) 
- * Details of task: Flagged content 
- * Size of dataset: 7600000 
- * Percentage abusive: 0.08 
- * Language: Slovene 
- * Level of annotation: Posts 
- * Platform: MMC RTV website 
- * Medium: Text 
- * Annotation process: Flagged by professional moderators 
- * Annotation agreement: N/A 
+* Annotation agreement: Kappa Fleiss: 0.71 
+* Reference: de Pelle, R. and Moreira, V., 2017. Offensive Comments in the Brazilian Web: A Dataset and Baseline Results. In: VI Brazilian Workshop on Social Network Analysis and Mining. SBC. 
+
+
+### Slovene
+__59. Datasets of Slovene and Croatian Moderated News Comments__
+* Link to publication: [https://www.aclweb.org/anthology/W18-5116](https://www.aclweb.org/anthology/W18-5116)
+* Link to data: [http://hdl.handle.net/11356/1201](http://hdl.handle.net/11356/1201)
+* Task description: Binary (Deleted, Not) 
+* Details of task: Flagged content 
+* Size of dataset: 7600000 
+* Percentage abusive: 0.08 
+* Language: Slovene 
+* Level of annotation: Posts 
+* Platform: MMC RTV website 
+* Medium: Text 
+* Annotation process: Flagged by professional moderators 
+* Annotation agreement: N/A 
+* Reference: Ljubešić, N., Erjavec, T. and Fišer, D., 2018. Datasets of Slovene and Croatian Moderated News Comments. In: Proceedings of the 2nd Workshop on Abusive Language Online (ALW2). Brussels, Belgium: Association for Computational Linguistics, pp.124-131. 
   
   
 ### Spanish
- 60. __Overview of MEX-A3T at IberEval 2018: Authorship and Aggressiveness Analysis in Mexican Spanish Tweets__* Reference: Alvarez-Carmona, M., Guzman-Falcon, E., Montes-y-Gomez, M., Escalante, H., Villasenor-Pineda, L., Reyes-Meza, V. and Rico-Sulayes, A., 2018. Overview of MEX-A3T at IberEval 2018: Authorship and aggressiveness analysis in Mexican Spanish tweets. In: Proceedings of the Third Workshop on Evaluation of Human Language Technologies for Iberian Languages (IberEval 2018). 
- * Link to publication: [http://ceur-ws.org/Vol-2150/overview-mex-a3t.pdf] (http://ceur-ws.org/Vol-2150/overview-mex-a3t.pdf)* Link to data: https://mexa3t.wixsite.com/home/aggressive-detection-track 
- * Task description: Binary (aggressive / not aggressive) 
- * Details of task: Group-directed 
- * Size of dataset: 11000 
- * Percentage abusive: 0.32 
- * Language: Spanish 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: Two annotators (they appear to be experts with experience in the field).
+__60. Overview of MEX-A3T at IberEval 2018: Authorship and Aggressiveness Analysis in Mexican Spanish Tweets__
+* Link to publication: [http://ceur-ws.org/Vol-2150/overview-mex-a3t.pdf](http://ceur-ws.org/Vol-2150/overview-mex-a3t.pdf)
+* Link to data: [https://mexa3t.wixsite.com/home/aggressive-detection-track](https://mexa3t.wixsite.com/home/aggressive-detection-track)
+* Task description: Binary (aggressive / not aggressive) 
+* Details of task: Group-directed 
+* Size of dataset: 11000 
+* Percentage abusive: 0.32 
+* Language: Spanish 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: Two annotators (they appear to be experts with experience in the field).
 Initial, pilot labelling (to clarify the rules) and then full labelling. 
- * Annotation agreement: Kappa (pilot): 0.424
+* Annotation agreement: Kappa (pilot): 0.424
 Kappa (final): 0.587 
-  
- 61. __Overview of the Task on Automatic Misogyny Identification at IberEval 2018 (Spanish)__* Reference: Fersini, E., Rosso, P. and Anzovino, M., 2018. Overview of the Task on Automatic Misogyny Identification at IberEval 2018. In: Proceedings of the Third Workshop on Evaluation of Human Language Technologies for Iberian Languages (IberEval 2018). 
- * Link to publication: [http://ceur-ws.org/Vol-2150/overview-AMI.pdf] (http://ceur-ws.org/Vol-2150/overview-AMI.pdf)* Link to data: https://amiibereval2018.wordpress.com/important-dates/data/ 
- * Task description: Binary (misogyny / not)
+* Reference: Alvarez-Carmona, M., Guzman-Falcon, E., Montes-y-Gomez, M., Escalante, H., Villasenor-Pineda, L., Reyes-Meza, V. and Rico-Sulayes, A., 2018. Overview of MEX-A3T at IberEval 2018: Authorship and aggressiveness analysis in Mexican Spanish tweets. In: Proceedings of the Third Workshop on Evaluation of Human Language Technologies for Iberian Languages (IberEval 2018). 
+
+__61. Overview of the Task on Automatic Misogyny Identification at IberEval 2018 (Spanish)__
+* Link to publication: [http://ceur-ws.org/Vol-2150/overview-AMI.pdf](http://ceur-ws.org/Vol-2150/overview-AMI.pdf)
+* Link to data: [https://amiibereval2018.wordpress.com/important-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/) 
+* Task description: Binary (misogyny / not)
 5 categories of misogyny (stereotype, dominance, derailing, sexual harassment, discredit)
 Target of misogyny (active [individual directed] or passive [group directed]) 
- * Details of task: Sexism 
- * Size of dataset: 4138 
- * Percentage abusive: 0.5 
- * Language: Spanish 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: Crowdsourcing: CrowdFlower platform, 3 annotators per tweet. 
+* Details of task: Sexism 
+* Size of dataset: 4138 
+* Percentage abusive: 0.5 
+* Language: Spanish 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: Crowdsourcing: CrowdFlower platform, 3 annotators per tweet. 
 Gold standard, to test Crowdsource workers, created by two annotators annotating tweets & then an expert, 3rd annotator, intervening in cases of disagreement.
- 
- * Annotation agreement: Not given 
-  
- 62. __hatEval, SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter (Spanish)__* Reference: Basile, V., Bosco, C., Fersini, E., Nozza, D., Patti, V., Pardo, F., Rosso, P. and Sanguinetti, M., 2019. SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter. In: Proceedings of the 13th International Workshop on Semantic Evaluation. Minneapolis, Minnesota: Association for Computational Linguistics, pp.54-63. 
- * Link to publication: [https://www.aclweb.org/anthology/S19-2007] (https://www.aclweb.org/anthology/S19-2007)* Link to data: competitions.codalab.org/competitions/19935
-https://github.com/msang/hateval/blob/master/annotation_guidelines.md  
- * Task description: Branching structure of tasks:
+
+* Annotation agreement: Not given 
+* Reference: Fersini, E., Rosso, P. and Anzovino, M., 2018. Overview of the Task on Automatic Misogyny Identification at IberEval 2018. In: Proceedings of the Third Workshop on Evaluation of Human Language Technologies for Iberian Languages (IberEval 2018). 
+
+__62. hatEval, SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter (Spanish)__
+* Link to publication: [https://www.aclweb.org/anthology/S19-2007](https://www.aclweb.org/anthology/S19-2007)
+* Link to data: [competitions.codalab.org/competitions/19935](competitions.codalab.org/competitions/19935)
+* Task description: Branching structure of tasks:
 Binary (Hate, Not)
 Within Hate (Group, Individual)
 Within Hate (Agressive, Not) 
- * Details of task: Group-directed + Person-directed 
- * Size of dataset: 6600 
- * Percentage abusive: 0.4 
- * Language: Spanish 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: Combination of experts and crowdsourcing.
+* Details of task: Group-directed + Person-directed 
+* Size of dataset: 6600 
+* Percentage abusive: 0.4 
+* Language: Spanish 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: Combination of experts and crowdsourcing.
 First, Crowdsourcing: Annotators were give guidelines. 3 independent judgments per tweet. Majority label adopted.
 Second, Expert: 2 experts redo annotations. Majority decision taken, using the crowdsource input as a 3rd judgement.  
- * Annotation agreement: Average confidence' used (which combines both agreement and reliability of each contributor):
+* Annotation agreement: Average confidence' used (which combines both agreement and reliability of each contributor):
 Spanish: 0.89, 0.47, 0.47 
+* Reference: Basile, V., Bosco, C., Fersini, E., Nozza, D., Patti, V., Pardo, F., Rosso, P. and Sanguinetti, M., 2019. SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter. In: Proceedings of the 13th International Workshop on Semantic Evaluation. Minneapolis, Minnesota: Association for Computational Linguistics, pp.54-63. 
 
 
 ### Turkish
- 63. __A Corpus of Turkish Offensive Language on Social Media__* Reference: Çöltekin, C., 2020. A Corpus of Turkish Offensive Language on Social Media. In: Proceedings of the 12th International Conference on Language Resources and Evaluation. 
- * Link to publication: [https://coltekin.github.io/offensive-turkish/troff.pdf] (https://coltekin.github.io/offensive-turkish/troff.pdf)* Link to data: https://sites.google.com/site/offensevalsharedtask/home 
- * Task description: Branching structure of tasks:
+__63. A Corpus of Turkish Offensive Language on Social Media__
+* Link to publication: [https://coltekin.github.io/offensive-turkish/troff.pdf](https://coltekin.github.io/offensive-turkish/troff.pdf)
+* Link to data: [https://sites.google.com/site/offensevalsharedtask/home](https://sites.google.com/site/offensevalsharedtask/home) 
+* Task description: Branching structure of tasks:
 Binary (Offensive, Not)
 Within Offensive (Target, Not)
 Within Target (Individual, Group, Other) 
- * Details of task: Group-directed + Person-directed 
- * Size of dataset: 36232 
- * Percentage abusive: 0.19 
- * Language: Turkish 
- * Level of annotation: Posts 
- * Platform: Twitter 
- * Medium: Text 
- * Annotation process: Trained; asked to annotate; contributions from those who annotated fewer than 100 docs were dropped. Very poorly-formed messages were discarded. 
- * Annotation agreement: Top level:
+* Details of task: Group-directed + Person-directed 
+* Size of dataset: 36232 
+* Percentage abusive: 0.19 
+* Language: Turkish 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Annotation process: Trained; asked to annotate; contributions from those who annotated fewer than 100 docs were dropped. Very poorly-formed messages were discarded. 
+* Annotation agreement: Top level:
 92.3%; Cohen kappa of 0.761
 
 All labels:
 87.8%; kappa 0.649 
-  
+* Reference: Çöltekin, C., 2020. A Corpus of Turkish Offensive Language on Social Media. In: Proceedings of the 12th International Conference on Language Resources and Evaluation. 
+
 
 ---
 
