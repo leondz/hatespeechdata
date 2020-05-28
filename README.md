@@ -201,7 +201,8 @@ __14. When Does a Compliment Become Sexist? Analysis and Classification of Ambiv
 
 __15. Overview of the Task on Automatic Misogyny Identification at IberEval 2018 (English)__
 * Link to publication: [http://ceur-ws.org/Vol-2150/overview-AMI.pdf](http://ceur-ws.org/Vol-2150/overview-AMI.pdf)
-* Link to data: [https://amiibereval2018.wordpress.com/important-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
+* Link to data: [https://amiibereval2018.wordpress.com/im
+nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Task description: Binary (misogyny / not), 5 categories (stereotype, dominance, derailing, sexual harassment, discredit), target of misogyny (active or passive)
 * Details of task: Sexism 
 * Size of dataset: 3,977 
@@ -772,15 +773,15 @@ __56. Results of the PolEval 2019 Shared Task 6:First Dataset and Open Shared Ta
 * Reference: Ogrodniczuk, M. and Kobyliński, L., 2019. Results of the PolEval 2019 Shared Task 6: First Dataset and Open Shared Task for Automatic Cyberbullying Detection in Polish Twitter. In: Proceedings of the PolEval 2019 Workshop. Warszawa: Institute of Computer Science, Polish Academy of Sciences. 
 
  
-### Portugese
-__57. A Hiierarchically-Labeled Portugese Hate Speech Dataset__
+### Portuguese
+__57. A Hierarchically-Labeled Portuguese Hate Speech Dataset__
 * Link to publication: [https://www.aclweb.org/anthology/W19-3510](https://www.aclweb.org/anthology/W19-3510)
 * Link to data: [https://rdm.inesctec.pt/dataset/cs-2017-008](https://rdm.inesctec.pt/dataset/cs-2017-008)
 * Task description: Binary (Hate, Not), Multi-level (81 categories, identified inductively; categories have different granularities and content can be assigned to multiple categories at once) 
 * Details of task: Multiple identities inductively categorized 
 * Size of dataset: 3,059 
 * Percentage abusive: 0.32 
-* Language: Portugese 
+* Language: Portuguese 
 * Level of annotation: Posts 
 * Platform: Twitter 
 * Medium: Text 
@@ -793,7 +794,7 @@ __58. Offensive Comments in the Brazilian Web: A Dataset and Baseline Results__
 * Details of task: Religion/creed, Race/ethnicity, Physical/disability, Gender/sexual orientation 
 * Size of dataset: 1,250 
 * Percentage abusive: 0.33 
-* Language: Portugese 
+* Language: Portuguese 
 * Level of annotation: Posts 
 * Platform: g1.globo.com 
 * Medium: Text 
