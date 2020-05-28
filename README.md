@@ -776,7 +776,7 @@ __56. Results of the PolEval 2019 Shared Task 6:First Dataset and Open Shared Ta
 ### Portuguese
 __57. A Hierarchically-Labeled Portuguese Hate Speech Dataset__
 * Link to publication: [https://www.aclweb.org/anthology/W19-3510](https://www.aclweb.org/anthology/W19-3510)
-* Link to data: [https://rdm.inesctec.pt/dataset/cs-2017-008](https://rdm.inesctec.pt/dataset/cs-2017-008)
+* Link to data: [https://b2share.eudat.eu/records/9005efe2d6be4293b63c3cffd4cf193e](https://b2share.eudat.eu/records/9005efe2d6be4293b63c3cffd4cf193e)
 * Task description: Binary (Hate, Not), Multi-level (81 categories, identified inductively; categories have different granularities and content can be assigned to multiple categories at once) 
 * Details of task: Multiple identities inductively categorized 
 * Size of dataset: 3,059 
