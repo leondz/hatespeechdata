@@ -135,17 +135,17 @@ __9. Automated Hate Speech Detection and the Problem of Offensive Language__
 * Reference: Davidson, T., Warmsley, D., Macy, M. and Weber, I., 2017. Automated Hate Speech Detection and the Problem of Offensive Language. ArXiv,. 
 
  __10. Hate Speech Dataset from a White Supremacy Forum__
-* Link to publication: [https://arxiv.org/pdf/1809.04444.pdf](https://arxiv.org/pdf/1809.04444.pdf)
-* Link to data: [https://github.com/aitor-garcia-p/hate-speech-dataset](https://github.com/aitor-garcia-p/hate-speech-dataset)
+* Link to publication: [https://www.aclweb.org/anthology/W18-5102.pdf](https://www.aclweb.org/anthology/W18-5102.pdf)
+* Link to data: [https://github.com/Vicomtech/hate-speech-dataset](https://github.com/Vicomtech/hate-speech-dataset)
 * Task description: Ternary (Hate, Relation, Not)
 * Details of task: Hate per se 
 * Size of dataset: 9,916 
 * Percentage abusive: 0.11 
 * Language: English 
-* Level of annotation: Posts - with context of the converstaional thread taken into account 
+* Level of annotation: Sentence - with context of the converstaional thread taken into account 
 * Platform: Stormfront 
 * Medium: Text 
-* Reference: de Gibert, O., Perez, N., Garcia-Pablos, A. and Cuadros, M., 2018. Hate Speech Dataset from a White Supremacy Forum. ArXiv,. 
+* Reference: de Gibert, O., Perez, N., García-Pablos, A., and Cuadros, M., 2018. Hate Speech Dataset from a White Supremacy Forum. In: Proceedings of the 2nd Workshop on Abusive Language Online (ALW2). Brussels, Belgium: Association for Computational Linguistics, pp.11-20. 
   
 __11. Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter__
 * Link to publication: [https://www.aclweb.org/anthology/N16-2013](https://www.aclweb.org/anthology/N16-2013)
