@@ -162,7 +162,7 @@ __11. Hateful Symbols or Hateful People? Predictive Features for Hate Speech Det
 
 __12. Detecting Online Hate Speech Using Context Aware Models__
 * Link to publication: [https://arxiv.org/pdf/1710.07395.pdf](https://arxiv.org/pdf/1710.07395.pdf)
-* Link to data: https://github.com/sjtuprog/fox-news-comments(https://github.com/sjtuprog/fox-news-comments) 
+* Link to data: [https://github.com/sjtuprog/fox-news-comments](https://github.com/sjtuprog/fox-news-comments) 
 * Task description: Binary (Hate / not)
 * Details of task: Hate per se 
 * Size of dataset: 1528 
