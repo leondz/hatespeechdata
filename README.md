@@ -538,7 +538,7 @@ __39. Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Conten
 * Reference: Mandl, T., Modha, S., Majumder, P., Patel, D., Dave, M., Mandlia, C. and Patel, A., 2019. Overview of the HASOC track at FIRE 2019. In: Proceedings of the 11th Forum for Information Retrieval Evaluation,. 
 
  
- ### Greek
+### Greek
 __40. Deep Learning for User Comment Moderation, Flagged Comments__
 * Link to publication: [https://www.aclweb.org/anthology/W17-3004](https://www.aclweb.org/anthology/W17-3004
 https://www.aclweb.org/anthology/D17-1117)
