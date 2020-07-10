@@ -201,8 +201,7 @@ __14. When Does a Compliment Become Sexist? Analysis and Classification of Ambiv
 
 __15. Overview of the Task on Automatic Misogyny Identification at IberEval 2018 (English)__
 * Link to publication: [http://ceur-ws.org/Vol-2150/overview-AMI.pdf](http://ceur-ws.org/Vol-2150/overview-AMI.pdf)
-* Link to data: [https://amiibereval2018.wordpress.com/im
-nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
+* Link to data: [https://amiibereval2018.wordpress.com/important-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Task description: Binary (misogyny / not), 5 categories (stereotype, dominance, derailing, sexual harassment, discredit), target of misogyny (active or passive)
 * Details of task: Sexism 
 * Size of dataset: 3,977 
@@ -242,8 +241,7 @@ __17. Characterizing and Detecting Hateful Users on Twitter__
 
 
 __18. A Benchmark Dataset for Learning to Intervene in Online Hate Speech (Gab)__
-* Link to publication: [https://arxiv.org/abs/1909.04251]
-(https://arxiv.org/abs/1909.04251)
+* Link to publication: [https://arxiv.org/abs/1909.04251](https://arxiv.org/abs/1909.04251)
 * Link to data: [https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech](https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech)
 * Task description: Binary (hateful/not) 
 * Details of task: Hate per se 
@@ -635,7 +633,7 @@ __46. A Dataset of Hindi-English Code-Mixed Social Media Text for Hate Speech De
 
 __47. Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Content Identification in Indo-European Languages__
 * Link to publication: [https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true](https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true)
-* Link to data: [https://hasocfire.github.io/hasoc/2019/dataset.htm](https://hasocfire.github.io/hasoc/2019/dataset.html)
+* Link to data: [https://hasocfire.github.io/hasoc/2019/dataset.html](https://hasocfire.github.io/hasoc/2019/dataset.html)
 * Task description: A: Hate, Offensive or Neither, B: Hatespeech, Offensive, or Profane, C: Targeted or Untargeted 
 * Details of task: Group-directed + Person-directed 
 * Size of dataset: 5,983 
