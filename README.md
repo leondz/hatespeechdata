@@ -890,6 +890,7 @@ __63. A Corpus of Turkish Offensive Language on Social Media__
 1. __Gorrell et al.__
    * Data link: [http://staffwww.dcs.shef.ac.uk/people/G.Gorrell/publications-materials/abuse-terms.txt](http://staffwww.dcs.shef.ac.uk/people/G.Gorrell/publications-materials/abuse-terms.txt)
    * Reference: [Twits, Twats and Twaddle: Trends in Online Abuse towards UK Politicians](https://gate-socmedia.group.shef.ac.uk/wp-content/uploads/2019/07/Gorrell-Greenwood.pdf), Proc. ICWSM
+   * You can also use the GATE abuse tagger, available at [https://cloud.gate.ac.uk/shopfront/displayItem/gate-hate](https://cloud.gate.ac.uk/shopfront/displayItem/gate-hate)
 
 1. __Wiegand et al.__
    * Data link: [https://github.com/uds-lsv/lexicon-of-abusive-words](https://github.com/uds-lsv/lexicon-of-abusive-words)
