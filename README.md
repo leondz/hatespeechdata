@@ -108,7 +108,7 @@ __7. Datasets of Slovene and Croatian Moderated News Comments__
 ### Danish
 __8. Offensive Language and Hate Speech Detection for Danish__
 * Link to publication: [http://www.derczynski.com/papers/danish_hsd.pdf](http://www.derczynski.com/papers/danish_hsd.pdf)
-* Link to data: [https://sites.google.com/site/offensevalsharedtask/home](https://sites.google.com/site/offensevalsharedtask/home)
+* Link to data: [https://figshare.com/articles/Danish_Hate_Speech_Abusive_Language_data/12220805](https://sites.google.com/site/offensevalsharedtask/home)
 * Task description: Branching structure of tasks: Binary (Offensive, Not), Within Offensive (Target, Not), Within Target (Individual, Group, Other) 
 * Details of task: Group-directed + Person-directed 
 * Size of dataset: 3,600 
