@@ -5,7 +5,9 @@ The list is maintained by [Leon Derczynski](https://www.derczynski.com/) and [Be
 
 Please make contributions via pull request or email. Accompanying [data statements](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00041) preferred for all corpora.
 
-If you use these resources, please cite (and read!) our paper: [Directions in Abusive Language Training Data: Garabge In, Garbage Out](https://arxiv.org/abs/2004.01670). And if you would like to find other resources for researching online hate, visit the Alan Turing Institute's [Online Hate Research Hub](https://www.turing.ac.uk/research/research-programmes/public-policy/online-hate-research-hub) or read the Alan Turing Institute's [Reading List on Online Hate and Abuse Research](https://docs.google.com/document/d/1WVkVGp29Jt6d-4fBnZ5OWVYuFn_03rzz-KBqPsu6gTM/edit?usp=sharing).
+If you use these resources, please cite (and read!) our paper: [Directions in Abusive Language Training Data: Garbage In, Garbage Out](https://arxiv.org/abs/2004.01670). And if you would like to find other resources for researching online hate, visit The Alan Turing Institute's [Online Hate Research Hub](https://www.turing.ac.uk/research/research-programmes/public-policy/online-hate-research-hub) or read The Alan Turing Institute's [Reading List on Online Hate and Abuse Research](https://docs.google.com/document/d/1WVkVGp29Jt6d-4fBnZ5OWVYuFn_03rzz-KBqPsu6gTM/edit?usp=sharing).
+
+If you're looking for a good paper on online hate training datasets (beyond our paper, of course!) then have a look at ['Resources and benchmark corpora for hate speech detection: a systematic review'](https://link.springer.com/article/10.1007/s10579-020-09502-8) by Poletto et al. in *Language Resources and Evaluation*.
 
 
 ## List of datasets
@@ -108,7 +110,7 @@ __7. Datasets of Slovene and Croatian Moderated News Comments__
 ### Danish
 __8. Offensive Language and Hate Speech Detection for Danish__
 * Link to publication: [http://www.derczynski.com/papers/danish_hsd.pdf](http://www.derczynski.com/papers/danish_hsd.pdf)
-* Link to data: [https://sites.google.com/site/offensevalsharedtask/home](https://sites.google.com/site/offensevalsharedtask/home)
+* Link to data: [https://figshare.com/articles/Danish_Hate_Speech_Abusive_Language_data/12220805](https://sites.google.com/site/offensevalsharedtask/home)
 * Task description: Branching structure of tasks: Binary (Offensive, Not), Within Offensive (Target, Not), Within Target (Individual, Group, Other) 
 * Details of task: Group-directed + Person-directed 
 * Size of dataset: 3,600 
@@ -135,17 +137,17 @@ __9. Automated Hate Speech Detection and the Problem of Offensive Language__
 * Reference: Davidson, T., Warmsley, D., Macy, M. and Weber, I., 2017. Automated Hate Speech Detection and the Problem of Offensive Language. ArXiv,. 
 
  __10. Hate Speech Dataset from a White Supremacy Forum__
-* Link to publication: [https://arxiv.org/pdf/1809.04444.pdf](https://arxiv.org/pdf/1809.04444.pdf)
-* Link to data: [https://github.com/aitor-garcia-p/hate-speech-dataset](https://github.com/aitor-garcia-p/hate-speech-dataset)
+* Link to publication: [https://www.aclweb.org/anthology/W18-5102.pdf](https://www.aclweb.org/anthology/W18-5102.pdf)
+* Link to data: [https://github.com/Vicomtech/hate-speech-dataset](https://github.com/Vicomtech/hate-speech-dataset)
 * Task description: Ternary (Hate, Relation, Not)
 * Details of task: Hate per se 
 * Size of dataset: 9,916 
 * Percentage abusive: 0.11 
 * Language: English 
-* Level of annotation: Posts - with context of the converstaional thread taken into account 
+* Level of annotation: Sentence - with context of the converstaional thread taken into account 
 * Platform: Stormfront 
 * Medium: Text 
-* Reference: de Gibert, O., Perez, N., Garcia-Pablos, A. and Cuadros, M., 2018. Hate Speech Dataset from a White Supremacy Forum. ArXiv,. 
+* Reference: de Gibert, O., Perez, N., García-Pablos, A., and Cuadros, M., 2018. Hate Speech Dataset from a White Supremacy Forum. In: Proceedings of the 2nd Workshop on Abusive Language Online (ALW2). Brussels, Belgium: Association for Computational Linguistics, pp.11-20. 
   
 __11. Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter__
 * Link to publication: [https://www.aclweb.org/anthology/N16-2013](https://www.aclweb.org/anthology/N16-2013)
@@ -201,7 +203,8 @@ __14. When Does a Compliment Become Sexist? Analysis and Classification of Ambiv
 
 __15. Overview of the Task on Automatic Misogyny Identification at IberEval 2018 (English)__
 * Link to publication: [http://ceur-ws.org/Vol-2150/overview-AMI.pdf](http://ceur-ws.org/Vol-2150/overview-AMI.pdf)
-* Link to data: [https://amiibereval2018.wordpress.com/important-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
+* Link to data: [https://amiibereval2018.wordpress.com/im
+nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Task description: Binary (misogyny / not), 5 categories (stereotype, dominance, derailing, sexual harassment, discredit), target of misogyny (active or passive)
 * Details of task: Sexism 
 * Size of dataset: 3,977 
@@ -537,7 +540,7 @@ __39. Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Conten
 * Reference: Mandl, T., Modha, S., Majumder, P., Patel, D., Dave, M., Mandlia, C. and Patel, A., 2019. Overview of the HASOC track at FIRE 2019. In: Proceedings of the 11th Forum for Information Retrieval Evaluation,. 
 
  
- ### Greek
+### Greek
 __40. Deep Learning for User Comment Moderation, Flagged Comments__
 * Link to publication: [https://www.aclweb.org/anthology/W17-3004](https://www.aclweb.org/anthology/W17-3004
 https://www.aclweb.org/anthology/D17-1117)
@@ -788,15 +791,15 @@ __57. Results of the PolEval 2019 Shared Task 6:First Dataset and Open Shared Ta
 * Reference: Ogrodniczuk, M. and Kobyliński, L., 2019. Results of the PolEval 2019 Shared Task 6: First Dataset and Open Shared Task for Automatic Cyberbullying Detection in Polish Twitter. In: Proceedings of the PolEval 2019 Workshop. Warszawa: Institute of Computer Science, Polish Academy of Sciences. 
 
  
-### Portugese
-__58. A Hiierarchically-Labeled Portugese Hate Speech Dataset__
+### Portuguese
+__58. A Hierarchically-Labeled Portuguese Hate Speech Dataset__
 * Link to publication: [https://www.aclweb.org/anthology/W19-3510](https://www.aclweb.org/anthology/W19-3510)
-* Link to data: [https://rdm.inesctec.pt/dataset/cs-2017-008](https://rdm.inesctec.pt/dataset/cs-2017-008)
+* Link to data: [https://b2share.eudat.eu/records/9005efe2d6be4293b63c3cffd4cf193e](https://b2share.eudat.eu/records/9005efe2d6be4293b63c3cffd4cf193e)
 * Task description: Binary (Hate, Not), Multi-level (81 categories, identified inductively; categories have different granularities and content can be assigned to multiple categories at once) 
 * Details of task: Multiple identities inductively categorized 
 * Size of dataset: 3,059 
 * Percentage abusive: 0.32 
-* Language: Portugese 
+* Language: Portuguese 
 * Level of annotation: Posts 
 * Platform: Twitter 
 * Medium: Text 
@@ -809,7 +812,7 @@ __59. Offensive Comments in the Brazilian Web: A Dataset and Baseline Results__
 * Details of task: Religion/creed, Race/ethnicity, Physical/disability, Gender/sexual orientation 
 * Size of dataset: 1,250 
 * Percentage abusive: 0.33 
-* Language: Portugese 
+* Language: Portuguese 
 * Level of annotation: Posts 
 * Platform: g1.globo.com 
 * Medium: Text 
@@ -905,6 +908,7 @@ __64. A Corpus of Turkish Offensive Language on Social Media__
 1. __Gorrell et al.__
    * Data link: [http://staffwww.dcs.shef.ac.uk/people/G.Gorrell/publications-materials/abuse-terms.txt](http://staffwww.dcs.shef.ac.uk/people/G.Gorrell/publications-materials/abuse-terms.txt)
    * Reference: [Twits, Twats and Twaddle: Trends in Online Abuse towards UK Politicians](https://gate-socmedia.group.shef.ac.uk/wp-content/uploads/2019/07/Gorrell-Greenwood.pdf), Proc. ICWSM
+   * You can also use the GATE abuse tagger, available at [https://cloud.gate.ac.uk/shopfront/displayItem/gate-hate](https://cloud.gate.ac.uk/shopfront/displayItem/gate-hate)
 
 1. __Wiegand et al.__
    * Data link: [https://github.com/uds-lsv/lexicon-of-abusive-words](https://github.com/uds-lsv/lexicon-of-abusive-words)
