@@ -765,15 +765,15 @@ __55. Creating a WhatsApp Dataset to Study Pre-teen Cyberbullying__
 __56. BEEP! Korean Corpus of Online News Comments for Toxic Speech Detection__
 * Link to publication: [https://www.aclweb.org/anthology/2020.socialnlp-1.4](https://www.aclweb.org/anthology/2020.socialnlp-1.4/)
 * Link to data: [https://github.com/kocohub/korean-hate-speech](https://github.com/kocohub/korean-hate-speech)
-* Task description: Binary (Bias, None), Ternary (Gender bias, Other biases, None), Ternary (Hate, Offensive, None)
+* Task description: Binary (Gender bias, No gender bias), Ternary (Gender bias, Other biases, None), Ternary (Hate, Offensive, None)
 * Details of task: Person/Group-directed, Gender/Sexual orientation, Sexism, Harmfulness/Toxicity
 * Size of dataset: 9,381
-* Percentage abusive: 33.87 (Bias), 57.77 (Toxicity)
+* Percentage abusive: 0.34 (Bias), 0.58 (Toxicity)
 * Language: Korean 
-* Level of annotation: Reviews
+* Level of annotation: Comments
 * Platform: NAVER entertainment news
 * Medium: Text 
-* Reference: Moon, J., Cho, W. I., and Lee, J., 2020. BEEP! Korean Corpus of Online News Comments for Toxic Speech Detection. In: Proceedings of the Eighth International Workshop on Natural Language Processing for Social Media Month: July. Online: Association for Computational Linguistics, pp.25-31
+* Reference: Moon, J., Cho, W. I., and Lee, J., 2020. BEEP! Korean Corpus of Online News Comments for Toxic Speech Detection. In: Proceedings of the Eighth International Workshop on Natural Language Processing for Social Media Month: July. Online: Association for Computational Linguistics, pp.25-31.
 
  
 ### Polish
