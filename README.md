@@ -756,9 +756,25 @@ __55. Creating a WhatsApp Dataset to Study Pre-teen Cyberbullying__
 * Medium: Text 
 * Reference: Sprugnoli, R., Menini, S., Tonelli, S., Oncini, F. and Piras, E., 2018. Creating a WhatsApp Dataset to Study Pre-teen Cyberbullying. In: Proceedings of the 2nd Workshop on Abusive Language Online (ALW2) Month: October. Brussels, Belgium: Association for Computational Linguistics, pp.51-59. 
 
+
+### Korean
+
+__56. BEEP! Korean Corpus of Online News Comments for Toxic Speech Detection__
+* Link to publication: [https://www.aclweb.org/anthology/2020.socialnlp-1.4](https://www.aclweb.org/anthology/2020.socialnlp-1.4/)
+* Link to data: [https://github.com/kocohub/korean-hate-speech](https://github.com/kocohub/korean-hate-speech)
+* Task description: Binary (Bias, None), Ternary (Gender bias, Other biases, None), Ternary (Hate, Offensive, None)
+* Details of task: Person/Group-directed, Gender/Sexual orientation, Sexism, Harmfulness/Toxicity
+* Size of dataset: 9,381
+* Percentage abusive: 33.87 (Bias), 57.77 (Toxicity)
+* Language: Korean 
+* Level of annotation: Reviews
+* Platform: NAVER entertainment news
+* Medium: Text 
+* Reference: Moon, J., Cho, W. I., and Lee, J., 2020. BEEP! Korean Corpus of Online News Comments for Toxic Speech Detection. In: Proceedings of the Eighth International Workshop on Natural Language Processing for Social Media Month: July. Online: Association for Computational Linguistics, pp.25-31
+
  
 ### Polish
-__56. Results of the PolEval 2019 Shared Task 6:First Dataset and Open Shared Task for Automatic Cyberbullying Detection in Polish Twitter__
+__57. Results of the PolEval 2019 Shared Task 6:First Dataset and Open Shared Task for Automatic Cyberbullying Detection in Polish Twitter__
 * Link to publication: [http://poleval.pl/files/poleval2019.pdf](http://poleval.pl/files/poleval2019.pdf)
 * Link to data: [http://poleval.pl/tasks/task6](http://poleval.pl/tasks/task6)
 * Task description: Harmfulness score (three values), Multilabel from seven phenomena
@@ -773,7 +789,7 @@ __56. Results of the PolEval 2019 Shared Task 6:First Dataset and Open Shared Ta
 
  
 ### Portugese
-__57. A Hiierarchically-Labeled Portugese Hate Speech Dataset__
+__58. A Hiierarchically-Labeled Portugese Hate Speech Dataset__
 * Link to publication: [https://www.aclweb.org/anthology/W19-3510](https://www.aclweb.org/anthology/W19-3510)
 * Link to data: [https://rdm.inesctec.pt/dataset/cs-2017-008](https://rdm.inesctec.pt/dataset/cs-2017-008)
 * Task description: Binary (Hate, Not), Multi-level (81 categories, identified inductively; categories have different granularities and content can be assigned to multiple categories at once) 
@@ -786,7 +802,7 @@ __57. A Hiierarchically-Labeled Portugese Hate Speech Dataset__
 * Medium: Text 
 * Reference: Fortuna, P., Rocha da Silva, J., Soler-Company, J., Warner, L. and Nunes, S., 2019. A Hierarchically-Labeled Portuguese Hate Speech Dataset. In: Proceedings of the Third Workshop on Abusive Language Online. Florence, Italy: Association for Computational Linguistics, pp.94-104. 
 
-__58. Offensive Comments in the Brazilian Web: A Dataset and Baseline Results__
+__59. Offensive Comments in the Brazilian Web: A Dataset and Baseline Results__
 * Link to publication: [http://www.each.usp.br/digiampietri/BraSNAM/2017/p04.pdf](http://www.each.usp.br/digiampietri/BraSNAM/2017/p04.pdf)
 * Link to data: [https://github.com/rogersdepelle/OffComBR](https://github.com/rogersdepelle/OffComBR)
 * Task description: Binary (Offensive, Not), Target (Xenophobia, homophobia, sexism, racism, cursing, religious intolerance) 
@@ -801,7 +817,7 @@ __58. Offensive Comments in the Brazilian Web: A Dataset and Baseline Results__
 
 
 ### Slovene
-__59. Datasets of Slovene and Croatian Moderated News Comments__
+__60. Datasets of Slovene and Croatian Moderated News Comments__
 * Link to publication: [https://www.aclweb.org/anthology/W18-5116](https://www.aclweb.org/anthology/W18-5116)
 * Link to data: [http://hdl.handle.net/11356/1201](http://hdl.handle.net/11356/1201)
 * Task description: Binary (Deleted, Not) 
@@ -816,7 +832,7 @@ __59. Datasets of Slovene and Croatian Moderated News Comments__
   
   
 ### Spanish
-__60. Overview of MEX-A3T at IberEval 2018: Authorship and Aggressiveness Analysis in Mexican Spanish Tweets__
+__61. Overview of MEX-A3T at IberEval 2018: Authorship and Aggressiveness Analysis in Mexican Spanish Tweets__
 * Link to publication: [http://ceur-ws.org/Vol-2150/overview-mex-a3t.pdf](http://ceur-ws.org/Vol-2150/overview-mex-a3t.pdf)
 * Link to data: [https://mexa3t.wixsite.com/home/aggressive-detection-track](https://mexa3t.wixsite.com/home/aggressive-detection-track)
 * Task description: Binary (Aggressive, Not) 
@@ -829,7 +845,7 @@ __60. Overview of MEX-A3T at IberEval 2018: Authorship and Aggressiveness Analys
 * Medium: Text 
 * Reference: Alvarez-Carmona, M., Guzman-Falcon, E., Montes-y-Gomez, M., Escalante, H., Villasenor-Pineda, L., Reyes-Meza, V. and Rico-Sulayes, A., 2018. Overview of MEX-A3T at IberEval 2018: Authorship and aggressiveness analysis in Mexican Spanish tweets. In: Proceedings of the Third Workshop on Evaluation of Human Language Technologies for Iberian Languages (IberEval 2018). 
 
-__61. Overview of the Task on Automatic Misogyny Identification at IberEval 2018 (Spanish)__
+__62. Overview of the Task on Automatic Misogyny Identification at IberEval 2018 (Spanish)__
 * Link to publication: [http://ceur-ws.org/Vol-2150/overview-AMI.pdf](http://ceur-ws.org/Vol-2150/overview-AMI.pdf)
 * Link to data: [https://amiibereval2018.wordpress.com/important-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/) 
 * Task description: Binary (Misogyny, Not), 5 categories (Stereotype, Dominance, Derailing, Sexual harassment, Discredit), Target of misogyny (Active or Passive) 
@@ -842,7 +858,7 @@ __61. Overview of the Task on Automatic Misogyny Identification at IberEval 2018
 * Medium: Text 
 * Reference: Fersini, E., Rosso, P. and Anzovino, M., 2018. Overview of the Task on Automatic Misogyny Identification at IberEval 2018. In: Proceedings of the Third Workshop on Evaluation of Human Language Technologies for Iberian Languages (IberEval 2018). 
 
-__62. hatEval, SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter (Spanish)__
+__63. hatEval, SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter (Spanish)__
 * Link to publication: [https://www.aclweb.org/anthology/S19-2007](https://www.aclweb.org/anthology/S19-2007)
 * Link to data: [competitions.codalab.org/competitions/19935](competitions.codalab.org/competitions/19935)
 * Task description: Branching structure of tasks: Binary (Hate, Not), Within Hate (Group, Individual), Within Hate (Agressive, Not)
@@ -857,7 +873,7 @@ __62. hatEval, SemEval-2019 Task 5: Multilingual Detection of Hate Speech Agains
 
 
 ### Turkish
-__63. A Corpus of Turkish Offensive Language on Social Media__
+__64. A Corpus of Turkish Offensive Language on Social Media__
 * Link to publication: [https://coltekin.github.io/offensive-turkish/troff.pdf](https://coltekin.github.io/offensive-turkish/troff.pdf)
 * Link to data: [https://sites.google.com/site/offensevalsharedtask/home](https://sites.google.com/site/offensevalsharedtask/home) 
 * Task description: Branching structure of tasks: Binary (Hate, Not), Within Hate (Group, Individual), Within Hate (Agressive, Not)
