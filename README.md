@@ -13,7 +13,7 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 ## List of datasets
 
 ### Arabic
-* Are They our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere__
+1. __Are They our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere__
     * Link to publication: [https://ieeexplore.ieee.org/document/8508247](https://ieeexplore.ieee.org/document/8508247)
     * Link to data: https://github.com/nuhaalbadi/Arabic_hatespeech(https://github.com/nuhaalbadi/Arabic_hatespeech)
     * Task description: Binary (Hate, Not) 
@@ -26,7 +26,7 @@ If you're looking for a good paper on online hate training datasets (beyond our 
     * Medium: Text 
     * Reference: Albadi, N., Kurdi, M. and Mishra, S., 2018. Are they Our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere. In: International Conference on Advances in Social Networks Analysis and Mining. Barcelona, Spain: IEEE, pp.69-76. 
  
-* Multilingual and Multi-Aspect Hate Speech Analysis (Arabic)__
+1. __Multilingual and Multi-Aspect Hate Speech Analysis (Arabic)__
     * Link to publication: [https://arxiv.org/abs/1908.11049](https://arxiv.org/abs/1908.11049)
     * Link to data: [https://github.com/HKUST-KnowComp/MLMA_hate_speech](https://github.com/HKUST-KnowComp/MLMA_hate_speech) 
     * Task description: Detailed taxonomy with cross-cutting attributes: Hostility, Directness, Target Attribute, Target Group, How annotators felt on seeing the tweet.
@@ -39,7 +39,7 @@ If you're looking for a good paper on online hate training datasets (beyond our 
     * Medium: Text 
     * Reference: Ousidhoum, N., Lin, Z., Zhang, H., Song, Y. and Yeung, D., 2019. Multilingual and Multi-Aspect Hate Speech Analysis. ArXiv,. 
  
-* L-HSAB: A Levantine Twitter Dataset for Hate Speech and Abusive Language__
+1. __L-HSAB: A Levantine Twitter Dataset for Hate Speech and Abusive Language__
     * Link to publication: [https://www.aclweb.org/anthology/W19-3512](https://www.aclweb.org/anthology/W19-3512)
     * Link to data: [https://github.com/Hala-Mulki/L-HSAB-First-Arabic-Levantine-HateSpeech-Dataset](https://github.com/Hala-Mulki/L-HSAB-First-Arabic-Levantine-HateSpeech-Dataset)
     * Task description: Ternary (Hate, Abusive, Normal) 
@@ -52,7 +52,7 @@ If you're looking for a good paper on online hate training datasets (beyond our 
     * Medium: Text 
     * Reference: Mulki, H., Haddad, H., Bechikh, C. and Alshabani, H., 2019. L-HSAB: A Levantine Twitter Dataset for Hate Speech and Abusive Language. In: Proceedings of the Third Workshop on Abusive Language Online. Florence, Italy: Association for Computational Linguistics, pp.111-118. 
 
-* Abusive Language Detection on Arabic Social Media (Twitter)__
+1. __Abusive Language Detection on Arabic Social Media (Twitter)__
     * Link to publication: [https://www.aclweb.org/anthology/W17-3008](https://www.aclweb.org/anthology/W17-3008)
     * Link to data: [http://alt.qcri.org/~hmubarak/offensive/TweetClassification-Summary.xlsx](http://alt.qcri.org/~hmubarak/offensive/TweetClassification-Summary.xlsx)
     * Task description: Ternary (Obscene, Offensive but not obscene, Clean) 
@@ -65,7 +65,7 @@ If you're looking for a good paper on online hate training datasets (beyond our 
     * Medium: Text 
     * Reference: Mubarak, H., Darwish, K. and Magdy, W., 2017. Abusive Language Detection on Arabic Social Media. In: Proceedings of the First Workshop on Abusive Language Online. Vancouver, Canada: Association for Computational Linguistics, pp.52-56. 
  
-* Abusive Language Detection on Arabic Social Media (Al Jazeera)__
+1. __Abusive Language Detection on Arabic Social Media (Al Jazeera)__
     * Link to publication: [https://www.aclweb.org/anthology/W17-3008](https://www.aclweb.org/anthology/W17-3008)
     * Link to data: [http://alt.qcri.org/~hmubarak/offensive/AJCommentsClassification-CF.xlsx](http://alt.qcri.org/~hmubarak/offensive/AJCommentsClassification-CF.xlsx)
     * Task description: Ternary (Obscene, Offensive but not obscene, Clean) 
@@ -78,7 +78,7 @@ If you're looking for a good paper on online hate training datasets (beyond our 
     * Medium: Text 
     * Reference: Mubarak, H., Darwish, K. and Magdy, W., 2017. Abusive Language Detection on Arabic Social Media. In: Proceedings of the First Workshop on Abusive Language Online. Vancouver, Canada: Association for Computational Linguistics, pp.52-56. 
 
-* Dataset Construction for the Detection of Anti-Social Behaviour in Online Communication in Arabic__
+1. __Dataset Construction for the Detection of Anti-Social Behaviour in Online Communication in Arabic__
     * Link to publication: [https://www.sciencedirect.com/science/article/pii/S1877050918321756](https://www.sciencedirect.com/science/article/pii/S1877050918321756)
     * Link to data: [https://onedrive.live.com/?authkey=!ACDXj_ZNcZPqzy0&id=6EF6951FBF8217F9!105&cid=6EF6951FBF8217F9](https://onedrive.live.com/?authkey=!ACDXj_ZNcZPqzy0&id=6EF6951FBF8217F9!105&cid=6EF6951FBF8217F9)
     * Task description: Binary (Offensive, Not) 
@@ -93,7 +93,7 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 
 
 ### Croatian
-* Datasets of Slovene and Croatian Moderated News Comments__
+1. __Datasets of Slovene and Croatian Moderated News Comments__
     * Link to publication: [https://www.aclweb.org/anthology/W18-5116](https://www.aclweb.org/anthology/W18-5116)
     * Link to data: [http://hdl.handle.net/11356/1202](http://hdl.handle.net/11356/1202)
     * Task description: Binary (Deleted, Not) 
@@ -108,7 +108,7 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 
 
 ### Danish
-* Offensive Language and Hate Speech Detection for Danish__
+1. __Offensive Language and Hate Speech Detection for Danish__
     * Link to publication: [http://www.derczynski.com/papers/danish_hsd.pdf](http://www.derczynski.com/papers/danish_hsd.pdf)
     * Link to data: [https://figshare.com/articles/Danish_Hate_Speech_Abusive_Language_data/12220805](https://sites.google.com/site/offensevalsharedtask/home)
     * Task description: Branching structure of tasks: Binary (Offensive, Not), Within Offensive (Target, Not), Within Target (Individual, Group, Other) 
@@ -123,7 +123,7 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 
 
 ### English
-* Automated Hate Speech Detection and the Problem of Offensive Language__
+1. __Automated Hate Speech Detection and the Problem of Offensive Language__
     * Link to publication: [https://arxiv.org/pdf/1703.04009.pdf](https://arxiv.org/pdf/1703.04009.pdf)
     * Link to data: [https://github.com/t-davidson/hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language)
     * Task description: Hierarchy (Hate, Offensive, Neither) 
@@ -136,7 +136,7 @@ If you're looking for a good paper on online hate training datasets (beyond our 
     * Medium: Text 
     * Reference: Davidson, T., Warmsley, D., Macy, M. and Weber, I., 2017. Automated Hate Speech Detection and the Problem of Offensive Language. ArXiv,. 
 
- __10. Hate Speech Dataset from a White Supremacy Forum__
+1. __Hate Speech Dataset from a White Supremacy Forum__
     * Link to publication: [https://www.aclweb.org/anthology/W18-5102.pdf](https://www.aclweb.org/anthology/W18-5102.pdf)
     * Link to data: [https://github.com/Vicomtech/hate-speech-dataset](https://github.com/Vicomtech/hate-speech-dataset)
     * Task description: Ternary (Hate, Relation, Not)
@@ -149,7 +149,7 @@ If you're looking for a good paper on online hate training datasets (beyond our 
     * Medium: Text 
     * Reference: de Gibert, O., Perez, N., García-Pablos, A., and Cuadros, M., 2018. Hate Speech Dataset from a White Supremacy Forum. In: Proceedings of the 2nd Workshop on Abusive Language Online (ALW2). Brussels, Belgium: Association for Computational Linguistics, pp.11-20. 
   
-* Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter__
+1. __Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter__
     * Link to publication: [https://www.aclweb.org/anthology/N16-2013](https://www.aclweb.org/anthology/N16-2013)
     * Link to data: [https://github.com/ZeerakW/hatespeech](https://github.com/ZeerakW/hatespeech)
     * Task description: 3-topic (Sexist, Racist, Not) 
@@ -162,7 +162,7 @@ If you're looking for a good paper on online hate training datasets (beyond our 
     * Medium: Text 
     * Reference: Waseem, Z. and Horvy, D., 2016. Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter. In: Proceedings of the NAACL Student Research Workshop. San Diego, California: Association for Computational Linguistics, pp.88-93. 
 
-* Detecting Online Hate Speech Using Context Aware Models__
+1. __Detecting Online Hate Speech Using Context Aware Models__
     * Link to publication: [https://arxiv.org/pdf/1710.07395.pdf](https://arxiv.org/pdf/1710.07395.pdf)
     * Link to data: https://github.com/sjtuprog/fox-news-comments(https://github.com/sjtuprog/fox-news-comments) 
     * Task description: Binary (Hate / not)
@@ -175,7 +175,7 @@ If you're looking for a good paper on online hate training datasets (beyond our 
     * Medium: Text 
     * Reference: Gao, L. and Huang, R., 2018. Detecting Online Hate Speech Using Context Aware Models. ArXiv,. 
  
-* Are You a Racist or Am I Seeing Things? Annotator Influence on Hate Speech Detection on Twitter__
+1. __Are You a Racist or Am I Seeing Things? Annotator Influence on Hate Speech Detection on Twitter__
     * Link to publication: [https://pdfs.semanticscholar.org/3eeb/b7907a9b94f8d65f969f63b76ff5f643f6d3.pdf](https://pdfs.semanticscholar.org/3eeb/b7907a9b94f8d65f969f63b76ff5f643f6d3.pdf)
     * Link to data: [https://github.com/ZeerakW/hatespeech](https://github.com/ZeerakW/hatespeech)
     * Task description: Multi-topic (Sexist, Racist, Neither, Both) 
@@ -188,7 +188,7 @@ If you're looking for a good paper on online hate training datasets (beyond our 
     * Medium: Text 
     * Reference: Waseem, Z., 2016. Are You a Racist or Am I Seeing Things? Annotator Influence on Hate Speech Detection on Twitter. In: Proceedings of 2016 EMNLP Workshop on Natural Language Processing and Computational Social Science. Copenhagen, Denmark: Association for Computational Linguistics, pp.138-142. 
 
-* When Does a Compliment Become Sexist? Analysis and Classification of Ambivalent Sexism Using Twitter Data__
+1. When Does a Compliment Become Sexist? Analysis and Classification of Ambivalent Sexism Using Twitter Data__
     * Link to publication: [https://pdfs.semanticscholar.org/225f/f8a6a562bbb64b22cebfcd3288c6b930d1ef.pdf](https://pdfs.semanticscholar.org/225f/f8a6a562bbb64b22cebfcd3288c6b930d1ef.pdf)
     * Link to data: [https://github.com/AkshitaJha/NLP_CSS_2017](https://github.com/AkshitaJha/NLP_CSS_2017)
     * Task description: Hierarchy of Sexism (Benevolent sexism, Hostile sexism, None) 
@@ -201,7 +201,7 @@ If you're looking for a good paper on online hate training datasets (beyond our 
     * Medium: Text 
     * Reference: Jha, A. and Mamidi, R., 2017. When does a Compliment become Sexist? Analysis and Classification of Ambivalent Sexism using Twitter Data. In: Proceedings of the Second Workshop on Natural Language Processing and Computational Social Science. Vancouver, Canada: Association for Computational Linguistics, pp.7-16. 
 
-* Overview of the Task on Automatic Misogyny Identification at IberEval 2018 (English)__
+1. __Overview of the Task on Automatic Misogyny Identification at IberEval 2018 (English)__
     * Link to publication: [http://ceur-ws.org/Vol-2150/overview-AMI.pdf](http://ceur-ws.org/Vol-2150/overview-AMI.pdf)
     * Link to data: [https://amiibereval2018.wordpress.com/im
 nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
@@ -215,7 +215,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Medium: Text 
     * Reference: Fersini, E., Rosso, P. and Anzovino, M., 2018. Overview of the Task on Automatic Misogyny Identification at IberEval 2018. In: Proceedings of the Third Workshop on Evaluation of Human Language Technologies for Iberian Languages (IberEval 2018). 
  
-* CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (English)__
+1. __CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (English)__
     * Link to publication: [https://www.aclweb.org/anthology/P19-1271.pdf](https://www.aclweb.org/anthology/P19-1271.pdf)
     * Link to data: [https://github.com/marcoguerini/CONAN](https://github.com/marcoguerini/CONAN)
     * Task description: Binary (Islamophobic / not), multi-topic (Culture, Economics, Crimes, Rapism, Terrorism, Women Oppression, History, Other/generic)
@@ -229,7 +229,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Reference: Chung, Y., Kuzmenko, E., Tekiroglu, S. and Guerini, M., 2019. CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech. In: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. Florence, Italy: Association for Computational Linguistics, pp.2819-2829. 
 
 
-* Characterizing and Detecting Hateful Users on Twitter__
+1. __Characterizing and Detecting Hateful Users on Twitter__
     * Link to publication: [https://arxiv.org/pdf/1803.08977.pdf](https://arxiv.org/pdf/1803.08977.pdf)
     * Link to data: [https://github.com/manoelhortaribeiro/HatefulUsersTwitter](https://github.com/manoelhortaribeiro/HatefulUsersTwitter)
     * Task description: Binary (hateful/not)
@@ -243,7 +243,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Reference: Ribeiro, M., Calais, P., Santos, Y., Almeida, V. and Meira, W., 2018. Characterizing and Detecting Hateful Users on Twitter. ArXiv,. 
 
 
-* A Benchmark Dataset for Learning to Intervene in Online Hate Speech (Gab)__
+1. __A Benchmark Dataset for Learning to Intervene in Online Hate Speech (Gab)__
     * Link to publication: [https://arxiv.org/abs/1909.04251]
 (https://arxiv.org/abs/1909.04251)
     * Link to data: [https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech](https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech)
@@ -257,7 +257,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Medium: Text 
     * Reference: Qian, J., Bethke, A., Belding, E. and Yang Wang, W., 2019. A Benchmark Dataset for Learning to Intervene in Online Hate Speech. ArXiv,. 
 
-* A Benchmark Dataset for Learning to Intervene in Online Hate Speech (Reddit)__
+1. __A Benchmark Dataset for Learning to Intervene in Online Hate Speech (Reddit)__
     * Link to publication: [https://arxiv.org/abs/1909.04251](https://arxiv.org/abs/1909.04251)
     * Link to data: [https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech](https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech)
     * Task description: Binary (hateful/not)
@@ -270,7 +270,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Medium: Text 
     * Reference: Qian, J., Bethke, A., Belding, E. and Yang Wang, W., 2019. A Benchmark Dataset for Learning to Intervene in Online Hate Speech. ArXiv,. 
 
-* Multilingual and Multi-Aspect Hate Speech Analysis (English)__
+1. __Multilingual and Multi-Aspect Hate Speech Analysis (English)__
     * Link to publication: [https://arxiv.org/abs/1908.11049](https://arxiv.org/abs/1908.11049)
     * Link to data: [https://github.com/HKUST-KnowComp/MLMA_hate_speech](https://github.com/HKUST-KnowComp/MLMA_hate_speech)
     * Task description: Detailed taxonomy with cross-cutting attributes: Hostility, Directness, Target attribute and Target group.
@@ -284,7 +284,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Reference: Ousidhoum, N., Lin, Z., Zhang, H., Song, Y. and Yeung, D., 2019. Multilingual and Multi-Aspect Hate Speech Analysis. ArXiv,. 
   
   
-* Exploring Hate Speech Detection in Multimodal Publications__
+1. __Exploring Hate Speech Detection in Multimodal Publications__
     * Link to publication: [https://arxiv.org/pdf/1910.03814.pdf](https://arxiv.org/pdf/1910.03814.pdf)
     * Link to data: [https://gombru.github.io/2019/10/09/MMHS/](https://gombru.github.io/2019/10/09/MMHS/)
     * Task description: Six primary categories (No attacks to any community, Racist, Sexist, Homophobic, Religion based attack, Attack to other community)
@@ -297,7 +297,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Medium: Text and Images/Memes 
     * Reference: Gomez, R., Gibert, J., Gomez, L. and Karatzas, D., 2019. Exploring Hate Speech Detection in Multimodal Publications. ArXiv,. 
   
-* Predicting the Type and Target of Offensive Posts in Social Media__
+1. __Predicting the Type and Target of Offensive Posts in Social Media__
     * Link to publication: [https://arxiv.org/pdf/1902.09666.pdf](https://arxiv.org/pdf/1902.09666.pdf)
     * Link to data: [http://competitions.codalab.org/ competitions/20011](http://competitions.codalab.org/ competitions/20011)
     * Task description: Branching structure of tasks: Binary (Offensive, Not), Within Offensive (Target, Not), Within Target (Individual, Group, Other) 
@@ -311,7 +311,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Reference: Zampieri, M., Malmasi, S., Nakov, P., Rosenthal, S., Farra, N. and Kumar, R., 2019. SemEval-2019 Task 6: Identifying and Categorizing Offensive Language in Social Media (OffensEval). ArXiv,. 
 
 
-* hatEval, SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter (English)__
+1. __hatEval, SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter (English)__
     * Link to publication: [https://www.aclweb.org/anthology/S19-2007](https://www.aclweb.org/anthology/S19-2007)
     * Link to data: [competitions.codalab.org/competitions/19935](competitions.codalab.org/competitions/19935)
     * Task description: Branching structure of tasks: Binary (Hate, Not), Within Hate (Group, Individual), Within Hate (Agressive, Not)
@@ -324,7 +324,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Medium: Text 
     * Reference: Basile, V., Bosco, C., Fersini, E., Nozza, D., Patti, V., Pardo, F., Rosso, P. and Sanguinetti, M., 2019. SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter. In: Proceedings of the 13th International Workshop on Semantic Evaluation. Minneapolis, Minnesota: Association for Computational Linguistics, pp.54-63.
 
-* Peer to Peer Hate: Hate Speech Instigators and Their Targets__
+1. __Peer to Peer Hate: Hate Speech Instigators and Their Targets__
     * Link to publication: [https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17905/16996](https://aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17905/16996)
     * Link to data: [https://github.com/mayelsherif/hate_speech_icwsm18](https://github.com/mayelsherif/hate_speech_icwsm18)
     * Task description: Binary (Hate/Not), only for tweets which have both a Hate Instigator and Hate Target
@@ -337,7 +337,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Medium: Text 
     * Reference: ElSherief, M., Nilizadeh, S., Nguyen, D., Vigna, G. and Belding, E., 2018. Peer to Peer Hate: Hate Speech Instigators and Their Targets. In: Proceedings of the Twelfth International AAAI Conference on Web and Social Media (ICWSM 2018). Santa Barbara, California: University of California, pp.52-61. 
   
-* Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Content Identification in Indo-European Languages__
+1. __Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Content Identification in Indo-European Languages__
     * Link to publication: [https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true](https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true)
     * Link to data: [https://hasocfire.github.io/hasoc/2019/dataset.html](https://hasocfire.github.io/hasoc/2019/dataset.html) 
     * Task description: Branching structure of tasks. A: Hate / Offensive or Neither, B: Hatespeech, Offensive, or Profane, C: Targeted or Untargeted 
@@ -350,7 +350,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Medium: Text 
     * Reference: Mandl, T., Modha, S., Majumder, P., Patel, D., Dave, M., Mandlia, C. and Patel, A., 2019. Overview of the HASOC track at FIRE 2019. In: Proceedings of the 11th Forum for Information Retrieval Evaluation,. 
 
-* Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior__
+1. __Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior__
     * Link to publication: [https://arxiv.org/pdf/1802.00393.pdf](https://arxiv.org/pdf/1802.00393.pdf)
     * Link to data: [https://dataverse.mpi-sws.org/dataset.xhtml?persistentId=doi:10.5072/FK2/ZDTEMN](https://dataverse.mpi-sws.org/dataset.xhtml?persistentId=doi:10.5072/FK2/ZDTEMN)
     * Task description: Multi-thematic (Abusive, Hateful, Normal, Spam) 
@@ -365,7 +365,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Annotation agreement: 55.9% = 4/5, 36.6% = 3/5, 7.5% = 2/5 
     * Reference: Founta, A., Djouvas, C., Chatzakou, D., Leontiadis, I., Blackburn, J., Stringhini, G., Vakali, A., Sirivianos, M. and Kourtellis, N., 2018. Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior. ArXiv,. 
 
-* A Large Labeled Corpus for Online Harassment Research__
+1. __A Large Labeled Corpus for Online Harassment Research__
     * Link to publication: [http://www.cs.umd.edu/~golbeck/papers/trolling.pdf](http://www.cs.umd.edu/~golbeck/papers/trolling.pdf)
     * Link to data: jgolbeck@umd.edu
     * Task description: Binary (Harassment, Not) 
@@ -378,7 +378,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Medium: Text 
     * Reference: Golbeck, J., Ashktorab, Z., Banjo, R., Berlinger, A., Bhagwan, S., Buntain, C., Cheakalos, P., Geller, A., Gergory, Q., Gnanasekaran, R., Gnanasekaran, R., Hoffman, K., Hottle, J., Jienjitlert, V., Khare, S., Lau, R., Martindale, M., Naik, S., Nixon, H., Ramachandran, P., Rogers, K., Rogers, L., Sarin, M., Shahane, G., Thanki, J., Vengataraman, P., Wan, Z. and Wu, D., 2017. A Large Labeled Corpus for Online Harassment Research. In: Proceedings of the 2017 ACM on Web Science Conference. New York: Association for Computing Machinery, pp.229-233. 
 
-* Ex Machina: Personal Attacks Seen at Scale, Personal attacks__
+1. __Ex Machina: Personal Attacks Seen at Scale, Personal attacks__
     * Link to publication: [https://arxiv.org/pdf/1610.08914](https://arxiv.org/pdf/1610.08914)
     * Link to data: [https://github.com/ewulczyn/wiki-detox](https://github.com/ewulczyn/wiki-detox)
     * Task description: Binary (Personal attack, Not) 
@@ -391,7 +391,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Medium: Text 
     * Reference: Wulczyn, E., Thain, N. and Dixon, L., 2017. Ex Machina: Personal Attacks Seen at Scale. ArXiv,. 
 
-* Ex Machina: Personal Attacks Seen at Scale, Toxicity__
+1. __Ex Machina: Personal Attacks Seen at Scale, Toxicity__
     * Link to publication: [https://arxiv.org/pdf/1610.08914](https://arxiv.org/pdf/1610.08914)
     * Link to data: [https://github.com/ewulczyn/wiki-detox](https://github.com/ewulczyn/wiki-detox)
     * Task description: Toxicity/healthiness judgement (-2 == very toxic, 0 == neutral, 2 == very healthy) 
@@ -404,7 +404,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Medium: Text 
     * Reference: Wulczyn, E., Thain, N. and Dixon, L., 2017. Ex Machina: Personal Attacks Seen at Scale. ArXiv,. 
  
-* Detecting cyberbullying in online communities (World of Warcraft)__
+1. __Detecting cyberbullying in online communities (World of Warcraft)__
     * Link to publication: [http://aisel.aisnet.org/ecis2016_rp/61/](http://aisel.aisnet.org/ecis2016_rp/61/)
     * Link to data: [http://ub-web.de/research/](http://ub-web.de/research/)
     * Task description: Binary (Harassment, Not) 
@@ -417,7 +417,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Medium: Text 
     * Reference: Bretschneider, U. and Peters, R., 2016. Detecting Cyberbullying in Online Communities. Research Papers, 61. 
 
-* Detecting cyberbullying in online communities (League of Legends)__
+1. __Detecting cyberbullying in online communities (League of Legends)__
     * Link to publication: [http://aisel.aisnet.org/ecis2016_rp/61/](http://aisel.aisnet.org/ecis2016_rp/61/)
     * Link to data: [http://ub-web.de/research/](http://ub-web.de/research/)
     * Task description: Binary (Harassment, Not) 
@@ -430,7 +430,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Medium: Text 
     * Reference: Bretschneider, U. and Peters, R., 2016. Detecting Cyberbullying in Online Communities. Research Papers, 61. 
   
-* A Quality Type-aware Annotated Corpus and Lexicon for Harassment Research__
+1. __A Quality Type-aware Annotated Corpus and Lexicon for Harassment Research__
     * Link to publication: [https://arxiv.org/pdf/1802.09416.pdf](https://arxiv.org/pdf/1802.09416.pdf)
     * Link to data: [https://github.com/Mrezvan94/Harassment-Corpus](https://github.com/Mrezvan94/Harassment-Corpus)
     * Task description: Multi-topic harassment detection
@@ -443,7 +443,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Medium: Text 
     * Reference: Rezvan, M., Shekarpour, S., Balasuriya, L., Thirunarayan, K., Shalin, V. and Sheth, A., 2018. A Quality Type-aware Annotated Corpus and Lexicon for Harassment Research. ArXiv,.
 
-* Ex Machina: Personal Attacks Seen at Scale, Aggression and Friendliness__
+1. __Ex Machina: Personal Attacks Seen at Scale, Aggression and Friendliness__
     * Link to publication: [https://arxiv.org/pdf/1610.08914](https://arxiv.org/pdf/1610.08914)
     * Link to data: [https://github.com/ewulczyn/wiki-detox](https://github.com/ewulczyn/wiki-detox)
     * Task description: Aggression/friendliness judgement on a 5 point scale. (-2 == very aggressive, 0 == neutral, 3 == very friendly).
@@ -458,7 +458,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 
 
 ### French
-* CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (French)__
+1. __CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (French)__
     * Link to publication: [https://www.aclweb.org/anthology/P19-1271.pdf](https://www.aclweb.org/anthology/P19-1271.pdf)
     * Link to data: [https://github.com/marcoguerini/CONAN](https://github.com/marcoguerini/CONAN)
     * Task description: Binary (Islamophobic / not), Multi-topic (Culture, Economics, Crimes, Rapism, Terrorism, Women Oppression, History, Other/generic)
@@ -472,7 +472,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Reference: Chung, Y., Kuzmenko, E., Tekiroglu, S. and Guerini, M., 2019. CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech. In: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. Florence, Italy: Association for Computational Linguistics, pp.2819-2829. 
 
 
-* Multilingual and Multi-Aspect Hate Speech Analysis (French)__
+1. __Multilingual and Multi-Aspect Hate Speech Analysis (French)__
     * Link to publication: [https://arxiv.org/abs/1908.11049](https://arxiv.org/abs/1908.11049)
     * Link to data: [https://github.com/HKUST-KnowComp/MLMA_hate_speech](https://github.com/HKUST-KnowComp/MLMA_hate_speech)
     * Task description: Detailed taxonomy with cross-cutting attributes: Hostility, Directness, Target Attribute, Target Group, How annotators felt on seeing the tweet. 
@@ -487,7 +487,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 
 
 ### German
-* Measuring the Reliability of Hate Speech Annotations: The Case of the European Refugee Crisis__
+1. __Measuring the Reliability of Hate Speech Annotations: The Case of the European Refugee Crisis__
     * Link to publication: [https://arxiv.org/pdf/1701.08118.pdf](https://arxiv.org/pdf/1701.08118.pdf)
     * Link to data: [https://github.com/UCSM-DUE/IWG_hatespeech_public](https://github.com/UCSM-DUE/IWG_hatespeech_public)
     * Task description: Binary (Anti-refugee hate, None) 
@@ -500,7 +500,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Medium: Text 
     * Reference: Ross, B., Rist, M., Carbonell, G., Cabrera, B., Kurowsky, N. and Wojatzki, M., 2017. Measuring the Reliability of Hate Speech Annotations: The Case of the European Refugee Crisis. ArXiv,. 
 
-* Detecting Offensive Statements Towards Foreigners in Social Media__
+1. __Detecting Offensive Statements Towards Foreigners in Social Media__
     * Link to publication: [https://pdfs.semanticscholar.org/23dc/df7c7e82807445afd9f19474fc0a3d8169fe.pdf](https://pdfs.semanticscholar.org/23dc/df7c7e82807445afd9f19474fc0a3d8169fe.pdf)
     * Link to data: [http://ub-web.de/research/](http://ub-web.de/research/)
     * Task description: Hierarchical (Anti-foreigner prejudice, split into (1) slightly offensive/offensive and (2) explicitly/substantially offensive). 6 targets (Foreigner, Government, Press, Community, Other, Unknown)
@@ -513,7 +513,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Medium: Text 
     * Reference: Bretschneider, U. and Peters, R., 2017. Detecting Offensive Statements towards Foreigners in Social Media. In: Proceedings of the 50th Hawaii International Conference on System Sciences. 
 
-* GermEval 2018__
+1. __GermEval 2018__
  * Link to publication: [https://www.researchgate.net/publication/327914386_Overview_of_the_GermEval_2018_Shared_Task_on_the_Identification_of_Offensive_Language](https://www.researchgate.net/publication/327914386_Overview_of_the_GermEval_2018_Shared_Task_on_the_Identification_of_Offensive_Language)
     * Link to data: [https://github.com/uds-lsv/GermEval-2018-Data](https://github.com/uds-lsv/GermEval-2018-Data)
     * Task description: Branching structure: Binary (Offense, Other), 3 levels within Offense (Abuse, Insult, Profanity) 
@@ -526,7 +526,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
     * Medium: Text 
     * Reference: Wiegand, M., Siegel, M. and Ruppenhofer, J., 2018. Overview of the GermEval 2018 Shared Task on the Identification of Offensive Language. In: Proceedings of GermEval 2018, 14th Conference on Natural Language Processing (KONVENS 2018). Vienna, Austria: Research Gate. 
 
-* Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Content Identification in Indo-European Languages__
+1. __Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Content Identification in Indo-European Languages__
     * Link to publication: [https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true](https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true)
     * Link to data: [https://hasocfire.github.io/hasoc/2019/dataset.html](https://hasocfire.github.io/hasoc/2019/dataset.html)
     * Task description: A: Hate / Offensive or neither, B: Hatespeech, Offensive, or Profane 
@@ -541,7 +541,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 
  
 ### Greek
-* Deep Learning for User Comment Moderation, Flagged Comments__
+1. __Deep Learning for User Comment Moderation, Flagged Comments__
     * Link to publication: [https://www.aclweb.org/anthology/W17-3004](https://www.aclweb.org/anthology/W17-3004
 https://www.aclweb.org/anthology/D17-1117)
     * Link to data: [http://www.straintek.com/data/](http://www.straintek.com/data/)
@@ -555,7 +555,7 @@ https://www.aclweb.org/anthology/D17-1117)
     * Medium: text 
     * Reference: Pavlopoulos, J., Malakasiotis, P. and Androutsopoulos, I., 2017. Deep Learning for User Comment Moderation. In: Proceedings of the First Workshop on Abusive Language Online. Vancouver, Canada: Association for Computational Linguistics, pp.25-35. 
 
-* Deep Learning for User Comment Moderation, Moderated Comments__
+1. __Deep Learning for User Comment Moderation, Moderated Comments__
     * Link to publication: [https://www.aclweb.org/anthology/W17-3004](https://www.aclweb.org/anthology/W17-3004)
     * Link to data: [http://www.straintek.com/data/](http://www.straintek.com/data/)
     * Task description: Binary (Flagged, Not) 
@@ -568,7 +568,7 @@ https://www.aclweb.org/anthology/D17-1117)
     * Medium: text 
     * Reference: Pavlopoulos, J., Malakasiotis, P. and Androutsopoulos, I., 2017. Deep Learning for User Comment Moderation. In: Proceedings of the First Workshop on Abusive Language Online. Vancouver, Canada: Association for Computational Linguistics, pp.25-35. 
 
-* Offensive Language Identification in Greek__
+1. __Offensive Language Identification in Greek__
     * Link to publication: [https://arxiv.org/pdf/2003.07459v1.pdf](https://arxiv.org/pdf/2003.07459v1.pdf)
     * Link to data: [https://sites.google.com/site/offensevalsharedtask/home](https://sites.google.com/site/offensevalsharedtask/home)
     * Task description: Branching structure of tasks: Binary (Offensive, Not), Within Offensive (Target, Not), Within Target (Individual, Group, Other) 
@@ -583,7 +583,7 @@ https://www.aclweb.org/anthology/D17-1117)
 
  
 ### Hindi-English
-* Aggression-annotated Corpus of Hindi-English Code-mixed Data__
+1. __Aggression-annotated Corpus of Hindi-English Code-mixed Data__
     * Link to publication: [https://arxiv.org/pdf/1803.09402](https://arxiv.org/pdf/1803.09402)
     * Link to data: [https://github.com/kraiyani/Facebook-Post-Aggression-Identification](https://github.com/kraiyani/Facebook-Post-Aggression-Identification)
     * Task description: 3 part hierachy for hate (None, Covert Aggression, Overt Aggression), 4 part target categorisation (Physical threat, Sexual threat, Identity threat, Non-threatening aggression), 3-part discursive role categorisation (Attack, Defend, Abet)
@@ -596,7 +596,7 @@ https://www.aclweb.org/anthology/D17-1117)
     * Medium: Text 
     * Reference: Kumar, R., Reganti, A., Bhatia, A. and Maheshwari, T., 2018. Aggression-annotated Corpus of Hindi-English Code-mixed Data. ArXiv,. 
 
-* Aggression-annotated Corpus of Hindi-English Code-mixed Data__
+1. __Aggression-annotated Corpus of Hindi-English Code-mixed Data__
     * Link to publication: [https://arxiv.org/pdf/1803.09402](https://arxiv.org/pdf/1803.09402)
     * Link to data: [https://github.com/kraiyani/Facebook-Post-Aggression-Identification](https://github.com/kraiyani/Facebook-Post-Aggression-Identification)
     * Task description: 3 part hierachy for hate (None, Covert Aggression, Overt Aggression), 4 part target categorisation (Physical threat, Sexual threat, Identity threat, Non-threatening aggression), 3-part discursive role categorisation (Attack, Defend, Abet)
@@ -609,7 +609,7 @@ https://www.aclweb.org/anthology/D17-1117)
     * Medium: Text 
     * Reference: Kumar, R., Reganti, A., Bhatia, A. and Maheshwari, T., 2018. Aggression-annotated Corpus of Hindi-English Code-mixed Data. ArXiv,. 
    
-* Did You Offend Me? Classification of Offensive Tweets in Hinglish Language__
+1. __Did You Offend Me? Classification of Offensive Tweets in Hinglish Language__
     * Link to publication: [https://www.aclweb.org/anthology/W18-5118](https://www.aclweb.org/anthology/W18-5118)
     * Link to data: [https://github.com/pmathur5k10/Hinglish-Offensive-Text-Classification](https://github.com/pmathur5k10/Hinglish-Offensive-Text-Classification)
     * Task description: Hierarchy (Not Offensive, Abusive, Hate) 
@@ -622,7 +622,7 @@ https://www.aclweb.org/anthology/D17-1117)
     * Medium: Text 
     * Reference: Mathur, P., Sawhney, R., Ayyar, M. and Shah, R., 2018. Did you offend me? Classification of Offensive Tweets in Hinglish Language. In: Proceedings of the 2nd Workshop on Abusive Language Online (ALW2). Brussels, Belgium: Association for Computational Linguistics, pp.138-148. 
 
-* A Dataset of Hindi-English Code-Mixed Social Media Text for Hate Speech Detection__
+1. __A Dataset of Hindi-English Code-Mixed Social Media Text for Hate Speech Detection__
     * Link to publication: [https://www.aclweb.org/anthology/W18-1105](https://www.aclweb.org/anthology/W18-1105)
     * Link to data: [https://github.com/deepanshu1995/HateSpeech-Hindi-English-Code-Mixed-Social-Media-Text](https://github.com/deepanshu1995/HateSpeech-Hindi-English-Code-Mixed-Social-Media-Text)
     * Task description: Binary (Hate, Not) 
@@ -635,7 +635,7 @@ https://www.aclweb.org/anthology/D17-1117)
     * Medium: Text 
     * Reference: Bohra, A., Vijay, D., Singh, V., Sarfaraz Akhtar, S. and Shrivastava, M., 2018. A Dataset of Hindi-English Code-Mixed Social Media Text for Hate Speech Detection. In: Proceedings of the Second Workshop on Computational Modeling of People’s Opinions, Personality, and Emotions in Social Media. New Orleans, Louisiana: Association for Computational Linguistics, pp.36-41. 
 
-* Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Content Identification in Indo-European Languages__
+1. __Overview of the HASOC track at FIRE 2019: Hate Speech and Offensive Content Identification in Indo-European Languages__
     * Link to publication: [https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true](https://dl.acm.org/doi/pdf/10.1145/3368567.3368584?download=true)
     * Link to data: [https://hasocfire.github.io/hasoc/2019/dataset.htm](https://hasocfire.github.io/hasoc/2019/dataset.html)
     * Task description: A: Hate, Offensive or Neither, B: Hatespeech, Offensive, or Profane, C: Targeted or Untargeted 
@@ -650,7 +650,7 @@ https://www.aclweb.org/anthology/D17-1117)
 
  
 ### Indonesian
-* Hate Speech Detection in the Indonesian Language: A Dataset and Preliminary Study__
+1. __Hate Speech Detection in the Indonesian Language: A Dataset and Preliminary Study__
     * Link to publication: [https://ieeexplore.ieee.org/document/8355039](https://ieeexplore.ieee.org/document/8355039)
     * Link to data: [https://github.com/ialfina/id-hatespeech-detection](https://github.com/ialfina/id-hatespeech-detection)
     * Task description: Binary (Hate, Not) 
@@ -664,7 +664,7 @@ https://www.aclweb.org/anthology/D17-1117)
     * Reference: Alfina, I., Mulia, R., Fanany, M. and Ekanata, Y., 2017. Hate Speech Detection in the Indonesian Language: A Dataset and Preliminary Study. In: International Conference on Advanced Computer Science and Information Systems. pp.233-238. 
 
 
-* Multi-Label Hate Speech and Abusive Language Detection in Indonesian Twitter__
+1. __Multi-Label Hate Speech and Abusive Language Detection in Indonesian Twitter__
     * Link to publication: [https://www.aclweb.org/anthology/W19-3506](https://www.aclweb.org/anthology/W19-3506)
     * Link to data: [https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection](https://github.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection)
     * Task description: (No hate speech, No hate speech but abusive, Hate speech but no abuse, Hate speech and abuse), within hate, category (Religion/creed, Race/ethnicity, Physical/disability, Gender/sexual orientation, Other invective/slander), within hate, strength (Weak, Moderate and Strong)
@@ -677,7 +677,7 @@ https://www.aclweb.org/anthology/D17-1117)
     * Medium: Text 
     * Reference: Okky Ibrohim, M. and Budi, I., 2019. Multi-label Hate Speech and Abusive Language Detection in Indonesian Twitter. In: Proceedings of the Third Workshop on Abusive Language Online. Florence, Italy: Association for Computational Linguistics, pp.46-57. 
 
- __50. A Dataset and Preliminaries Study for Abusive Language Detection in Indonesian Social Media__
+1. __A Dataset and Preliminaries Study for Abusive Language Detection in Indonesian Social Media__
     * Link to publication: [https://www.sciencedirect.com/science/article/pii/S1877050918314583](https://www.sciencedirect.com/science/article/pii/S1877050918314583)
     * Link to data: [https://github.com/okkyibrohim/id-abusive-language-detection](https://github.com/okkyibrohim/id-abusive-language-detection)
     * Task description: Hierarchical (Not abusive, Abusive but not offensive, Offensive) 
@@ -692,7 +692,7 @@ https://www.aclweb.org/anthology/D17-1117)
 
  
 ### Italian
-* An Italian Twitter Corpus of Hate Speech against Immigrants__
+1. __An Italian Twitter Corpus of Hate Speech against Immigrants__
     * Link to publication: [https://www.aclweb.org/anthology/L18-1443](https://www.aclweb.org/anthology/L18-1443)
     * Link to data: [https://github.com/msang/hate-speech-corpus](https://github.com/msang/hate-speech-corpus)
     * Task description: Binary (Immigrants/Roma/Muslims, Not), additional categories. Within Hate, Intensity measurement (Aggressiveness: No, Weak, Strong, Offensiveness: No, Weak, Strong, Irony: No, Yes, Stereotype: No, Yes, Incitement degree: 0-4) 
@@ -705,7 +705,7 @@ https://www.aclweb.org/anthology/D17-1117)
     * Medium: Text 
     * Reference: Sanguinetti, M., Poletto, F., Bosco, C., Patti, V. and Stranisci, M., 2018. An Italian Twitter Corpus of Hate Speech against Immigrants. In: Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018). Miyazaki, Japan: European Language Resources Association (ELRA). 
   
-* Overview of the EVALITA 2018 Hate Speech Detection Task (Facebook)__
+1. __Overview of the EVALITA 2018 Hate Speech Detection Task (Facebook)__
     * Link to publication: [http://ceur-ws.org/Vol-2263/paper010.pdf](http://ceur-ws.org/Vol-2263/paper010.pdf)
     * Link to data: [http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html](http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html)
     * Task description: Binary (Hate, Not), Within hate for Facebook only, strength (No hate, Weak hate, Strong hate) and theme ((1) religion, (2) physical and/or mental handicap, (3) socio-economic status, (4) politics, (5) race, (6) sex and gender, (7) Other) 
@@ -719,7 +719,7 @@ https://www.aclweb.org/anthology/D17-1117)
     * Reference: Bosco, C., Dell'Orletta, F. and Poletto, F., 2018. Overview of the EVALITA 2018 Hate Speech Detection Task. In: EVALITA 2018-Sixth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. CEUR, pp.1-9. 
 
 
-* Overview of the EVALITA 2018 Hate Speech Detection Task (Twitter)__
+1. __Overview of the EVALITA 2018 Hate Speech Detection Task (Twitter)__
     * Link to publication: [http://ceur-ws.org/Vol-2263/paper010.pdf](http://ceur-ws.org/Vol-2263/paper010.pdf)
     * Link to data: [http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html](http://www.di.unito.it/~tutreeb/haspeede-evalita18/data.html) 
     * Task description: Binary (Hate, Not), Within Hate For Twitter only Intensity (1-4 rating), Aggressiveness (No, Weak, Strong), Offensiveness (No, Weak, Strong), Irony (Yes, No) 
@@ -732,7 +732,7 @@ https://www.aclweb.org/anthology/D17-1117)
     * Medium: Text 
     * Reference: Bosco, C., Dell'Orletta, F. and Poletto, F., 2018. Overview of the EVALITA 2018 Hate Speech Detection Task. In: EVALITA 2018-Sixth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. CEUR, pp.1-9. 
 
-* CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (Italian)__
+1. __CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (Italian)__
     * Link to publication: [https://www.aclweb.org/anthology/P19-1271.pdf](https://www.aclweb.org/anthology/P19-1271.pdf)
     * Link to data: [https://github.com/marcoguerini/CONAN](https://github.com/marcoguerini/CONAN)
     * Task description: Binary (Islamophobic, Not), Multi-topic (Culture, Economics, Crimes, Rapism, Terrorism, Women Oppression, History, Other/generic)
@@ -746,7 +746,7 @@ https://www.aclweb.org/anthology/D17-1117)
     * Reference: Chung, Y., Kuzmenko, E., Tekiroglu, S. and Guerini, M., 2019. CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech. In: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. Florence, Italy: Association for Computational Linguistics, pp.2819-2829. 
 
 
-* Creating a WhatsApp Dataset to Study Pre-teen Cyberbullying__
+1. __Creating a WhatsApp Dataset to Study Pre-teen Cyberbullying__
     * Link to publication: [https://www.aclweb.org/anthology/W18-5107](https://www.aclweb.org/anthology/W18-5107)
     * Link to data: [https://github.com/dhfbk/WhatsApp-Dataset](https://github.com/dhfbk/WhatsApp-Dataset)
     * Task description: Binary (Cyberbullying, Not) 
@@ -761,7 +761,7 @@ https://www.aclweb.org/anthology/D17-1117)
 
  
 ### Polish
-* Results of the PolEval 2019 Shared Task 6:First Dataset and Open Shared Task for Automatic Cyberbullying Detection in Polish Twitter__
+1. __Results of the PolEval 2019 Shared Task 6:First Dataset and Open Shared Task for Automatic Cyberbullying Detection in Polish Twitter__
     * Link to publication: [http://poleval.pl/files/poleval2019.pdf](http://poleval.pl/files/poleval2019.pdf)
     * Link to data: [http://poleval.pl/tasks/task6](http://poleval.pl/tasks/task6)
     * Task description: Harmfulness score (three values), Multilabel from seven phenomena
@@ -776,7 +776,7 @@ https://www.aclweb.org/anthology/D17-1117)
 
  
 ### Portuguese
-* A Hierarchically-Labeled Portuguese Hate Speech Dataset__
+1. __A Hierarchically-Labeled Portuguese Hate Speech Dataset__
     * Link to publication: [https://www.aclweb.org/anthology/W19-3510](https://www.aclweb.org/anthology/W19-3510)
     * Link to data: [https://b2share.eudat.eu/records/9005efe2d6be4293b63c3cffd4cf193e](https://b2share.eudat.eu/records/9005efe2d6be4293b63c3cffd4cf193e)
     * Task description: Binary (Hate, Not), Multi-level (81 categories, identified inductively; categories have different granularities and content can be assigned to multiple categories at once) 
@@ -789,7 +789,7 @@ https://www.aclweb.org/anthology/D17-1117)
     * Medium: Text 
     * Reference: Fortuna, P., Rocha da Silva, J., Soler-Company, J., Warner, L. and Nunes, S., 2019. A Hierarchically-Labeled Portuguese Hate Speech Dataset. In: Proceedings of the Third Workshop on Abusive Language Online. Florence, Italy: Association for Computational Linguistics, pp.94-104. 
 
-* Offensive Comments in the Brazilian Web: A Dataset and Baseline Results__
+1. __Offensive Comments in the Brazilian Web: A Dataset and Baseline Results__
     * Link to publication: [http://www.each.usp.br/digiampietri/BraSNAM/2017/p04.pdf](http://www.each.usp.br/digiampietri/BraSNAM/2017/p04.pdf)
     * Link to data: [https://github.com/rogersdepelle/OffComBR](https://github.com/rogersdepelle/OffComBR)
     * Task description: Binary (Offensive, Not), Target (Xenophobia, homophobia, sexism, racism, cursing, religious intolerance) 
@@ -804,7 +804,7 @@ https://www.aclweb.org/anthology/D17-1117)
 
 
 ### Slovene
-* Datasets of Slovene and Croatian Moderated News Comments__
+1. __Datasets of Slovene and Croatian Moderated News Comments__
     * Link to publication: [https://www.aclweb.org/anthology/W18-5116](https://www.aclweb.org/anthology/W18-5116)
     * Link to data: [http://hdl.handle.net/11356/1201](http://hdl.handle.net/11356/1201)
     * Task description: Binary (Deleted, Not) 
@@ -819,7 +819,7 @@ https://www.aclweb.org/anthology/D17-1117)
   
   
 ### Spanish
-* Overview of MEX-A3T at IberEval 2018: Authorship and Aggressiveness Analysis in Mexican Spanish Tweets__
+1. __Overview of MEX-A3T at IberEval 2018: Authorship and Aggressiveness Analysis in Mexican Spanish Tweets__
     * Link to publication: [http://ceur-ws.org/Vol-2150/overview-mex-a3t.pdf](http://ceur-ws.org/Vol-2150/overview-mex-a3t.pdf)
     * Link to data: [https://mexa3t.wixsite.com/home/aggressive-detection-track](https://mexa3t.wixsite.com/home/aggressive-detection-track)
     * Task description: Binary (Aggressive, Not) 
@@ -832,7 +832,7 @@ https://www.aclweb.org/anthology/D17-1117)
     * Medium: Text 
     * Reference: Alvarez-Carmona, M., Guzman-Falcon, E., Montes-y-Gomez, M., Escalante, H., Villasenor-Pineda, L., Reyes-Meza, V. and Rico-Sulayes, A., 2018. Overview of MEX-A3T at IberEval 2018: Authorship and aggressiveness analysis in Mexican Spanish tweets. In: Proceedings of the Third Workshop on Evaluation of Human Language Technologies for Iberian Languages (IberEval 2018). 
 
-* Overview of the Task on Automatic Misogyny Identification at IberEval 2018 (Spanish)__
+1. __Overview of the Task on Automatic Misogyny Identification at IberEval 2018 (Spanish)__
     * Link to publication: [http://ceur-ws.org/Vol-2150/overview-AMI.pdf](http://ceur-ws.org/Vol-2150/overview-AMI.pdf)
     * Link to data: [https://amiibereval2018.wordpress.com/important-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/) 
     * Task description: Binary (Misogyny, Not), 5 categories (Stereotype, Dominance, Derailing, Sexual harassment, Discredit), Target of misogyny (Active or Passive) 
@@ -845,7 +845,7 @@ https://www.aclweb.org/anthology/D17-1117)
     * Medium: Text 
     * Reference: Fersini, E., Rosso, P. and Anzovino, M., 2018. Overview of the Task on Automatic Misogyny Identification at IberEval 2018. In: Proceedings of the Third Workshop on Evaluation of Human Language Technologies for Iberian Languages (IberEval 2018). 
 
-* hatEval, SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter (Spanish)__
+1. __hatEval, SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter (Spanish)__
     * Link to publication: [https://www.aclweb.org/anthology/S19-2007](https://www.aclweb.org/anthology/S19-2007)
     * Link to data: [competitions.codalab.org/competitions/19935](competitions.codalab.org/competitions/19935)
     * Task description: Branching structure of tasks: Binary (Hate, Not), Within Hate (Group, Individual), Within Hate (Agressive, Not)
@@ -860,7 +860,7 @@ https://www.aclweb.org/anthology/D17-1117)
 
 
 ### Turkish
-* A Corpus of Turkish Offensive Language on Social Media__
+1. __A Corpus of Turkish Offensive Language on Social Media__
     * Link to publication: [https://coltekin.github.io/offensive-turkish/troff.pdf](https://coltekin.github.io/offensive-turkish/troff.pdf)
     * Link to data: [https://sites.google.com/site/offensevalsharedtask/home](https://sites.google.com/site/offensevalsharedtask/home) 
     * Task description: Branching structure of tasks: Binary (Hate, Not), Within Hate (Group, Individual), Within Hate (Agressive, Not)
