@@ -871,7 +871,24 @@ __63. A Corpus of Turkish Offensive Language on Social Media__
 * Level of annotation: Posts 
 * Platform: Twitter 
 * Medium: Text 
-* Reference: Çöltekin, C., 2020. A Corpus of Turkish Offensive Language on Social Media. In: Proceedings of the 12th International Conference on Language Resources and Evaluation. 
+* Reference: Çöltekin, C., 2020. A Corpus of Turkish Offensive Language on Social Media. In: Proceedings of the 12th International Conference on Language Resources and Evaluation.
+
+### Urdu-English
+__64. Hate-Speech and Offensive Language Detection in Roman Urdu__
+* Link to publication: [https://www.aclweb.org/anthology/2020.emnlp-main.197/](https://www.aclweb.org/anthology/2020.emnlp-main.197/)
+* Link to data: [https://github.com/haroonshakeel/roman_urdu_hate_speech](https://github.com/haroonshakeel/roman_urdu_hate_speech) 
+* Task description:  There are 2 subtasks, Coarse-grained Classification(Hate-Offensive vs Normal) and Fine-grained classification( Abusive/Offensive, Sexism, Religious Hate, Profane, Normal)
+* Details of task: Binary classification + Hate-Offensive label is further broken down into 4 fine-grained labels
+* Size of dataset: 10041 
+* Percentage Abusive/Offensive: 0.24
+* Percentage Sexism: 0.083
+* Percentage Religious Hate: 0.077
+* Percentage Profane: 0.06
+* Language: Urdu-English
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Reference: Hammad Rizwan, Muhammad Haroon Shakeel, and Asim Karim. 2020.  Hate-speech and offensive language detection in Roman Urdu.  In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP),  pages  2512–2522,  Online.  Association for Computational Linguistics.
 
 
 ---
@@ -901,6 +918,10 @@ __63. A Corpus of Turkish Offensive Language on Social Media__
 1. __Chandrasekharan et al.__
    * Data link: [Reddit hate lexicon](https://www.dropbox.com/sh/5ud4fwxvb6q7k20/AAAH_SN8i5cfmJRKJteEW2b2a?dl=0)
    * Reference: [You can't stay here: the efficacy of Reddit's 2015 ban examined through hate speech](http://comp.social.gatech.edu/papers/cscw18-chand-hate.pdf), Proc. ACL Hum-Comput Interact. 
+
+1. __Rizwan et al.__
+   * Data link: [Roman Urdu hate lexicon](https://github.com/haroonshakeel/roman_urdu_hate_speech)
+   * Reference: [Roman Urdu Hate-speech and Offensive Language Detection](https://www.aclweb.org/anthology/2020.emnlp-main.197/), Proc. EMNLP 2020. 
 
 ---
 
