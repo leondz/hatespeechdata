@@ -1,4 +1,7 @@
 
+**We are working on a [ckan instance](http://ckan.hatespeechdata.com) -- please give it a look! Contributions welcome :)**
+
+
 This page catalogues datasets annotated for hate speech, online abuse, and offensive language. They may be useful for e.g. training a natural language processing system to detect this language.
 
 The list is maintained by [Leon Derczynski](https://www.derczynski.com/) and [Bertie Vidgen](https://www.turing.ac.uk/people/researchers/bertie-vidgen).
