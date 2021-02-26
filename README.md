@@ -12,9 +12,6 @@ If you use these resources, please cite (and read!) our paper: [Directions in Ab
 
 If you're looking for a good paper on online hate training datasets (beyond our paper, of course!) then have a look at ['Resources and benchmark corpora for hate speech detection: a systematic review'](https://link.springer.com/article/10.1007/s10579-020-09502-8) by Poletto et al. in *Language Resources and Evaluation*.
 
-
-NB: Feb 2021 - We've built a new replacement site to make resource management easier, and will launch in the next two months; please keep sending pull requests!
-
 ## List of datasets
 
 ### Arabic
