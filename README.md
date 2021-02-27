@@ -315,7 +315,7 @@ __22. Predicting the Type and Target of Offensive Posts in Social Media__
 
 __23. hatEval, SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter (English)__
 * Link to publication: [https://www.aclweb.org/anthology/S19-2007](https://www.aclweb.org/anthology/S19-2007)
-* Link to data: [competitions.codalab.org/competitions/19935](competitions.codalab.org/competitions/19935)
+* Link to data: [http://competitions.codalab.org/competitions/19935](competitions.codalab.org/competitions/19935)
 * Task description: Branching structure of tasks: Binary (Hate, Not), Within Hate (Group, Individual), Within Hate (Agressive, Not)
 * Details of task: Group-directed + Person-directed 
 * Size of dataset: 13,000 
