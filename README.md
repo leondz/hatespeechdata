@@ -1,5 +1,5 @@
 
-**We are working on a [ckan instance](http://ckan.hatespeechdata.com) -- please give it a look! Contributions welcome :)**
+<!-- **We are working on a [ckan instance](http://ckan.hatespeechdata.com) -- please give it a look! Contributions welcome :)** -->
 
 
 This page catalogues datasets annotated for hate speech, online abuse, and offensive language. They may be useful for e.g. training a natural language processing system to detect this language.
@@ -13,6 +13,22 @@ If you use these resources, please cite (and read!) our paper: [Directions in Ab
 If you're looking for a good paper on online hate training datasets (beyond our paper, of course!) then have a look at ['Resources and benchmark corpora for hate speech detection: a systematic review'](https://link.springer.com/article/10.1007/s10579-020-09502-8) by Poletto et al. in *Language Resources and Evaluation*.
 
 ## List of datasets
+<!-- dataset template
+
+* Link to publication: []()
+* Link to data: []()
+* Task description: e.g. Binary (Hate, Not) 
+* Details of task: Free-text description
+* Size of dataset: give the number of instances of abusive/non-abusive/other items
+* Percentage abusive: e.g. 1.2%
+* Language: e.g. Arabic
+* Level of annotation: e.g. Posts, User, Conversation, ... 
+* Platform: e.g. twitter, snapchat, ..
+* Medium: text / image / audio / ...
+* Reference: 
+
+-->
+
 
 ### Arabic
 #### Are They our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere
