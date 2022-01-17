@@ -182,7 +182,7 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 
 #### Detecting Online Hate Speech Using Context Aware Models
 * Link to publication: [https://arxiv.org/pdf/1710.07395.pdf](https://arxiv.org/pdf/1710.07395.pdf)
-* Link to data: https://github.com/sjtuprog/fox-news-comments(https://github.com/sjtuprog/fox-news-comments) 
+* Link to data: [https://github.com/sjtuprog/fox-news-comments](https://github.com/sjtuprog/fox-news-comments) 
 * Task description: Binary (Hate / not)
 * Details of task: Hate per se 
 * Size of dataset: 1528 
