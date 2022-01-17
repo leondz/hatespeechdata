@@ -825,7 +825,7 @@ https://www.aclweb.org/anthology/D17-1117)
 * Link to publication: [https://aclanthology.org/2020.alw-1.8.pdf](https://aclanthology.org/2020.alw-1.8.pdf)
 * Link to data: License Required (Last checked 17/01/2022)
 * Task description: Binary (Hate, Not)
-* Details of task: 
+* Details of task: Toxicity, Harassment, Sexism, Homophobia, Nationalism
 * Size of dataset: 100,000
 * Percentage abusive: NA
 * Language: Russian
