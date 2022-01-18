@@ -820,6 +820,19 @@ https://www.aclweb.org/anthology/D17-1117)
 * Medium: Text 
 * Reference: de Pelle, R. and Moreira, V., 2017. Offensive Comments in the Brazilian Web: A Dataset and Baseline Results. In: VI Brazilian Workshop on Social Network Analysis and Mining. SBC. 
 
+### Russian
+#### Reducing Unintended Identity Bias in Russian Hate Speech Detection
+* Link to publication: [https://aclanthology.org/2020.alw-1.8.pdf](https://aclanthology.org/2020.alw-1.8.pdf)
+* Link to data: License Required (Last checked 17/01/2022)
+* Task description: Binary (Hate, Not)
+* Details of task: Toxicity, Harassment, Sexism, Homophobia, Nationalism
+* Size of dataset: 100,000
+* Percentage abusive: NA
+* Language: Russian
+* Level of annotation: Posts 
+* Platform: Youtube
+* Medium: Text
+* Reference: Zueva, Nadezhda, et al, Oct. 2020. Reducing Unintended Identity Bias in Russian Hate Speech Detection. In: Proceedings of the Fourth Workshop on Online Abuse and Harms, pages 65–69
 
 ### Slovene
 #### Datasets of Slovene and Croatian Moderated News Comments
