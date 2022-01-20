@@ -192,6 +192,19 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 * Platform: Fox News 
 * Medium: Text 
 * Reference: Gao, L. and Huang, R., 2018. Detecting Online Hate Speech Using Context Aware Models. ArXiv,. 
+
+### The Gab Hate Corpus: A collection of 27k posts annotated for hate speech
+* Link to publication: [https://psyarxiv.com/hqjxn/](https://psyarxiv.com/hqjxn/)
+* Link to data: [https://osf.io/edua3/](https://osf.io/edua3/)
+* Task description: Binary (Hate vs. Offensive/Vulgarity), Binary (Assault on human Dignity/Call for Violence – sub task on message delivery, binary: explicit/implicit), Multinomial classification: Identity based hate (race/ethnicity, nationality/regionalism/xenophobia, gender, religion/belief system, sexual orientation, ideology, political identification/party, mental/physical health)  
+* Details of task: Group-directed + Person-directed
+* Size of dataset: 27,665 
+* Percentage abusive: 0.09 Hate, 0.06 Offensive/Vulgar
+* Language: English
+* Level of annotation: Post
+* Platform: Gab
+* Medium: Text
+* Reference: Kennedy, B., Araria, M., Mostafazadeh Davani, A., Yeh, L., Omrani, A., Kim, Y., Koombs, K., Havaldar, S., Portillo-Wightman, G., Gonzalez, E., Hoover, J., Azatain, A., Hussain, A., Lara, A., Olmos, G., Omary, A., Park, C., Wang, C., Wang, X., Zhang, Y. and Dehghani, M., 2018, The Gab Hate Corpus: A collection of 27k posts annotated for hate speech. PsyArXiv. 
  
 #### Are You a Racist or Am I Seeing Things? Annotator Influence on Hate Speech Detection on Twitter
 * Link to publication: [https://pdfs.semanticscholar.org/3eeb/b7907a9b94f8d65f969f63b76ff5f643f6d3.pdf](https://pdfs.semanticscholar.org/3eeb/b7907a9b94f8d65f969f63b76ff5f643f6d3.pdf)
@@ -499,6 +512,20 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Platform: Wikipedia Talk Pages
 * Medium: Text
 * Reference: Pavlopoulos, J., Sorensen, J., Dixon, L., Thain, N., & Androutsopoulos, I. (2020). Toxicity Detection: Does Context Really Matter? ArXiv:2006.00998 [Cs].
+
+### Anatomy of Online Hate: Developing a Taxonomy and Machine Learning Models for Identifying and Classifying Hate in Online News Media 
+* Link to publication: [https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewFile/17885/17024](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewFile/17885/17024)
+* Link to data: [https://www.dropbox.com/s/21wtzy9arc5skr8/ICWSM18%20-%20SALMINEN%20ET%20AL.xlsx?dl=0](https://www.dropbox.com/s/21wtzy9arc5skr8/ICWSM18%20-%20SALMINEN%20ET%20AL.xlsx?dl=0)
+* Task description:  Binary (Hate, Not), Multinomial classification (21 categories divided into 'hateful language', 'hate targets' and 'hate sub-targets') 
+* Details of task: Group-directed + Person-directed
+* Size of dataset: 5,143
+* Percentage abusive: 82%
+* Language: English 
+* Level of annotation: Comment
+* Platform: YouTube and Facebook
+* Medium: Text
+* Reference: Salminen, J., Almerekhi, H., Milenković, M., Jung, S., An, J., Kwak, H. and Jansen, B., 2018, Anatomy of Online Hate: Developing a Taxonomy and Machine Learning Models for Identifying and Classifying Hate in Online News Media, In: Proceedings of the Twelfth International AAAI Conference on Web and Social Media (ICWSM 2018), pp.330-339
+
 
 ### French
 #### CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (French)
