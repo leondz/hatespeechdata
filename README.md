@@ -167,6 +167,19 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 * Medium: Text 
 * Reference: Pavlopoulos, J., Sorensen, J., Laugier, L., & Androutsopoulos, I. (2021, August). Semeval-2021 task 5: Toxic spans detection. In Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021) (pp. 59-69).
 
+#### Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech
+* Link to publication: [https://aclanthology.org/2021.acl-long.250.pdf](https://aclanthology.org/2021.acl-long.250.pdf)
+* Link to data: [https://github.com/marcoguerini/CONAN](https://github.com/marcoguerini/CONAN)
+* Task description: Binary (hateful, not)
+* Details of task: race, religion, country of origin, sexual orientation, disability, gender
+* Size of dataset: 5,003
+* Percentage abusive: 1
+* Language: English 
+* Level of annotation: Posts
+* Platform: Semi-synthetic text
+* Medium: Text 
+* Reference: Margherita Fanton, Helena Bonaldi, Serra Sinem Tekiroğlu, Marco Guerini Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics: Long Papers.
+
 #### HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection
 * Link to publication: [https://arxiv.org/abs/2012.10289](https://arxiv.org/abs/2012.10289)
 * Link to data: [https://github.com/punyajoy/HateXplain](https://github.com/punyajoy/HateXplain)
