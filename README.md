@@ -141,6 +141,19 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 
 
 ### English
+#### Semeval-2021 Task 5: Toxic Spans Detection
+* Link to publication: [https://aclanthology.org/2021.semeval-1.6.pdf](https://aclanthology.org/2021.semeval-1.6.pdf)
+* Link to data: [https://github.com/ipavlopoulos/toxic_spans](https://github.com/ipavlopoulos/toxic_spans)
+* Task description: Binary toxic spans (toxic, non-toxic)
+* Details of task: Hate per se
+* Size of dataset: 10,629
+* Percentage abusive: 0.56
+* Language: English 
+* Level of annotation: Phrases
+* Platform: Civil Comments
+* Medium: Text 
+* Reference: Pavlopoulos, J., Sorensen, J., Laugier, L., & Androutsopoulos, I. (2021, August). Semeval-2021 task 5: Toxic spans detection. In Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021) (pp. 59-69).
+
 #### HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection
 * Link to publication: [https://arxiv.org/abs/2012.10289](https://arxiv.org/abs/2012.10289)
 * Link to data: [https://github.com/punyajoy/HateXplain](https://github.com/punyajoy/HateXplain)
