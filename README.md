@@ -154,6 +154,19 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 * Medium: Text 
 * Reference: Davidson, T., Warmsley, D., Macy, M. and Weber, I., 2017. Automated Hate Speech Detection and the Problem of Offensive Language. ArXiv,. 
 
+#### Exploring Hate Speech Detection in Multimodal Publications
+* Link to publication: [https://gombru.github.io/2019/10/09/MMHS/] (https://drive.google.com/file/d/1S9mMhZFkntNnYdO-1dZXwF_8XIiFcmlF/view)
+* Link to data: [https://drive.google.com/file/d/1S9mMhZFkntNnYdO-1dZXwF_8XIiFcmlF/view](https://drive.google.com/file/d/1S9mMhZFkntNnYdO-1dZXwF_8XIiFcmlF/view)
+* Task description: Identity-based hate: No attacks to any community, racist, sexist, homophobic, religion based attacks or attacks to other communities. 
+* Details of task: Group-directed
+* Size of dataset: 150,000
+* Percentage abusive: 0.25
+* Language: English 
+* Level of annotation: Post****
+* Platform: Twitter 
+* Medium: Text + Image 
+* Reference: Gomez, R., Gibert, J., Gomez, L., Karatzas, D., Exploring Hate Speech Detection in Multimodal Publications, 2019, ArXiv. 
+
 #### Hate Speech Dataset from a White Supremacy Forum
 * Link to publication: [https://www.aclweb.org/anthology/W18-5102.pdf](https://www.aclweb.org/anthology/W18-5102.pdf)
 * Link to data: [https://github.com/Vicomtech/hate-speech-dataset](https://github.com/Vicomtech/hate-speech-dataset)
