@@ -489,7 +489,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 #### Are Chess Discussions Racist? An Adversarial Hate Speech Data Set
 * Link to publication: [https://arxiv.org/pdf/2011.10280.pdf](https://arxiv.org/pdf/2011.10280.pdf)
 * Link to data: [https://www.cs.cmu.edu/~akhudabu/Chess.html](https://www.cs.cmu.edu/~akhudabu/Chess.html)
-* Task description: Binary(Hate, Not)
+* Task description: Not Labeled
 * Details of task: Racism, Misclassification
 * Size of dataset: 1,000
 * Percentage abusive: 0.0
@@ -545,6 +545,11 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Details of task: Toxicity, Context
 * Size of dataset: 10,000
 * Percentage abusive: 0.006
+* Language: English
+* Level of annotation: Post 
+* Platform: Wikipedia Talk Pages
+* Medium: Text
+* Reference: Pavlopoulos, J., Sorensen, J., Dixon, L., Thain, N., & Androutsopoulos, I. (2020). Toxicity Detection: Does Context Really Matter? ArXiv:2006.00998 [Cs].
 
 #### Toxicity Detection: Does Context Really Matter? CAT-LARGE (With Context)
 * Link to publication: [https://arxiv.org/pdf/2006.00998.pdf](https://arxiv.org/pdf/2006.00998.pdf)
