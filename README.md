@@ -143,7 +143,7 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 ### English
 #### Do You Really Want to Hurt Me? Predicting Abusive Swearing in Social Media
 * Link to publication: [https://www.aclweb.org/anthology/2020.lrec-1.765.pdf](https://www.aclweb.org/anthology/2020.lrec-1.765.pdf)
-* Link to data: [https://github.com/dadangewp/SWAD](https://github.com/dadangewp/SWAD)
+* Link to data: [https://github.com/dadangewp/SWAD-Repository](https://github.com/dadangewp/SWAD-Repository)
 * Task description: Binary (abusive swear word, non-abusive swear word)
 * Details of task: Abusive swearing
 * Size of dataset: 1,511
