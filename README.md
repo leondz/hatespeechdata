@@ -474,6 +474,18 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Medium: Text 
 * Reference: Wulczyn, E., Thain, N. and Dixon, L., 2017. Ex Machina: Personal Attacks Seen at Scale. ArXiv,. 
 
+#### Are Chess Discussions Racist? An Adversarial Hate Speech Data Set
+* Link to publication: [https://arxiv.org/pdf/2011.10280.pdf](https://arxiv.org/pdf/2011.10280.pdf)
+* Link to data: [https://www.cs.cmu.edu/~akhudabu/Chess.html](https://www.cs.cmu.edu/~akhudabu/Chess.html)
+* Task description: Binary(Hate, Not)
+* Details of task: Racism, Misclassification
+* Size of dataset: 1,000
+* Percentage abusive: NA
+* Language: English
+* Level of annotation: Posts 
+* Platform: Youtube
+* Medium: Text 
+* Reference: Rupak Sarkar and Ashiqur R. KhudaBukhsh, Nov. 2020. Are Chess Discussions Racist? An Adversarial Hate Speech Data Set. In: The Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI} 2021
 
 ### French
 #### CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (French)
