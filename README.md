@@ -141,6 +141,19 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 
 
 ### English
+#### Multimodal Meme Dataset (MultiOFF) for Identifying Offensive Content in Image and Text
+* Link to publication: [https://www.aclweb.org/anthology/2020.trac-1.6.pdf](https://www.aclweb.org/anthology/2020.trac-1.6.pdf)
+* Link to data: [https://www.aclweb.org/anthology/2020.trac-1.6.pdf](https://www.aclweb.org/anthology/2020.trac-1.6.pdf)
+* Task description: Binary (offensive, non-offensive)
+* Details of task: Hate per se (related to 2016 U.S. presidential election)
+* Size of dataset: 743
+* Percentage abusive: 0.41
+* Language: English 
+* Level of annotation: Posts
+* Platform: Kaggle, Reddit, Facebook, Twitter and Instagram
+* Medium: Text and Images/memes
+* Reference: Suryawanshi, S., Chakravarthi, B. R., Arcan, M., & Buitelaar, P. (2020, May). Multimodal meme dataset (MultiOFF) for identifying offensive content in image and text. In Proceedings of the Second Workshop on Trolling, Aggression and Cyberbullying (pp. 32-41).
+
 #### Automated Hate Speech Detection and the Problem of Offensive Language
 * Link to publication: [https://arxiv.org/pdf/1703.04009.pdf](https://arxiv.org/pdf/1703.04009.pdf)
 * Link to data: [https://github.com/t-davidson/hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language)
