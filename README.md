@@ -559,7 +559,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Medium: Text
 * Reference: Pavlopoulos, J., Sorensen, J., Dixon, L., Thain, N., & Androutsopoulos, I. (2020). Toxicity Detection: Does Context Really Matter? ArXiv:2006.00998 [Cs].
 
-### Anatomy of Online Hate: Developing a Taxonomy and Machine Learning Models for Identifying and Classifying Hate in Online News Media 
+#### Anatomy of Online Hate: Developing a Taxonomy and Machine Learning Models for Identifying and Classifying Hate in Online News Media 
 * Link to publication: [https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewFile/17885/17024](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewFile/17885/17024)
 * Link to data: [https://www.dropbox.com/s/21wtzy9arc5skr8/ICWSM18%20-%20SALMINEN%20ET%20AL.xlsx?dl=0](https://www.dropbox.com/s/21wtzy9arc5skr8/ICWSM18%20-%20SALMINEN%20ET%20AL.xlsx?dl=0)
 * Task description:  Binary (Hate, Not), Multinomial classification (21 categories divided into 'hateful language', 'hate targets' and 'hate sub-targets') 
