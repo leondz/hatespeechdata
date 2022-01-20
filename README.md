@@ -15,17 +15,17 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 ## List of datasets
 <!-- dataset template
 
-* Link to publication: []()
-* Link to data: []()
-* Task description: e.g. Binary (Hate, Not) 
-* Details of task: Free-text description
-* Size of dataset: give the number of instances of abusive/non-abusive/other items
+* Link to publication: [url](url) - link to the documentation and/or a data statement about the data
+* Link to data: [url](url) - direct download is preferred, e.g. a link straight to a .zip file
+* Task description: How the task is framed in this data, e.g. "Binary (Hate, Not)", "Hierarchical", "Three-class (Hate speech, Offensive language, None)"
+* Details of task: Free-text description of the task this data models, e.g. "Misogyny detection on social media in Danish"
+* Size of dataset: Give the number of instances of abusive/non-abusive/other items
 * Percentage abusive: e.g. 1.2%
 * Language: e.g. Arabic
-* Level of annotation: e.g. Posts, User, Conversation, ... 
+* Level of annotation: What is an "instance", in this dataset? e.g. Posts, User, Conversation, ... 
 * Platform: e.g. twitter, snapchat, ..
 * Medium: text / image / audio / ...
-* Reference: 
+* Reference: Give a bibliographic reference for the data (if there is one), with title, author, year, venue etc
 
 -->
 
