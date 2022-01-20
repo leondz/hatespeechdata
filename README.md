@@ -275,8 +275,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 
 
 #### A Benchmark Dataset for Learning to Intervene in Online Hate Speech (Gab)
-* Link to publication: [https://arxiv.org/abs/1909.04251]
-(https://arxiv.org/abs/1909.04251)
+* Link to publication: [https://arxiv.org/abs/1909.04251](https://arxiv.org/abs/1909.04251)
 * Link to data: [https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech](https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech)
 * Task description: Binary (hateful/not) 
 * Details of task: Hate per se 
