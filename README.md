@@ -474,6 +474,18 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Medium: Text 
 * Reference: Wulczyn, E., Thain, N. and Dixon, L., 2017. Ex Machina: Personal Attacks Seen at Scale. ArXiv,. 
 
+### Anatomy of Online Hate: Developing a Taxonomy and Machine Learning Models for Identifying and Classifying Hate in Online News Media 
+* Link to publication: [https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewFile/17885/17024](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/viewFile/17885/17024)
+* Link to data: [https://www.dropbox.com/s/21wtzy9arc5skr8/ICWSM18%20-%20SALMINEN%20ET%20AL.xlsx?dl=0](https://www.dropbox.com/s/21wtzy9arc5skr8/ICWSM18%20-%20SALMINEN%20ET%20AL.xlsx?dl=0)
+* Task description:  Binary (Hate, Not), Multinomial classification (21 categories divided into 'hateful language', 'hate targets' and 'hate sub-targets') 
+* Details of task: Group-directed + Person-directed
+* Size of dataset: 5,143
+* Percentage abusive: 82%
+* Language: English 
+* Level of annotation: Comment
+* Platform: YouTube and Facebook
+* Medium: Text
+* Reference: Salminen, J., Almerekhi, H., Milenković, M., Jung, S., An, J., Kwak, H. and Jansen, B., 2018, Anatomy of Online Hate: Developing a Taxonomy and Machine Learning Models for Identifying and Classifying Hate in Online News Media, In: Proceedings of the Twelfth International AAAI Conference on Web and Social Media (ICWSM 2018), pp.330-339
 
 ### French
 #### CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (French)
