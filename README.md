@@ -141,6 +141,19 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 
 
 ### English
+#### HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection
+* Link to publication: [https://arxiv.org/abs/2012.10289](https://arxiv.org/abs/2012.10289)
+* Link to data: [https://github.com/punyajoy/HateXplain](https://github.com/punyajoy/HateXplain)
+* Task description: Level of hate (hate, offensive or normal), on target groups (race, religion, gender, sexual orientation, miscellaneous), and rationales
+* Details of task: Hate per se
+* Size of dataset: 20,148
+* Percentage abusive: 0.57
+* Language: English 
+* Level of annotation: Words, phrases, posts
+* Platform: Twitter and Gab
+* Medium: Text 
+* Reference: Mathew, B., Saha, P., Yimam, S. M., Biemann, C., Goyal, P., & Mukherjee, A. (2021, May). HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 35, No. 17, pp. 14867-14875).
+
 #### Towards a Comprehensive Taxonomy and Large-Scale Annotated Corpus for Online Slur Usage
 * Link to publication: [https://www.aclweb.org/anthology/2020.alw-1.17.pdf](https://www.aclweb.org/anthology/2020.alw-1.17.pdf)
 * Link to data: [https://github.com/networkdynamics/slur-corpus](https://github.com/networkdynamics/slur-corpus)
