@@ -493,7 +493,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Task description: Binary(Hate, Not)
 * Details of task: Racism, Misclassification
 * Size of dataset: 1,000
-* Percentage abusive: N/A
+* Percentage abusive: 0.0
 * Language: English
 * Level of annotation: Posts 
 * Platform: Youtube
