@@ -141,6 +141,19 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 
 
 ### English
+#### Do You Really Want to Hurt Me? Predicting Abusive Swearing in Social Media
+* Link to publication: [https://www.aclweb.org/anthology/2020.lrec-1.765.pdf](https://www.aclweb.org/anthology/2020.lrec-1.765.pdf)
+* Link to data: [https://github.com/dadangewp/SWAD](https://github.com/dadangewp/SWAD)
+* Task description: Binary (abusive swear word, non-abusive swear word)
+* Details of task: Abusive swearing
+* Size of dataset: 1,511
+* Percentage abusive: 0.41
+* Language: English 
+* Level of annotation: Words
+* Platform: Twitter
+* Medium: Text 
+* Reference: Pamungkas, E. W., Basile, V., & Patti, V. (2020). Do you really want to hurt me? predicting abusive swearing in social media. In The 12th Language Resources and Evaluation Conference (pp. 6237-6246). European Language Resources Association.
+
 #### Automated Hate Speech Detection and the Problem of Offensive Language
 * Link to publication: [https://arxiv.org/pdf/1703.04009.pdf](https://arxiv.org/pdf/1703.04009.pdf)
 * Link to data: [https://github.com/t-davidson/hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language)
