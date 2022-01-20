@@ -154,6 +154,19 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 * Medium: Text and Images/memes
 * Reference: Suryawanshi, S., Chakravarthi, B. R., Arcan, M., & Buitelaar, P. (2020, May). Multimodal meme dataset (MultiOFF) for identifying offensive content in image and text. In Proceedings of the Second Workshop on Trolling, Aggression and Cyberbullying (pp. 32-41).
 
+#### Predicting the Type and Target of Offensive Posts in Social Media
+* Link to publication: [https://aclanthology.org/N19-1144.pdf](https://aclanthology.org/N19-1144.pdf)
+* Link to data: [https://scholar.harvard.edu/malmasi/olid](https://scholar.harvard.edu/malmasi/olid)
+* Task description: Branching structure of tasks. A: offensive / not, B: targeted insult / untargeted, C: individual, group, other.
+* Details of task: Hate per se
+* Size of dataset: 14,100
+* Percentage abusive: 0.33
+* Language: English 
+* Level of annotation: Posts
+* Platform: Twitter
+* Medium: Text 
+* Reference: Zampieri, M., Malmasi, S., Nakov, P., Rosenthal, S., Farra, N., & Kumar, R. (2019, June). Predicting the Type and Target of Offensive Posts in Social Media. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers) (pp. 1415-1420).
+
 #### Automated Hate Speech Detection and the Problem of Offensive Language
 * Link to publication: [https://arxiv.org/pdf/1703.04009.pdf](https://arxiv.org/pdf/1703.04009.pdf)
 * Link to data: [https://github.com/t-davidson/hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language)
