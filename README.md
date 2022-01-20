@@ -834,6 +834,19 @@ https://www.aclweb.org/anthology/D17-1117)
 * Medium: Text
 * Reference: Zueva, Nadezhda, et al, Oct. 2020. Reducing Unintended Identity Bias in Russian Hate Speech Detection. In: Proceedings of the Fourth Workshop on Online Abuse and Harms, pages 65–69
 
+#### Detection of Abusive Speech for Mixed Sociolects of Russian and Ukrainian Languages
+* Link to publication: [https://nlp.fi.muni.cz/raslan/2018/paper04-Andrusyak.pdf](https://nlp.fi.muni.cz/raslan/2018/paper04-Andrusyak.pdf)
+* Link to data: [https://github.com/bohdan1/AbusiveLanguageDataset](https://github.com/bohdan1/AbusiveLanguageDataset)
+* Task description: Binary (True == Abusive, False == Not)
+* Details of task: Multilingual, Abusive Words, Political
+* Size of dataset: 2,000
+* Percentage abusive: 0.33
+* Language: Surzhyk (Russian & Ukranian)
+* Level of annotation: Posts 
+* Platform: Youtube
+* Medium: Text
+* Reference: Andrusyak, B., Rimel, M. and Kern, R., 2018. Detection of Abusive Speech for Mixed Sociolects of Russian and Ukrainian Languages. In: Proceedings of Recent Advances in Slavonic Natural Language Processing, RASLAN 2018, pp. 77–84, 2018. 
+
 ### Slovene
 #### Datasets of Slovene and Croatian Moderated News Comments
 * Link to publication: [https://www.aclweb.org/anthology/W18-5116](https://www.aclweb.org/anthology/W18-5116)
@@ -904,6 +917,19 @@ https://www.aclweb.org/anthology/D17-1117)
 * Medium: Text 
 * Reference: Çöltekin, C., 2020. A Corpus of Turkish Offensive Language on Social Media. In: Proceedings of the 12th International Conference on Language Resources and Evaluation. 
 
+### Ukranian
+#### Detection of Abusive Speech for Mixed Sociolects of Russian and Ukrainian Languages
+* Link to publication: [https://nlp.fi.muni.cz/raslan/2018/paper04-Andrusyak.pdf](https://nlp.fi.muni.cz/raslan/2018/paper04-Andrusyak.pdf)
+* Link to data: [https://github.com/bohdan1/AbusiveLanguageDataset](https://github.com/bohdan1/AbusiveLanguageDataset)
+* Task description: Binary (True == Abusive, False == Not)
+* Details of task: Multilingual, Abusive Words, Political
+* Size of dataset: 2,000
+* Percentage abusive: 0.33
+* Language: Surzhyk (Russian & Ukranian)
+* Level of annotation: Posts 
+* Platform: Youtube
+* Medium: Text
+* Reference: Andrusyak, B., Rimel, M. and Kern, R., 2018. Detection of Abusive Speech for Mixed Sociolects of Russian and Ukrainian Languages. In: Proceedings of Recent Advances in Slavonic Natural Language Processing, RASLAN 2018, pp. 77–84, 2018. 
 
 
 ---
