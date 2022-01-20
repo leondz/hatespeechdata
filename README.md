@@ -167,6 +167,19 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 * Medium: Text 
 * Reference: Zampieri, M., Malmasi, S., Nakov, P., Rosenthal, S., Farra, N., & Kumar, R. (2019, June). Predicting the Type and Target of Offensive Posts in Social Media. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers) (pp. 1415-1420).
 
+#### Nuanced metrics for measuring unintended bias with real data for text classification
+* Link to publication: [https://arxiv.org/pdf/1903.04561.pdf](https://arxiv.org/pdf/1903.04561.pdf)
+* Link to data: [https://www.tensorflow.org/datasets/catalog/civil_comments](https://www.tensorflow.org/datasets/catalog/civil_comments)
+* Task description: Toxicity (severe, obscene, threat, insult, identity attack, sexual explicit), and several identity attributes (e.g., gender, religion and race)
+* Details of task: Hate per se
+* Size of dataset: 1,804,875
+* Percentage abusive: 0.8
+* Language: English 
+* Level of annotation: Comments/posts
+* Platform: Civil Comments
+* Medium: Text 
+* Reference: Borkan, D., Dixon, L., Sorensen, J., Thain, N., & Vasserman, L. (2019, May). Nuanced metrics for measuring unintended bias with real data for text classification. In Companion proceedings of the 2019 world wide web conference (pp. 491-500).
+
 #### Automated Hate Speech Detection and the Problem of Offensive Language
 * Link to publication: [https://arxiv.org/pdf/1703.04009.pdf](https://arxiv.org/pdf/1703.04009.pdf)
 * Link to data: [https://github.com/t-davidson/hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language)
