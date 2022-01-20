@@ -486,6 +486,19 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Medium: Text 
 * Reference: Wulczyn, E., Thain, N. and Dixon, L., 2017. Ex Machina: Personal Attacks Seen at Scale. ArXiv,. 
 
+#### Twitter Sentiment Analysis
+* Link to publication: NA
+* Link to data: [https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech](https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech)
+* Task description: Binary (Hate, Not)
+* Details of task: Racism, Sexism
+* Size of dataset: 31,961
+* Percentage abusive: 0.07
+* Language: English
+* Level of annotation: Posts
+* Platform: Twitter
+* Medium: Text
+* Reference: Ali Toosi, Jan 2019. Twitter Sentiment Analysis
+
 #### Toxicity Detection: Does Context Really Matter? CAT-LARGE (No Context)
 * Link to publication: [https://arxiv.org/pdf/2006.00998.pdf](https://arxiv.org/pdf/2006.00998.pdf)
 * Link to data: [https://github.com/ipavlopoulos/context_toxicity](https://github.com/ipavlopoulos/context_toxicity)
@@ -524,7 +537,6 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Platform: YouTube and Facebook
 * Medium: Text
 * Reference: Salminen, J., Almerekhi, H., Milenković, M., Jung, S., An, J., Kwak, H. and Jansen, B., 2018, Anatomy of Online Hate: Developing a Taxonomy and Machine Learning Models for Identifying and Classifying Hate in Online News Media, In: Proceedings of the Twelfth International AAAI Conference on Web and Social Media (ICWSM 2018), pp.330-339
-
 
 ### French
 #### CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (French)
