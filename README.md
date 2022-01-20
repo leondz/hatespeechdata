@@ -15,17 +15,17 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 ## List of datasets
 <!-- dataset template
 
-* Link to publication: []()
-* Link to data: []()
-* Task description: e.g. Binary (Hate, Not) 
-* Details of task: Free-text description
-* Size of dataset: give the number of instances of abusive/non-abusive/other items
+* Link to publication: [url](url) - link to the documentation and/or a data statement about the data
+* Link to data: [url](url) - direct download is preferred, e.g. a link straight to a .zip file
+* Task description: How the task is framed in this data, e.g. "Binary (Hate, Not)", "Hierarchical", "Three-class (Hate speech, Offensive language, None)"
+* Details of task: Free-text description of the task this data models, e.g. "Misogyny detection on social media in Danish"
+* Size of dataset: Give the number of instances of abusive/non-abusive/other items
 * Percentage abusive: e.g. 1.2%
 * Language: e.g. Arabic
-* Level of annotation: e.g. Posts, User, Conversation, ... 
+* Level of annotation: What is an "instance", in this dataset? e.g. Posts, User, Conversation, ... 
 * Platform: e.g. twitter, snapchat, ..
 * Medium: text / image / audio / ...
-* Reference: 
+* Reference: Give a bibliographic reference for the data (if there is one), with title, author, year, venue etc
 
 -->
 
@@ -498,6 +498,32 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Platform: Youtube
 * Medium: Text 
 * Reference: Rupak Sarkar and Ashiqur R. KhudaBukhsh, Nov. 2020. Are Chess Discussions Racist? An Adversarial Hate Speech Data Set. In: The Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI} 2021
+
+#### ETHOS: an Online Hate Speech Detection Dataset (Binary)
+* Link to publication: [https://arxiv.org/pdf/2006.08328.pdf](https://arxiv.org/pdf/2006.08328.pdf)
+* Link to data: [https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset](https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset)
+* Task description: Binary (Hate, Not)
+* Details of task: Gender, Race, National Origin, Disability, Religion, Sexual Orientation
+* Size of dataset: 998
+* Percentage abusive: 0.43
+* Language: English
+* Level of annotation: Posts
+* Platform: Youtube, Reddit
+* Medium: Text
+* Reference: Mollas, I., Chrysopoulou, Z., Karlos, S., and Tsoumakas, G., 2021. ETHOS: an Online Hate Speech Detection Dataset. Complex & Intelligent Systems, Jan. 2022
+
+#### ETHOS: an Online Hate Speech Detection Dataset (Multi label)
+* Link to publication: [https://arxiv.org/pdf/2006.08328.pdf](https://arxiv.org/pdf/2006.08328.pdf)
+* Link to data: [https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset](https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset)
+* Task description: 8 Categories (Violence, Directed/Undirected, Gender, Race, National Origin, Disability, Sexual Orientation, Religion)
+* Details of task: Gender, Race, National Origin, Disability, Religion, Sexual Orientation
+* Size of dataset: 433
+* Percentage abusive: 0.33
+* Language: English
+* Level of annotation: Posts
+* Platform: Youtube, Reddit
+* Medium: Text
+* Reference: Mollas, I., Chrysopoulou, Z., Karlos, S., and Tsoumakas, G., 2021. ETHOS: an Online Hate Speech Detection Dataset. Complex & Intelligent Systems, Jan. 2022
 
 #### Twitter Sentiment Analysis
 * Link to publication: NA
