@@ -486,6 +486,19 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Medium: Text 
 * Reference: Wulczyn, E., Thain, N. and Dixon, L., 2017. Ex Machina: Personal Attacks Seen at Scale. ArXiv,. 
 
+#### Are Chess Discussions Racist? An Adversarial Hate Speech Data Set
+* Link to publication: [https://arxiv.org/pdf/2011.10280.pdf](https://arxiv.org/pdf/2011.10280.pdf)
+* Link to data: [https://www.cs.cmu.edu/~akhudabu/Chess.html](https://www.cs.cmu.edu/~akhudabu/Chess.html)
+* Task description: Binary(Hate, Not)
+* Details of task: Racism, Misclassification
+* Size of dataset: 1,000
+* Percentage abusive: 0.0
+* Language: English
+* Level of annotation: Posts 
+* Platform: Youtube
+* Medium: Text 
+* Reference: Rupak Sarkar and Ashiqur R. KhudaBukhsh, Nov. 2020. Are Chess Discussions Racist? An Adversarial Hate Speech Data Set. In: The Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI} 2021
+
 #### ETHOS: an Online Hate Speech Detection Dataset (Binary)
 * Link to publication: [https://arxiv.org/pdf/2006.08328.pdf](https://arxiv.org/pdf/2006.08328.pdf)
 * Link to data: [https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset](https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset)
@@ -532,11 +545,6 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Details of task: Toxicity, Context
 * Size of dataset: 10,000
 * Percentage abusive: 0.006
-* Language: English
-* Level of annotation: Post 
-* Platform: Wikipedia Talk Pages
-* Medium: Text
-* Reference: Pavlopoulos, J., Sorensen, J., Dixon, L., Thain, N., & Androutsopoulos, I. (2020). Toxicity Detection: Does Context Really Matter? ArXiv:2006.00998 [Cs].
 
 #### Toxicity Detection: Does Context Really Matter? CAT-LARGE (With Context)
 * Link to publication: [https://arxiv.org/pdf/2006.00998.pdf](https://arxiv.org/pdf/2006.00998.pdf)
