@@ -474,6 +474,31 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Medium: Text 
 * Reference: Wulczyn, E., Thain, N. and Dixon, L., 2017. Ex Machina: Personal Attacks Seen at Scale. ArXiv,. 
 
+#### Toxicity Detection: Does Context Really Matter? CAT-LARGE (No Context)
+* Link to publication: [https://arxiv.org/pdf/2006.00998.pdf](https://arxiv.org/pdf/2006.00998.pdf)
+* Link to data: [https://github.com/ipavlopoulos/context_toxicity](https://github.com/ipavlopoulos/context_toxicity)
+* Task description: Binary (Toxic, Non-toxic)
+* Details of task: Toxicity, Context
+* Size of dataset: 10,000
+* Percentage abusive: 0.006
+* Language: English
+* Level of annotation: Post 
+* Platform: Wikipedia Talk Pages
+* Medium: Text
+* Reference: Pavlopoulos, J., Sorensen, J., Dixon, L., Thain, N., & Androutsopoulos, I. (2020). Toxicity Detection: Does Context Really Matter? ArXiv:2006.00998 [Cs].
+
+#### Toxicity Detection: Does Context Really Matter? CAT-LARGE (With Context)
+* Link to publication: [https://arxiv.org/pdf/2006.00998.pdf](https://arxiv.org/pdf/2006.00998.pdf)
+* Link to data: [https://github.com/ipavlopoulos/context_toxicity](https://github.com/ipavlopoulos/context_toxicity)
+* Task description: Binary (Toxic, Non-toxic)
+* Details of task: Toxicity, Context
+* Size of dataset: 10,000
+* Percentage abusive: 0.02
+* Language: English
+* Level of annotation: Post 
+* Platform: Wikipedia Talk Pages
+* Medium: Text
+* Reference: Pavlopoulos, J., Sorensen, J., Dixon, L., Thain, N., & Androutsopoulos, I. (2020). Toxicity Detection: Does Context Really Matter? ArXiv:2006.00998 [Cs].
 
 ### French
 #### CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (French)
