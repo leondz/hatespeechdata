@@ -192,6 +192,19 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 * Platform: Fox News 
 * Medium: Text 
 * Reference: Gao, L. and Huang, R., 2018. Detecting Online Hate Speech Using Context Aware Models. ArXiv,. 
+
+### The Gab Hate Corpus: A collection of 27k posts annotated for hate speech
+* Link to publication: [https://psyarxiv.com/hqjxn/](https://psyarxiv.com/hqjxn/)
+* Link to data: [https://osf.io/edua3/](https://osf.io/edua3/)
+* Task description: Binary (Hate vs. Offensive/Vulgarity), Binary (Assault on human Dignity/Call for Violence – sub task on message delivery, binary: explicit/implicit), Multinomial classification: Identity based hate (race/ethnicity, nationality/regionalism/xenophobia, gender, religion/belief system, sexual orientation, ideology, political identification/party, mental/physical health)  
+* Details of task: Group-directed + Person-directed
+* Size of dataset: 27,665 
+* Percentage abusive: 0.09 Hate, 0.06 Offensive/Vulgar
+* Language: English
+* Level of annotation: Post
+* Platform: Gab
+* Medium: Text
+* Reference: Kennedy, B., Araria, M., Mostafazadeh Davani, A., Yeh, L., Omrani, A., Kim, Y., Koombs, K., Havaldar, S., Portillo-Wightman, G., Gonzalez, E., Hoover, J., Azatain, A., Hussain, A., Lara, A., Olmos, G., Omary, A., Park, C., Wang, C., Wang, X., Zhang, Y. and Dehghani, M., 2018, The Gab Hate Corpus: A collection of 27k posts annotated for hate speech. PsyArXiv. 
  
 #### Are You a Racist or Am I Seeing Things? Annotator Influence on Hate Speech Detection on Twitter
 * Link to publication: [https://pdfs.semanticscholar.org/3eeb/b7907a9b94f8d65f969f63b76ff5f643f6d3.pdf](https://pdfs.semanticscholar.org/3eeb/b7907a9b94f8d65f969f63b76ff5f643f6d3.pdf)
