@@ -275,8 +275,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 
 
 #### A Benchmark Dataset for Learning to Intervene in Online Hate Speech (Gab)
-* Link to publication: [https://arxiv.org/abs/1909.04251]
-(https://arxiv.org/abs/1909.04251)
+* Link to publication: [https://arxiv.org/abs/1909.04251](https://arxiv.org/abs/1909.04251)
 * Link to data: [https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech](https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech)
 * Task description: Binary (hateful/not) 
 * Details of task: Hate per se 
@@ -499,6 +498,27 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Platform: Youtube
 * Medium: Text 
 * Reference: Rupak Sarkar and Ashiqur R. KhudaBukhsh, Nov. 2020. Are Chess Discussions Racist? An Adversarial Hate Speech Data Set. In: The Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI} 2021
+
+#### Twitter Sentiment Analysis
+* Link to publication: NA
+* Link to data: [https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech](https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech)
+* Task description: Binary (Hate, Not)
+* Details of task: Racism, Sexism
+* Size of dataset: 31,961
+* Percentage abusive: 0.07
+* Language: English
+* Level of annotation: Posts
+* Platform: Twitter
+* Medium: Text
+* Reference: Ali Toosi, Jan 2019. Twitter Sentiment Analysis
+
+#### Toxicity Detection: Does Context Really Matter? CAT-LARGE (No Context)
+* Link to publication: [https://arxiv.org/pdf/2006.00998.pdf](https://arxiv.org/pdf/2006.00998.pdf)
+* Link to data: [https://github.com/ipavlopoulos/context_toxicity](https://github.com/ipavlopoulos/context_toxicity)
+* Task description: Binary (Toxic, Non-toxic)
+* Details of task: Toxicity, Context
+* Size of dataset: 10,000
+* Percentage abusive: 0.006
 
 #### Toxicity Detection: Does Context Really Matter? CAT-LARGE (With Context)
 * Link to publication: [https://arxiv.org/pdf/2006.00998.pdf](https://arxiv.org/pdf/2006.00998.pdf)
