@@ -474,6 +474,18 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Medium: Text 
 * Reference: Wulczyn, E., Thain, N. and Dixon, L., 2017. Ex Machina: Personal Attacks Seen at Scale. ArXiv,. 
 
+#### Twitter Sentiment Analysis
+* Link to publication: NA
+* Link to data: [https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech](https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech)
+* Task description: Binary (Hate, Not)
+* Details of task: Racism, Sexism
+* Size of dataset: 31,961
+* Percentage abusive: 0.07
+* Language: English
+* Level of annotation: Posts
+* Platform: Twitter
+* Medium: Text
+* Reference: Ali Toosi, Jan 2019. Twitter Sentiment Analysis
 
 ### French
 #### CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (French)
