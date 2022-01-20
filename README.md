@@ -141,6 +141,19 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 
 
 ### English
+#### Towards a Comprehensive Taxonomy and Large-Scale Annotated Corpus for Online Slur Usage
+* Link to publication: [https://www.aclweb.org/anthology/2020.alw-1.17.pdf](https://www.aclweb.org/anthology/2020.alw-1.17.pdf)
+* Link to data: [https://github.com/networkdynamics/slur-corpus](https://github.com/networkdynamics/slur-corpus)
+* Task description: 4 primary categories (derogatory, appropriate, non-derogatory/non-appropriate, homonyms, noise)
+* Details of task: Hate per se
+* Size of dataset: 39,811
+* Percentage abusive: 0.52
+* Language: English 
+* Level of annotation: Posts
+* Platform: Reddit
+* Medium: Text 
+* Reference: Kurrek, J., Saleem, H. M., & Ruths, D. (2020, November). Towards a comprehensive taxonomy and large-scale annotated corpus for online slur usage. In Proceedings of the Fourth Workshop on Online Abuse and Harms (pp. 138-149).
+
 #### Multimodal Meme Dataset (MultiOFF) for Identifying Offensive Content in Image and Text
 * Link to publication: [https://www.aclweb.org/anthology/2020.trac-1.6.pdf](https://www.aclweb.org/anthology/2020.trac-1.6.pdf)
 * Link to data: [https://www.aclweb.org/anthology/2020.trac-1.6.pdf](https://www.aclweb.org/anthology/2020.trac-1.6.pdf)
