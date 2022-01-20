@@ -474,6 +474,31 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Medium: Text 
 * Reference: Wulczyn, E., Thain, N. and Dixon, L., 2017. Ex Machina: Personal Attacks Seen at Scale. ArXiv,. 
 
+#### ETHOS: an Online Hate Speech Detection Dataset (Binary)
+* Link to publication: [https://arxiv.org/pdf/2006.08328.pdf](https://arxiv.org/pdf/2006.08328.pdf)
+* Link to data: [https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset](https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset)
+* Task description: Binary (Hate, Not)
+* Details of task: Gender, Race, National Origin, Disability, Religion, Sexual Orientation
+* Size of dataset: 998
+* Percentage abusive: 0.43
+* Language: English
+* Level of annotation: Posts
+* Platform: Youtube, Reddit
+* Medium: Text
+* Reference: Mollas, I., Chrysopoulou, Z., Karlos, S., and Tsoumakas, G., 2021. ETHOS: an Online Hate Speech Detection Dataset. Complex & Intelligent Systems, Jan. 2022
+
+#### ETHOS: an Online Hate Speech Detection Dataset (Multi label)
+* Link to publication: [https://arxiv.org/pdf/2006.08328.pdf](https://arxiv.org/pdf/2006.08328.pdf)
+* Link to data: [https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset](https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset)
+* Task description: 8 Categories (Violence, Directed/Undirected, Gender, Race, National Origin, Disability, Sexual Orientation, Religion)
+* Details of task: Gender, Race, National Origin, Disability, Religion, Sexual Orientation
+* Size of dataset: 433
+* Percentage abusive: 0.33
+* Language: English
+* Level of annotation: Posts
+* Platform: Youtube, Reddit
+* Medium: Text
+* Reference: Mollas, I., Chrysopoulou, Z., Karlos, S., and Tsoumakas, G., 2021. ETHOS: an Online Hate Speech Detection Dataset. Complex & Intelligent Systems, Jan. 2022
 
 ### French
 #### CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (French)
