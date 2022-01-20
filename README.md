@@ -1065,4 +1065,8 @@ https://www.aclweb.org/anthology/D17-1117)
 
 ---
 
+Credits: Leon Derczynski, Bertie Vidgen, Mads Kongsbak, Pica Johannson, Hannah Rose Kirk
+
+---
+
 This page is [http://hatespeechdata.com/](http://hatespeechdata.com/).
