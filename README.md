@@ -109,6 +109,19 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 * Medium: Text 
 * Reference: Alakrot, A., Murray, L. and Nikolov, N., 2018. Dataset Construction for the Detection of Anti-Social Behaviour in Online Communication in Arabic. Procedia Computer Science, 142, pp.174-181. 
 
+### Bengali
+#### Hate Speech Detection in the Bengali language: A Dataset and its Baseline Evaluation
+* Link to publication: [https://arxiv.org/pdf/2012.09686.pdf](https://arxiv.org/pdf/2012.09686.pdf)
+* Link to data: [https://www.kaggle.com/naurosromim/bengali-hate-speech-dataset](https://www.kaggle.com/naurosromim/bengali-hate-speech-dataset)
+* Task description: Binary (hateful, not)
+* Details of task: Several categories: sports, entertainment, crime, religion, politics, celebrity and meme
+* Size of dataset: 30,000
+* Percentage abusive: 0.33
+* Language: Bengali
+* Level of annotation: Posts
+* Platform: Youtube and Facebook
+* Medium: Text 
+* Reference: Romim, N., Ahmed, M., Talukder, H., & Islam, M. S. (2021). Hate speech detection in the bengali language: A dataset and its baseline evaluation. In Proceedings of International Joint Conference on Advances in Computational Intelligence (pp. 457-468). Springer, Singapore.
 
 ### Croatian
 #### Datasets of Slovene and Croatian Moderated News Comments
