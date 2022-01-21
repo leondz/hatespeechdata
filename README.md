@@ -110,6 +110,19 @@ Please send contributions via github pull request. You can do this by visiting t
 * Medium: Text 
 * Reference: Alakrot, A., Murray, L. and Nikolov, N., 2018. Dataset Construction for the Detection of Anti-Social Behaviour in Online Communication in Arabic. Procedia Computer Science, 142, pp.174-181. 
 
+### Bengali
+#### Hate Speech Detection in the Bengali language: A Dataset and its Baseline Evaluation
+* Link to publication: [https://arxiv.org/pdf/2012.09686.pdf](https://arxiv.org/pdf/2012.09686.pdf)
+* Link to data: [https://www.kaggle.com/naurosromim/bengali-hate-speech-dataset](https://www.kaggle.com/naurosromim/bengali-hate-speech-dataset)
+* Task description: Binary (hateful, not)
+* Details of task: Several categories: sports, entertainment, crime, religion, politics, celebrity and meme
+* Size of dataset: 30,000
+* Percentage abusive: 0.33
+* Language: Bengali
+* Level of annotation: Posts
+* Platform: Youtube and Facebook
+* Medium: Text 
+* Reference: Romim, N., Ahmed, M., Talukder, H., & Islam, M. S. (2021). Hate speech detection in the bengali language: A dataset and its baseline evaluation. In Proceedings of International Joint Conference on Advances in Computational Intelligence (pp. 457-468). Springer, Singapore.
 
 ### Croatian
 #### Datasets of Slovene and Croatian Moderated News Comments
@@ -142,6 +155,97 @@ Please send contributions via github pull request. You can do this by visiting t
 
 
 ### English
+#### Semeval-2021 Task 5: Toxic Spans Detection
+* Link to publication: [https://aclanthology.org/2021.semeval-1.6.pdf](https://aclanthology.org/2021.semeval-1.6.pdf)
+* Link to data: [https://github.com/ipavlopoulos/toxic_spans](https://github.com/ipavlopoulos/toxic_spans)
+* Task description: Binary toxic spans (toxic, non-toxic)
+* Details of task: Hate per se
+* Size of dataset: 10,629
+* Percentage abusive: 0.56
+* Language: English 
+* Level of annotation: Phrases
+* Platform: Civil Comments
+* Medium: Text 
+* Reference: Pavlopoulos, J., Sorensen, J., Laugier, L., & Androutsopoulos, I. (2021, August). Semeval-2021 task 5: Toxic spans detection. In Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021) (pp. 59-69).
+
+#### Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech
+* Link to publication: [https://aclanthology.org/2021.acl-long.250.pdf](https://aclanthology.org/2021.acl-long.250.pdf)
+* Link to data: [https://github.com/marcoguerini/CONAN](https://github.com/marcoguerini/CONAN)
+* Task description: Binary (hateful, not)
+* Details of task: race, religion, country of origin, sexual orientation, disability, gender
+* Size of dataset: 5,003
+* Percentage abusive: 1
+* Language: English 
+* Level of annotation: Posts
+* Platform: Semi-synthetic text
+* Medium: Text 
+* Reference: Margherita Fanton, Helena Bonaldi, Serra Sinem Tekiroğlu, Marco Guerini Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics: Long Papers.
+
+#### HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection
+* Link to publication: [https://arxiv.org/abs/2012.10289](https://arxiv.org/abs/2012.10289)
+* Link to data: [https://github.com/punyajoy/HateXplain](https://github.com/punyajoy/HateXplain)
+* Task description: Level of hate (hate, offensive or normal), on target groups (race, religion, gender, sexual orientation, miscellaneous), and rationales
+* Details of task: Hate per se
+* Size of dataset: 20,148
+* Percentage abusive: 0.57
+* Language: English 
+* Level of annotation: Words, phrases, posts
+* Platform: Twitter and Gab
+* Medium: Text 
+* Reference: Mathew, B., Saha, P., Yimam, S. M., Biemann, C., Goyal, P., & Mukherjee, A. (2021, May). HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 35, No. 17, pp. 14867-14875).
+
+#### Towards a Comprehensive Taxonomy and Large-Scale Annotated Corpus for Online Slur Usage
+* Link to publication: [https://www.aclweb.org/anthology/2020.alw-1.17.pdf](https://www.aclweb.org/anthology/2020.alw-1.17.pdf)
+* Link to data: [https://github.com/networkdynamics/slur-corpus](https://github.com/networkdynamics/slur-corpus)
+* Task description: 4 primary categories (derogatory, appropriate, non-derogatory/non-appropriate, homonyms, noise)
+* Details of task: Hate per se
+* Size of dataset: 39,811
+* Percentage abusive: 0.52
+* Language: English 
+* Level of annotation: Posts
+* Platform: Reddit
+* Medium: Text 
+* Reference: Kurrek, J., Saleem, H. M., & Ruths, D. (2020, November). Towards a comprehensive taxonomy and large-scale annotated corpus for online slur usage. In Proceedings of the Fourth Workshop on Online Abuse and Harms (pp. 138-149).
+
+#### Multimodal Meme Dataset (MultiOFF) for Identifying Offensive Content in Image and Text
+* Link to publication: [https://www.aclweb.org/anthology/2020.trac-1.6.pdf](https://www.aclweb.org/anthology/2020.trac-1.6.pdf)
+* Link to data: [https://www.aclweb.org/anthology/2020.trac-1.6.pdf](https://www.aclweb.org/anthology/2020.trac-1.6.pdf)
+* Task description: Binary (offensive, non-offensive)
+* Details of task: Hate per se (related to 2016 U.S. presidential election)
+* Size of dataset: 743
+* Percentage abusive: 0.41
+* Language: English 
+* Level of annotation: Posts
+* Platform: Kaggle, Reddit, Facebook, Twitter and Instagram
+* Medium: Text and Images/memes
+* Reference: Suryawanshi, S., Chakravarthi, B. R., Arcan, M., & Buitelaar, P. (2020, May). Multimodal meme dataset (MultiOFF) for identifying offensive content in image and text. In Proceedings of the Second Workshop on Trolling, Aggression and Cyberbullying (pp. 32-41).
+
+#### Predicting the Type and Target of Offensive Posts in Social Media
+* Link to publication: [https://aclanthology.org/N19-1144.pdf](https://aclanthology.org/N19-1144.pdf)
+* Link to data: [https://scholar.harvard.edu/malmasi/olid](https://scholar.harvard.edu/malmasi/olid)
+* Task description: Branching structure of tasks. A: offensive / not, B: targeted insult / untargeted, C: individual, group, other.
+* Details of task: Hate per se
+* Size of dataset: 14,100
+* Percentage abusive: 0.33
+* Language: English 
+* Level of annotation: Posts
+* Platform: Twitter
+* Medium: Text 
+* Reference: Zampieri, M., Malmasi, S., Nakov, P., Rosenthal, S., Farra, N., & Kumar, R. (2019, June). Predicting the Type and Target of Offensive Posts in Social Media. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers) (pp. 1415-1420).
+
+#### Nuanced metrics for measuring unintended bias with real data for text classification
+* Link to publication: [https://arxiv.org/pdf/1903.04561.pdf](https://arxiv.org/pdf/1903.04561.pdf)
+* Link to data: [https://www.tensorflow.org/datasets/catalog/civil_comments](https://www.tensorflow.org/datasets/catalog/civil_comments)
+* Task description: Toxicity (severe, obscene, threat, insult, identity attack, sexual explicit), and several identity attributes (e.g., gender, religion and race)
+* Details of task: Hate per se
+* Size of dataset: 1,804,875
+* Percentage abusive: 0.8
+* Language: English 
+* Level of annotation: Comments/posts
+* Platform: Civil Comments
+* Medium: Text 
+* Reference: Borkan, D., Dixon, L., Sorensen, J., Thain, N., & Vasserman, L. (2019, May). Nuanced metrics for measuring unintended bias with real data for text classification. In Companion proceedings of the 2019 world wide web conference (pp. 491-500).
+
 #### Automated Hate Speech Detection and the Problem of Offensive Language
 * Link to publication: [https://arxiv.org/pdf/1703.04009.pdf](https://arxiv.org/pdf/1703.04009.pdf)
 * Link to data: [https://github.com/t-davidson/hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language)
