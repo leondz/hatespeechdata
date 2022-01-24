@@ -156,7 +156,7 @@ Please send contributions via github pull request. You can do this by visiting t
 
 ### English
 
-### Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate
+#### Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate
 * Link to publication: [https://arxiv.org/abs/2108.05921](https://arxiv.org/abs/2108.05921)
 * Link to data: [https://github.com/HannahKirk/Hatemoji](https://github.com/HannahKirk/Hatemoji)
 * Task description: Branching structure of tasks: Binary (Hate, Not Hate), Within Hate (Type, Target)
@@ -208,7 +208,7 @@ Please send contributions via github pull request. You can do this by visiting t
 * Medium: Text 
 * Reference: Mathew, B., Saha, P., Yimam, S. M., Biemann, C., Goyal, P., & Mukherjee, A. (2021, May). HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 35, No. 17, pp. 14867-14875).
 
-### ALONE: A Dataset for Toxic Behavior among Adolescents on Twitter
+#### ALONE: A Dataset for Toxic Behavior among Adolescents on Twitter
 * Link to publication: [https://arxiv.org/pdf/2008.06465.pdf](https://arxiv.org/pdf/2008.06465.pdf)
 * Link to data: Data made available upon request, please email Ugur Kursuncu ugur@gsu.edu and thilini@sc.edu thilini@sc.edu.
 * Task description: Binary (Toxic, Non-Toxic) 
@@ -220,7 +220,6 @@ Please send contributions via github pull request. You can do this by visiting t
 * Platform: Twitter
 * Medium: Multimodal (text, images, emojis, metadata)
 * Reference: Wijesiriwardene, T., Inan, H., Kursuncu, U., Gaur, M., Shalin, V., Thirunarayan, K., Sheth, A. and Arpinar, I., 2020, Arxiv. 
-![image](https://user-images.githubusercontent.com/72524455/150524408-ecad893d-39e8-4216-b7ab-bc755eedc38b.png)
 
 #### Towards a Comprehensive Taxonomy and Large-Scale Annotated Corpus for Online Slur Usage
 * Link to publication: [https://www.aclweb.org/anthology/2020.alw-1.17.pdf](https://www.aclweb.org/anthology/2020.alw-1.17.pdf)
