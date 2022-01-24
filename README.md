@@ -155,13 +155,14 @@ Please send contributions via github pull request. You can do this by visiting t
 
 
 ### English
+
 ### Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate
 * Link to publication: [https://arxiv.org/abs/2108.05921](https://arxiv.org/abs/2108.05921)
 * Link to data: [https://github.com/HannahKirk/Hatemoji](https://github.com/HannahKirk/Hatemoji)
 * Task description: Branching structure of tasks: Binary (Hate, Not Hate), Within Hate (Type, Target)
 * Details of task: Hate speech detection for text statements including emoji, consisting of a checklist-based test suite (HatemojiCheck) and an adversarially-generated dataset (HatemojiBuild)
 * Size of dataset: HatemojiCheck = 3,930; HatemojiBuild = 5,912.
-* Percentage abusive: HatemojiCheck = 0.69, HatemojiBuild = 0.5
+* Percentage abusive: HatemojiCheck = 69%, HatemojiBuild = 50%
 * Language: English
 * Level of annotation: Post
 * Platform: Synthetically-Generated
