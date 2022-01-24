@@ -6,14 +6,16 @@ This page catalogues datasets annotated for hate speech, online abuse, and offen
 
 The list is maintained by [Leon Derczynski](https://www.derczynski.com/), [Bertie Vidgen](https://www.turing.ac.uk/people/researchers/bertie-vidgen), [Hannah Rose Kirk](https://www.hannahrosekirk.com/), Pica Johansson, [Yi-Ling Chung](https://yilingchung.github.io/) and Mads Guldborg Kjeldgaard Kongsbak.
 
+We provide a list of [datasets](#Datasets-header) and [keywords](#Keywords-header). If you would like to contribute to our catalogue or add your dataset, please see the [instructions for contributing](#Contributing-header).
+
 If you use these resources, please cite (and read!) our paper: [Directions in Abusive Language Training Data: Garbage In, Garbage Out](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243300). And if you would like to find other resources for researching online hate, visit The Alan Turing Institute's [Online Hate Research Hub](https://www.turing.ac.uk/research/research-programmes/public-policy/online-hate-research-hub) or read The Alan Turing Institute's [Reading List on Online Hate and Abuse Research](https://docs.google.com/document/d/1WVkVGp29Jt6d-4fBnZ5OWVYuFn_03rzz-KBqPsu6gTM/edit?usp=sharing).
 
 If you're looking for a good paper on online hate training datasets (beyond our paper, of course!) then have a look at ['Resources and benchmark corpora for hate speech detection: a systematic review'](https://link.springer.com/article/10.1007/s10579-020-09502-8) by Poletto et al. in *Language Resources and Evaluation*.
 
 Please send contributions via github pull request. You can do this by visiting the [source code](https://github.com/leondz/hatespeechdata/blob/master/README.md) on github and clicking the edit icon (a pencil, above the text, on the right). There's a commented-out markdown template at the top of this file. Accompanying [data statements](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00041) preferred for all corpora.
 
-
-## Languages Table of Contents
+<a id="Datasets-header"></a>
+# Datasets Table of Contents
 
 * [Arabic](#Arabic-header)
 * [Bengali](#Bengali-header)
@@ -230,7 +232,7 @@ Please send contributions via github pull request. You can do this by visiting t
 * Medium: Text 
 * Reference: Mathew, B., Saha, P., Yimam, S. M., Biemann, C., Goyal, P., & Mukherjee, A. (2021, May). HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 35, No. 17, pp. 14867-14875).
 
-### ALONE: A Dataset for Toxic Behavior among Adolescents on Twitter
+#### ALONE: A Dataset for Toxic Behavior among Adolescents on Twitter
 * Link to publication: [https://arxiv.org/pdf/2008.06465.pdf](https://arxiv.org/pdf/2008.06465.pdf)
 * Link to data: Data made available upon request, please email Ugur Kursuncu ugur@gsu.edu and thilini@sc.edu thilini@sc.edu.
 * Task description: Binary (Toxic, Non-Toxic) 
@@ -242,7 +244,6 @@ Please send contributions via github pull request. You can do this by visiting t
 * Platform: Twitter
 * Medium: Multimodal (text, images, emojis, metadata)
 * Reference: Wijesiriwardene, T., Inan, H., Kursuncu, U., Gaur, M., Shalin, V., Thirunarayan, K., Sheth, A. and Arpinar, I., 2020, Arxiv. 
-![image](https://user-images.githubusercontent.com/72524455/150524408-ecad893d-39e8-4216-b7ab-bc755eedc38b.png)
 
 #### Towards a Comprehensive Taxonomy and Large-Scale Annotated Corpus for Online Slur Usage
 * Link to publication: [https://www.aclweb.org/anthology/2020.alw-1.17.pdf](https://www.aclweb.org/anthology/2020.alw-1.17.pdf)
@@ -1207,7 +1208,7 @@ https://www.aclweb.org/anthology/D17-1117)
 
 
 ---
-
+<a id="Keywords-header"></a>
 # Lists of abusive keywords
 
 1. __Hatebase__
@@ -1233,6 +1234,41 @@ https://www.aclweb.org/anthology/D17-1117)
 1. __Chandrasekharan et al.__
    * Data link: [Reddit hate lexicon](https://www.dropbox.com/sh/5ud4fwxvb6q7k20/AAAH_SN8i5cfmJRKJteEW2b2a?dl=0)
    * Reference: [You can't stay here: the efficacy of Reddit's 2015 ban examined through hate speech](http://comp.social.gatech.edu/papers/cscw18-chand-hate.pdf), Proc. ACL Hum-Comput Interact. 
+
+<a id="Contributing-header"></a>
+# How to Contribute
+
+We accept entries to our catalogue based on pull requests to the `README.md` file. The dataset must be avaliable for download to be included in the list.
+If you want to add an entry, follow these steps!
+* Go to the README.md file and click the edit button in the top right corner of the file.
+
+
+<img width="1239" alt="Pasted Graphic" src="https://user-images.githubusercontent.com/22522221/150790020-ecbc6eea-3cf1-4134-ad51-a8a6334cfc2f.png">
+
+
+* Edit the markdown file. Please first go the correct language. The items are then sorted by their publication date (newest first). Add your item by copy and pasting the following template and adding all the details:
+
+
+```
+* Link to publication: [url](url) - link to the documentation and/or a data statement about the data
+* Link to data: [url](url) - direct download is preferred, e.g. a link straight to a .zip file
+* Task description: How the task is framed in this data, e.g. "Binary (Hate, Not)", "Hierarchical", "Three-class (Hate speech, Offensive language, None)"
+* Details of task: Free-text description of the task this data models, e.g. "Misogyny detection on social media in Danish"
+* Size of dataset: Give the number of instances of abusive/non-abusive/other items
+* Percentage abusive: e.g. 1.2%
+* Language: e.g. Arabic
+* Level of annotation: What is an "instance", in this dataset? e.g. Posts, User, Conversation, ... 
+* Platform: e.g. twitter, snapchat, ..
+* Medium: text / image / audio / ...
+* Reference: Give a bibliographic reference for the data (if there is one), with title, author, year, venue etc
+```
+
+* Check the “Preview Changes” tab to confirm everything is good to go!
+* If you’re ready to submit, propose the changes. Make sure you give some brief detail on the proposed change.
+
+<img width="1243" alt="Pasted Graphic 1" src="https://user-images.githubusercontent.com/22522221/150790254-c4c004cb-567d-4401-95ba-7b7be6de53fd.png">
+
+* Submit the pull request on the next page when prompted.
 
 ---
 
