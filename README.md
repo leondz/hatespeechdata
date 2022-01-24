@@ -185,8 +185,8 @@ Please send contributions via github pull request. You can do this by visiting t
 * Link to data: [https://github.com/dadangewp/SWAD-Repository](https://github.com/dadangewp/SWAD-Repository)
 * Task description: Binary (abusive swear word, non-abusive swear word)
 * Details of task: Abusive swearing
-* Size of dataset: 1,511
-* Percentage abusive: 0.41
+* Size of dataset: 1,511 swear words (1675 tweets)
+* Percentage abusive: 0.41 (word level), 0.51 (post level)
 * Language: English 
 * Level of annotation: Words
 * Platform: Twitter
