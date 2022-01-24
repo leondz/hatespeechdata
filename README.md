@@ -536,6 +536,19 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Medium: Text 
 * Reference: Mandl, T., Modha, S., Majumder, P., Patel, D., Dave, M., Mandlia, C. and Patel, A., 2019. Overview of the HASOC track at FIRE 2019. In: Proceedings of the 11th Forum for Information Retrieval Evaluation,. 
 
+#### Detecting East Asian Prejudice on Social media
+* Link to publication: [https://www.aclweb.org/anthology/2020.alw-1.19.pdf](https://www.aclweb.org/anthology/2020.alw-1.19.pdf)
+* Link to data: [https://zenodo.org/record/3816667](https://zenodo.org/record/3816667)
+* Task description: Task 1: Thematic annotation (East Asia/Covid-19) Task 2: Primary category annotation: 1) Hostility against an East Asian (EA) entity 2) Criticism of an East Asian entity 3) Counter speech 5) Discussion of East Asian prejudice 5) Non-related. Task 3: Secondary category annotation (if (1) or (2) - identifying what East Asian entity was targeted + if (1) interpersonal abuse/threatening language/dehumanization). 
+* Details of task: Detecting East Asian prejudice 
+* Size of dataset: 20,000
+* Percentage abusive: 27% (Hostility, 19.5%; Criticism, 7.2%)
+* Language: English 
+* Level of annotation: Post
+* Platform: Twitter
+* Medium: Text
+* Reference: Vidgen, B., Botelho, A., Broniatowski, D., Guest, E., Hall, M., Margetts, H., Tromble, R., Waseem, Z. and Hale, S., Detecting East Asian Prejudice on Social media, 2020, In: Proceedings of the Fourth Workshop on Online Abuse and Harms, pp.162–172 
+
 #### Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior
 * Link to publication: [https://arxiv.org/pdf/1802.00393.pdf](https://arxiv.org/pdf/1802.00393.pdf)
 * Link to data: [https://dataverse.mpi-sws.org/dataset.xhtml?persistentId=doi:10.5072/FK2/ZDTEMN](https://dataverse.mpi-sws.org/dataset.xhtml?persistentId=doi:10.5072/FK2/ZDTEMN)
