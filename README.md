@@ -180,6 +180,19 @@ Please send contributions via github pull request. You can do this by visiting t
 
 <a id="English-header"></a>
 ### English
+#### Multimodal Meme Dataset (MultiOFF) for Identifying Offensive Content in Image and Text
+* Link to publication: [https://www.aclweb.org/anthology/2020.trac-1.6.pdf](https://www.aclweb.org/anthology/2020.trac-1.6.pdf)
+* Link to data: [https://github.com/bharathichezhiyan/Multimodal-Meme-Classification-Identifying-Offensive-Content-in-Image-and-Text](https://github.com/bharathichezhiyan/Multimodal-Meme-Classification-Identifying-Offensive-Content-in-Image-and-Text)
+* Task description: Binary (offensive, non-offensive)
+* Details of task: Hate per se (related to 2016 U.S. presidential election)
+* Size of dataset: 743
+* Percentage abusive: 0.41
+* Language: English 
+* Level of annotation: Posts
+* Platform: Kaggle, Reddit, Facebook, Twitter and Instagram
+* Medium: Text and Images/memes
+* Reference: Suryawanshi, S., Chakravarthi, B. R., Arcan, M., & Buitelaar, P. (2020, May). Multimodal meme dataset (MultiOFF) for identifying offensive content in image and text. In Proceedings of the Second Workshop on Trolling, Aggression and Cyberbullying (pp. 32-41).
+
 #### Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate
 * Link to publication: [https://arxiv.org/abs/2108.05921](https://arxiv.org/abs/2108.05921)
 * Link to data: [https://github.com/HannahKirk/Hatemoji](https://github.com/HannahKirk/Hatemoji)
