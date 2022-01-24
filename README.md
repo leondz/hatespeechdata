@@ -247,6 +247,19 @@ Please send contributions via github pull request. You can do this by visiting t
 * Medium: Text and Images/memes
 * Reference: Suryawanshi, S., Chakravarthi, B. R., Arcan, M., & Buitelaar, P. (2020, May). Multimodal meme dataset (MultiOFF) for identifying offensive content in image and text. In Proceedings of the Second Workshop on Trolling, Aggression and Cyberbullying (pp. 32-41).
 
+#### Detecting East Asian Prejudice on Social media
+* Link to publication: [https://www.aclweb.org/anthology/2020.alw-1.19.pdf](https://www.aclweb.org/anthology/2020.alw-1.19.pdf)
+* Link to data: [https://zenodo.org/record/3816667](https://zenodo.org/record/3816667)
+* Task description: Task 1: Thematic annotation (East Asia/Covid-19) Task 2: Primary category annotation: 1) Hostility against an East Asian (EA) entity 2) Criticism of an East Asian entity 3) Counter speech 5) Discussion of East Asian prejudice 5) Non-related. Task 3: Secondary category annotation (if (1) or (2) - identifying what East Asian entity was targeted + if (1) interpersonal abuse/threatening language/dehumanization). 
+* Details of task: Detecting East Asian prejudice 
+* Size of dataset: 20,000
+* Percentage abusive: 0.27 (Hostility, 19.5%; Criticism, 7.2%)
+* Language: English 
+* Level of annotation: Post
+* Platform: Twitter
+* Medium: Text
+* Reference: Vidgen, B., Botelho, A., Broniatowski, D., Guest, E., Hall, M., Margetts, H., Tromble, R., Waseem, Z. and Hale, S., Detecting East Asian Prejudice on Social media, 2020, In: Proceedings of the Fourth Workshop on Online Abuse and Harms, pp.162–172 
+
 #### Predicting the Type and Target of Offensive Posts in Social Media
 * Link to publication: [https://aclanthology.org/N19-1144.pdf](https://aclanthology.org/N19-1144.pdf)
 * Link to data: [https://scholar.harvard.edu/malmasi/olid](https://scholar.harvard.edu/malmasi/olid)
