@@ -169,6 +169,19 @@ Please send contributions via github pull request. You can do this by visiting t
 * Medium: Text with emoji
 * Reference: Kirk, H. R., Vidgen, B., Röttger, P., Thrush, T., & Hale, S. A. 2021. Hatemoji: A test suite and adversarially-generated dataset for benchmarking and detecting emoji-based hate. arXiv preprint arXiv:2108.05921.
 
+#### HateCheck: Functional Tests for Hate Speech Detection Models
+* Link to publication: [https://arxiv.org/pdf/2012.15606.pdf](https://arxiv.org/pdf/2012.15606.pdf)
+* Link to data: [https://github.com/paul-rottger/hatecheck-data](https://github.com/paul-rottger/hatecheck-data)
+* Task description: Binary (Hate, Not Hate), 7 Targets Within Hate (Women, Trans people, Black people, Gay people, Disabled people, Muslims, Immigrants)
+* Details of task: A checklist of functional tests to evaluate hate speech detection models.
+* Size of dataset:  3,728
+* Percentage abusive: 68%
+* Language: English
+* Level of annotation: Post
+* Platform: Synthetically-Generated
+* Medium: Text
+* Reference: Röttger, P., Vidgen, B., Nguyen, D., Waseem, Z., Margetts, H. and Pierrehumbert, J., 2020. Hatecheck: Functional tests for hate speech detection models. arXiv preprint arXiv:2012.15606.
+
 #### Semeval-2021 Task 5: Toxic Spans Detection
 * Link to publication: [https://aclanthology.org/2021.semeval-1.6.pdf](https://aclanthology.org/2021.semeval-1.6.pdf)
 * Link to data: [https://github.com/ipavlopoulos/toxic_spans](https://github.com/ipavlopoulos/toxic_spans)
