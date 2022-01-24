@@ -312,6 +312,19 @@ Please send contributions via github pull request. You can do this by visiting t
 * Medium: Text 
 * Reference: Gao, L. and Huang, R., 2018. Detecting Online Hate Speech Using Context Aware Models. ArXiv,. 
 
+#### Six Attributes of Unhealthy Conversation
+* Link to publication: [https://arxiv.org/abs/2010.07410](https://arxiv.org/abs/2010.07410)
+* Link to data: [https://github.com/conversationai/unhealthy-conversations](https://github.com/conversationai/unhealthy-conversations)
+* Task description: Binary classification of unhealthy/healthy comments, sub-attributes: Antagonistic/Insulting/Trolling, Condescending/Patronising, Dismissive, (Unfair) Generalisation, Hostile, Sarcastic, Unhealthy  
+* Details of task: Unhealthy conversations
+* Size of dataset: 44,355
+Percentage abusive: 0.02 to 0.075 (Antagonistic/Insulting/Trolling, 4.7%; Condescending/Patronising: 5.5%; Dismissive: 3.1%; (Unfair) Generalisation: 2%; Hostile: 2.5%); Sarcastic: 4.3%; Unhealthy: 7.5%).
+* Language: English
+* Level of annotation: Comment
+* Platform: News site (The Globe and Mail - Canada)
+* Medium: Text
+* Reference: Price, I., Gifford-Moore, J., Flemming, J., Musker, S., Roichman, M., Sylvian, G., Thain, N., Dixon, L. and Sorensen, J., 2020, Six Attributes of Unhealthy Conversation, ArXiv. 
+
 ### The Gab Hate Corpus: A collection of 27k posts annotated for hate speech
 * Link to publication: [https://psyarxiv.com/hqjxn/](https://psyarxiv.com/hqjxn/)
 * Link to data: [https://osf.io/edua3/](https://osf.io/edua3/)
