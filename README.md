@@ -206,7 +206,6 @@ Please send contributions via github pull request. You can do this by visiting t
 * Platform: Twitter
 * Medium: Multimodal (text, images, emojis, metadata)
 * Reference: Wijesiriwardene, T., Inan, H., Kursuncu, U., Gaur, M., Shalin, V., Thirunarayan, K., Sheth, A. and Arpinar, I., 2020, Arxiv. 
-![image](https://user-images.githubusercontent.com/72524455/150524408-ecad893d-39e8-4216-b7ab-bc755eedc38b.png)
 
 #### Towards a Comprehensive Taxonomy and Large-Scale Annotated Corpus for Online Slur Usage
 * Link to publication: [https://www.aclweb.org/anthology/2020.alw-1.17.pdf](https://www.aclweb.org/anthology/2020.alw-1.17.pdf)
