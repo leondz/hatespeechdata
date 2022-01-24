@@ -4,7 +4,7 @@
 
 This page catalogues datasets annotated for hate speech, online abuse, and offensive language. They may be useful for e.g. training a natural language processing system to detect this language.
 
-The list is maintained by [Leon Derczynski](https://www.derczynski.com/) and [Bertie Vidgen](https://www.turing.ac.uk/people/researchers/bertie-vidgen).
+The list is maintained by [Leon Derczynski](https://www.derczynski.com/), [Bertie Vidgen](https://www.turing.ac.uk/people/researchers/bertie-vidgen), [Hannah Rose Kirk](https://www.hannahrosekirk.com/), Pica Johansson, [Yi-Ling Chung](https://yilingchung.github.io/) and Mads Guldborg Kjeldgaard Kongsbak.
 
 If you use these resources, please cite (and read!) our paper: [Directions in Abusive Language Training Data: Garbage In, Garbage Out](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243300). And if you would like to find other resources for researching online hate, visit The Alan Turing Institute's [Online Hate Research Hub](https://www.turing.ac.uk/research/research-programmes/public-policy/online-hate-research-hub) or read The Alan Turing Institute's [Reading List on Online Hate and Abuse Research](https://docs.google.com/document/d/1WVkVGp29Jt6d-4fBnZ5OWVYuFn_03rzz-KBqPsu6gTM/edit?usp=sharing).
 
