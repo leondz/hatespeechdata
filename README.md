@@ -350,6 +350,19 @@ Percentage abusive: 0.02 to 0.075 (Antagonistic/Insulting/Trolling, 4.7%; Condes
 * Medium: Text 
 * Reference: Waseem, Z., 2016. Are You a Racist or Am I Seeing Things? Annotator Influence on Hate Speech Detection on Twitter. In: Proceedings of 2016 EMNLP Workshop on Natural Language Processing and Computational Social Science. Copenhagen, Denmark: Association for Computational Linguistics, pp.138-142. 
 
+#### The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes
+* Link to publication: [https://proceedings.neurips.cc//paper/2020/file/1b84c4cee2b8b3d823b30e2d604b1878-Paper.pdf](https://proceedings.neurips.cc//paper/2020/file/1b84c4cee2b8b3d823b30e2d604b1878-Paper.pdf)
+* Link to data:[https://www.drivendata.org/accounts/login/?next=/competitions/70/hateful-memes-phase-2/data/](https://www.drivendata.org/accounts/login/?next=/competitions/70/hateful-memes-phase-2/data/)
+* Task description: 1) Hierarchy (1 = definitely hateful, 2 = not sure, 3 = definitely not hateful), 2) Collect cofounder (i.e. contrastive or counterfactual example) 
+* Details of task: Hate in multimodal memes (identifying multimodal hate, unimodal hate, benign image and benign text). Fine-grained labels for (1) protected category and (2) type of attack are provided in the follow-up WOAH paper [https://aclanthology.org/2021.woah-1.21.pdf](https://aclanthology.org/2021.woah-1.21.pdf)
+* Size of dataset: 10,000
+* Percentage abusive: 0.5 (comprises multimodal hate, unimodal hate and benign text and image confounders)
+* Language: English 
+* Level of annotation: Meme
+* Platform: Multiple social media sites 
+* Medium: Memes
+* References 1) : Goswami, V., Singh, A., Ringshia, P., Testuggine, D., 2020, The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes, In: 34th Conference on Neural Information Processing Systems (NeurIPS 2020). 2) Mathias, L., Nie, S., Mostafazadeh Davani, A., Kiela, D., Prabhakaran, V., Vidgen, B. and Waseem, Z. 2021, Findings of the WOAH 5 Shared Task on Fine Grained Hateful Memes Detection, In: Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH 2021).
+
 #### When Does a Compliment Become Sexist? Analysis and Classification of Ambivalent Sexism Using Twitter Data
 * Link to publication: [https://pdfs.semanticscholar.org/225f/f8a6a562bbb64b22cebfcd3288c6b930d1ef.pdf](https://pdfs.semanticscholar.org/225f/f8a6a562bbb64b22cebfcd3288c6b930d1ef.pdf)
 * Link to data: [https://github.com/AkshitaJha/NLP_CSS_2017](https://github.com/AkshitaJha/NLP_CSS_2017)
