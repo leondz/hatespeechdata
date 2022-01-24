@@ -13,6 +13,27 @@ If you're looking for a good paper on online hate training datasets (beyond our 
 Please send contributions via github pull request. You can do this by visiting the [source code](https://github.com/leondz/hatespeechdata/blob/master/README.md) on github and clicking the edit icon (a pencil, above the text, on the right). There's a commented-out markdown template at the top of this file. Accompanying [data statements](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00041) preferred for all corpora.
 
 
+## Languages Table of Contents
+
+* [Arabic](#Arabic-header)
+* [Bengali](#Bengali-header)
+* [Croatian](#Croatian-header)
+* [Danish](#Danish-header)
+* [English](#English-header)
+* [French](#French-header)
+* [German](#German-header)
+* [Greek](#Greek-header)
+* [Hindi](#Hindi-header)
+* [Indonesian](#Indonesian-header)
+* [Portuguese](#Portuguese-header)
+* [Polish](#Polish-header)
+* [Russian](#Russian-header)
+* [Slovene](#Slovene-header)
+* [Spanish](#Spanish-header)
+* [Turkish](#Turkish-header)
+* [Ukranian](#Ukranian-header)
+
+
 ## List of datasets
 <!-- dataset template
 
@@ -30,7 +51,7 @@ Please send contributions via github pull request. You can do this by visiting t
 
 -->
 
-
+<a id="Arabic-header"></a>
 ### Arabic
 #### Are They our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere
 * Link to publication: [https://ieeexplore.ieee.org/document/8508247](https://ieeexplore.ieee.org/document/8508247)
@@ -110,6 +131,7 @@ Please send contributions via github pull request. You can do this by visiting t
 * Medium: Text 
 * Reference: Alakrot, A., Murray, L. and Nikolov, N., 2018. Dataset Construction for the Detection of Anti-Social Behaviour in Online Communication in Arabic. Procedia Computer Science, 142, pp.174-181. 
 
+<a id="Bengali-header"></a>
 ### Bengali
 #### Hate Speech Detection in the Bengali language: A Dataset and its Baseline Evaluation
 * Link to publication: [https://arxiv.org/pdf/2012.09686.pdf](https://arxiv.org/pdf/2012.09686.pdf)
@@ -124,6 +146,7 @@ Please send contributions via github pull request. You can do this by visiting t
 * Medium: Text 
 * Reference: Romim, N., Ahmed, M., Talukder, H., & Islam, M. S. (2021). Hate speech detection in the bengali language: A dataset and its baseline evaluation. In Proceedings of International Joint Conference on Advances in Computational Intelligence (pp. 457-468). Springer, Singapore.
 
+<a id="Croatian-header"></a>
 ### Croatian
 #### Datasets of Slovene and Croatian Moderated News Comments
 * Link to publication: [https://www.aclweb.org/anthology/W18-5116](https://www.aclweb.org/anthology/W18-5116)
@@ -138,7 +161,7 @@ Please send contributions via github pull request. You can do this by visiting t
 * Medium: Text 
 * Reference: Ljubešić, N., Erjavec, T. and Fišer, D., 2018. Datasets of Slovene and Croatian Moderated News Comments. In: Proceedings of the 2nd Workshop on Abusive Language Online (ALW2). Brussels, Belgium: Association for Computational Linguistics, pp.124-131. 
 
-
+<a id="Danish-header"></a>
 ### Danish
 #### Offensive Language and Hate Speech Detection for Danish
 * Link to publication: [http://www.derczynski.com/papers/danish_hsd.pdf](http://www.derczynski.com/papers/danish_hsd.pdf)
@@ -153,9 +176,8 @@ Please send contributions via github pull request. You can do this by visiting t
 * Medium: Text 
 * Reference: Sigurbergsson, G. and Derczynski, L., 2019. Offensive Language and Hate Speech Detection for Danish. ArXiv. 
 
-
+<a id="English-header"></a>
 ### English
-
 #### Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate
 * Link to publication: [https://arxiv.org/abs/2108.05921](https://arxiv.org/abs/2108.05921)
 * Link to data: [https://github.com/HannahKirk/Hatemoji](https://github.com/HannahKirk/Hatemoji)
@@ -208,7 +230,7 @@ Please send contributions via github pull request. You can do this by visiting t
 * Medium: Text 
 * Reference: Mathew, B., Saha, P., Yimam, S. M., Biemann, C., Goyal, P., & Mukherjee, A. (2021, May). HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 35, No. 17, pp. 14867-14875).
 
-#### ALONE: A Dataset for Toxic Behavior among Adolescents on Twitter
+### ALONE: A Dataset for Toxic Behavior among Adolescents on Twitter
 * Link to publication: [https://arxiv.org/pdf/2008.06465.pdf](https://arxiv.org/pdf/2008.06465.pdf)
 * Link to data: Data made available upon request, please email Ugur Kursuncu ugur@gsu.edu and thilini@sc.edu thilini@sc.edu.
 * Task description: Binary (Toxic, Non-Toxic) 
@@ -220,6 +242,7 @@ Please send contributions via github pull request. You can do this by visiting t
 * Platform: Twitter
 * Medium: Multimodal (text, images, emojis, metadata)
 * Reference: Wijesiriwardene, T., Inan, H., Kursuncu, U., Gaur, M., Shalin, V., Thirunarayan, K., Sheth, A. and Arpinar, I., 2020, Arxiv. 
+![image](https://user-images.githubusercontent.com/72524455/150524408-ecad893d-39e8-4216-b7ab-bc755eedc38b.png)
 
 #### Towards a Comprehensive Taxonomy and Large-Scale Annotated Corpus for Online Slur Usage
 * Link to publication: [https://www.aclweb.org/anthology/2020.alw-1.17.pdf](https://www.aclweb.org/anthology/2020.alw-1.17.pdf)
@@ -709,6 +732,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Medium: Text
 * Reference: Salminen, J., Almerekhi, H., Milenković, M., Jung, S., An, J., Kwak, H. and Jansen, B., 2018, Anatomy of Online Hate: Developing a Taxonomy and Machine Learning Models for Identifying and Classifying Hate in Online News Media, In: Proceedings of the Twelfth International AAAI Conference on Web and Social Media (ICWSM 2018), pp.330-339
 
+<a id="French-header"></a>
 ### French
 #### CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (French)
 * Link to publication: [https://www.aclweb.org/anthology/P19-1271.pdf](https://www.aclweb.org/anthology/P19-1271.pdf)
@@ -737,7 +761,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Medium: Text 
 * Reference: Ousidhoum, N., Lin, Z., Zhang, H., Song, Y. and Yeung, D., 2019. Multilingual and Multi-Aspect Hate Speech Analysis. ArXiv,. 
 
-
+<a id="German-header"></a>
 ### German
 #### Measuring the Reliability of Hate Speech Annotations: The Case of the European Refugee Crisis
 * Link to publication: [https://arxiv.org/pdf/1701.08118.pdf](https://arxiv.org/pdf/1701.08118.pdf)
@@ -791,7 +815,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Medium: Text 
 * Reference: Mandl, T., Modha, S., Majumder, P., Patel, D., Dave, M., Mandlia, C. and Patel, A., 2019. Overview of the HASOC track at FIRE 2019. In: Proceedings of the 11th Forum for Information Retrieval Evaluation,. 
 
- 
+<a id="Greek-header"></a>
 ### Greek
 #### Deep Learning for User Comment Moderation, Flagged Comments
 * Link to publication: [https://www.aclweb.org/anthology/W17-3004](https://www.aclweb.org/anthology/W17-3004
@@ -832,7 +856,8 @@ https://www.aclweb.org/anthology/D17-1117)
 * Platform: Twitter 
 * Medium: Text 
 * Reference: Pitenis, Z., Zampieri, M. and Ranasinghe, T., 2020. Offensive Language Identification in Greek. ArXiv. 
- 
+
+<a id="Hindi-header"></a>
 ### Hindi / Hindi-English
 #### Hostility Detection Dataset in Hindi
 * Link to publication: [https://arxiv.org/pdf/2011.03588.pdf](https://arxiv.org/pdf/2011.03588.pdf)
@@ -912,7 +937,7 @@ https://www.aclweb.org/anthology/D17-1117)
 * Medium: Text 
 * Reference: Mandl, T., Modha, S., Majumder, P., Patel, D., Dave, M., Mandlia, C. and Patel, A., 2019. Overview of the HASOC track at FIRE 2019. In: Proceedings of the 11th Forum for Information Retrieval Evaluation,. 
 
- 
+<a id="Indonesian-header"></a>
 ### Indonesian
 #### Hate Speech Detection in the Indonesian Language: A Dataset and Preliminary Study
 * Link to publication: [https://ieeexplore.ieee.org/document/8355039](https://ieeexplore.ieee.org/document/8355039)
@@ -954,7 +979,7 @@ https://www.aclweb.org/anthology/D17-1117)
 * Medium: Text 
 * Reference: Ibrohim, M. and Budi, I., 2018. A Dataset and Preliminaries Study for Abusive Language Detection in Indonesian Social Media. Procedia Computer Science, 135, pp.222-229. 
 
- 
+<a id="Italian-header"></a>
 ### Italian
 #### An Italian Twitter Corpus of Hate Speech against Immigrants
 * Link to publication: [https://www.aclweb.org/anthology/L18-1443](https://www.aclweb.org/anthology/L18-1443)
@@ -1023,7 +1048,7 @@ https://www.aclweb.org/anthology/D17-1117)
 * Medium: Text 
 * Reference: Sprugnoli, R., Menini, S., Tonelli, S., Oncini, F. and Piras, E., 2018. Creating a WhatsApp Dataset to Study Pre-teen Cyberbullying. In: Proceedings of the 2nd Workshop on Abusive Language Online (ALW2) Month: October. Brussels, Belgium: Association for Computational Linguistics, pp.51-59. 
 
- 
+<a id="Polish-header"></a>
 ### Polish
 #### Results of the PolEval 2019 Shared Task 6:First Dataset and Open Shared Task for Automatic Cyberbullying Detection in Polish Twitter
 * Link to publication: [http://poleval.pl/files/poleval2019.pdf](http://poleval.pl/files/poleval2019.pdf)
@@ -1038,7 +1063,7 @@ https://www.aclweb.org/anthology/D17-1117)
 * Medium: Text 
 * Reference: Ogrodniczuk, M. and Kobyliński, L., 2019. Results of the PolEval 2019 Shared Task 6: First Dataset and Open Shared Task for Automatic Cyberbullying Detection in Polish Twitter. In: Proceedings of the PolEval 2019 Workshop. Warszawa: Institute of Computer Science, Polish Academy of Sciences. 
 
- 
+<a id="Portuguese-header"></a>
 ### Portuguese
 #### A Hierarchically-Labeled Portuguese Hate Speech Dataset
 * Link to publication: [https://www.aclweb.org/anthology/W19-3510](https://www.aclweb.org/anthology/W19-3510)
@@ -1066,6 +1091,7 @@ https://www.aclweb.org/anthology/D17-1117)
 * Medium: Text 
 * Reference: de Pelle, R. and Moreira, V., 2017. Offensive Comments in the Brazilian Web: A Dataset and Baseline Results. In: VI Brazilian Workshop on Social Network Analysis and Mining. SBC. 
 
+<a id="Russian-header"></a>
 ### Russian
 #### Reducing Unintended Identity Bias in Russian Hate Speech Detection
 * Link to publication: [https://aclanthology.org/2020.alw-1.8.pdf](https://aclanthology.org/2020.alw-1.8.pdf)
@@ -1093,6 +1119,7 @@ https://www.aclweb.org/anthology/D17-1117)
 * Medium: Text
 * Reference: Andrusyak, B., Rimel, M. and Kern, R., 2018. Detection of Abusive Speech for Mixed Sociolects of Russian and Ukrainian Languages. In: Proceedings of Recent Advances in Slavonic Natural Language Processing, RASLAN 2018, pp. 77–84, 2018. 
 
+<a id="Slovene-header"></a>
 ### Slovene
 #### Datasets of Slovene and Croatian Moderated News Comments
 * Link to publication: [https://www.aclweb.org/anthology/W18-5116](https://www.aclweb.org/anthology/W18-5116)
@@ -1107,7 +1134,7 @@ https://www.aclweb.org/anthology/D17-1117)
 * Medium: Text 
 * Reference: Ljubešić, N., Erjavec, T. and Fišer, D., 2018. Datasets of Slovene and Croatian Moderated News Comments. In: Proceedings of the 2nd Workshop on Abusive Language Online (ALW2). Brussels, Belgium: Association for Computational Linguistics, pp.124-131. 
   
-  
+<a id="Spanish-header"></a>
 ### Spanish
 #### Overview of MEX-A3T at IberEval 2018: Authorship and Aggressiveness Analysis in Mexican Spanish Tweets
 * Link to publication: [http://ceur-ws.org/Vol-2150/overview-mex-a3t.pdf](http://ceur-ws.org/Vol-2150/overview-mex-a3t.pdf)
@@ -1148,7 +1175,7 @@ https://www.aclweb.org/anthology/D17-1117)
 * Medium: Text 
 * Reference: Basile, V., Bosco, C., Fersini, E., Nozza, D., Patti, V., Pardo, F., Rosso, P. and Sanguinetti, M., 2019. SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter. In: Proceedings of the 13th International Workshop on Semantic Evaluation. Minneapolis, Minnesota: Association for Computational Linguistics, pp.54-63. 
 
-
+<a id="Turkish-header"></a>
 ### Turkish
 #### A Corpus of Turkish Offensive Language on Social Media
 * Link to publication: [https://coltekin.github.io/offensive-turkish/troff.pdf](https://coltekin.github.io/offensive-turkish/troff.pdf)
@@ -1163,6 +1190,7 @@ https://www.aclweb.org/anthology/D17-1117)
 * Medium: Text 
 * Reference: Çöltekin, C., 2020. A Corpus of Turkish Offensive Language on Social Media. In: Proceedings of the 12th International Conference on Language Resources and Evaluation. 
 
+<a id="Ukranian-header"></a>
 ### Ukranian
 #### Detection of Abusive Speech for Mixed Sociolects of Russian and Ukrainian Languages
 * Link to publication: [https://nlp.fi.muni.cz/raslan/2018/paper04-Andrusyak.pdf](https://nlp.fi.muni.cz/raslan/2018/paper04-Andrusyak.pdf)
