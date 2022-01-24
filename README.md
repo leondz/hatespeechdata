@@ -156,7 +156,7 @@ Please send contributions via github pull request. You can do this by visiting t
 
 ### English
 
-### Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate
+#### Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate
 * Link to publication: [https://arxiv.org/abs/2108.05921](https://arxiv.org/abs/2108.05921)
 * Link to data: [https://github.com/HannahKirk/Hatemoji](https://github.com/HannahKirk/Hatemoji)
 * Task description: Branching structure of tasks: Binary (Hate, Not Hate), Within Hate (Type, Target)
@@ -833,9 +833,21 @@ https://www.aclweb.org/anthology/D17-1117)
 * Platform: Twitter 
 * Medium: Text 
 * Reference: Pitenis, Z., Zampieri, M. and Ranasinghe, T., 2020. Offensive Language Identification in Greek. ArXiv. 
-
  
-### Hindi-English
+### Hindi / Hindi-English
+#### Hostility Detection Dataset in Hindi
+* Link to publication: [https://arxiv.org/pdf/2011.03588.pdf](https://arxiv.org/pdf/2011.03588.pdf)
+* Link to data: [https://competitions.codalab.org/competitions/26654](https://competitions.codalab.org/competitions/26654)
+* Task description: Branching structure of tasks: Binary (Hostile, Not Hostile), Multi-tags within Hostile (Fake News, Hate, Offense, Defame) 
+* Details of task: Hostility detection
+* Size of dataset: 8,192 
+* Percentage abusive: 47% 
+* Language: Hindi
+* Level of annotation: Posts
+* Platform: Twitter, Facebook, WhatsApp
+* Medium: Text 
+* Reference: Bhardwaj, M., Akhtar, M.S., Ekbal, A., Das, A. and Chakraborty, T., 2020. Hostility detection dataset in hindi. arXiv preprint arXiv:2011.03588. 
+
 #### Aggression-annotated Corpus of Hindi-English Code-mixed Data
 * Link to publication: [https://arxiv.org/pdf/1803.09402](https://arxiv.org/pdf/1803.09402)
 * Link to data: [https://github.com/kraiyani/Facebook-Post-Aggression-Identification](https://github.com/kraiyani/Facebook-Post-Aggression-Identification)
