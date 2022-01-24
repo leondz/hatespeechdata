@@ -155,6 +155,19 @@ Please send contributions via github pull request. You can do this by visiting t
 
 
 ### English
+#### COLD: Annotation scheme and evaluation data set for complex offensive language in English
+* Link to publication: [https://jlcl.org/content/2-allissues/1-heft1-2020/jlcl_2020-1_1.pdf](https://jlcl.org/content/2-allissues/1-heft1-2020/jlcl_2020-1_1.pdf)
+* Link to data: [https://github.com/alexispalmer/cold](https://github.com/alexispalmer/cold)
+* Task description: Binary (Offensive, Not Offensive). Secondary fine-grained labels for type of offensive language (slurs, adjectival nominalization, linguistic distancing) and non-offensive language (reclaimed slurs, adjectival nominalization, linguistic distancing). 
+* Details of task: Complex types of offfensive language.
+* Size of dataset: 2016
+* Percentage abusive: 47%
+* Language: English
+* Level of annotation: Posts
+* Platform: Mainly Twitter
+* Medium: Text
+* Reference: Palmer, A., Carr, C., Robinson, M. and Sanders, J., 2020. COLD: Annotation scheme and evaluation data set for complex offensive language in English. Journal for Language Technology and Computational Linguistics, 34(1), pp.1-28.
+
 #### Semeval-2021 Task 5: Toxic Spans Detection
 * Link to publication: [https://aclanthology.org/2021.semeval-1.6.pdf](https://aclanthology.org/2021.semeval-1.6.pdf)
 * Link to data: [https://github.com/ipavlopoulos/toxic_spans](https://github.com/ipavlopoulos/toxic_spans)
