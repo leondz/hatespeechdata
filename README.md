@@ -155,6 +155,20 @@ Please send contributions via github pull request. You can do this by visiting t
 
 
 ### English
+
+#### Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate
+* Link to publication: [https://arxiv.org/abs/2108.05921](https://arxiv.org/abs/2108.05921)
+* Link to data: [https://github.com/HannahKirk/Hatemoji](https://github.com/HannahKirk/Hatemoji)
+* Task description: Branching structure of tasks: Binary (Hate, Not Hate), Within Hate (Type, Target)
+* Details of task: Hate speech detection for text statements including emoji, consisting of a checklist-based test suite (HatemojiCheck) and an adversarially-generated dataset (HatemojiBuild)
+* Size of dataset: HatemojiCheck = 3,930; HatemojiBuild = 5,912.
+* Percentage abusive: HatemojiCheck = 69%, HatemojiBuild = 50%
+* Language: English
+* Level of annotation: Post
+* Platform: Synthetically-Generated
+* Medium: Text with emoji
+* Reference: Kirk, H. R., Vidgen, B., Röttger, P., Thrush, T., & Hale, S. A. 2021. Hatemoji: A test suite and adversarially-generated dataset for benchmarking and detecting emoji-based hate. arXiv preprint arXiv:2108.05921.
+
 #### Semeval-2021 Task 5: Toxic Spans Detection
 * Link to publication: [https://aclanthology.org/2021.semeval-1.6.pdf](https://aclanthology.org/2021.semeval-1.6.pdf)
 * Link to data: [https://github.com/ipavlopoulos/toxic_spans](https://github.com/ipavlopoulos/toxic_spans)
@@ -206,6 +220,7 @@ Please send contributions via github pull request. You can do this by visiting t
 * Platform: Twitter
 * Medium: Multimodal (text, images, emojis, metadata)
 * Reference: Wijesiriwardene, T., Inan, H., Kursuncu, U., Gaur, M., Shalin, V., Thirunarayan, K., Sheth, A. and Arpinar, I., 2020, Arxiv. 
+![image](https://user-images.githubusercontent.com/72524455/150524408-ecad893d-39e8-4216-b7ab-bc755eedc38b.png)
 
 #### Towards a Comprehensive Taxonomy and Large-Scale Annotated Corpus for Online Slur Usage
 * Link to publication: [https://www.aclweb.org/anthology/2020.alw-1.17.pdf](https://www.aclweb.org/anthology/2020.alw-1.17.pdf)
@@ -311,19 +326,6 @@ Please send contributions via github pull request. You can do this by visiting t
 * Medium: Text 
 * Reference: Gao, L. and Huang, R., 2018. Detecting Online Hate Speech Using Context Aware Models. ArXiv,. 
 
-#### Six Attributes of Unhealthy Conversation
-* Link to publication: [https://arxiv.org/abs/2010.07410](https://arxiv.org/abs/2010.07410)
-* Link to data: [https://github.com/conversationai/unhealthy-conversations](https://github.com/conversationai/unhealthy-conversations)
-* Task description: Binary classification of unhealthy/healthy comments, sub-attributes: Antagonistic/Insulting/Trolling, Condescending/Patronising, Dismissive, (Unfair) Generalisation, Hostile, Sarcastic, Unhealthy  
-* Details of task: Unhealthy conversations
-* Size of dataset: 44,355
-Percentage abusive: 0.02 to 0.075 (Antagonistic/Insulting/Trolling, 4.7%; Condescending/Patronising: 5.5%; Dismissive: 3.1%; (Unfair) Generalisation: 2%; Hostile: 2.5%); Sarcastic: 4.3%; Unhealthy: 7.5%).
-* Language: English
-* Level of annotation: Comment
-* Platform: News site (The Globe and Mail - Canada)
-* Medium: Text
-* Reference: Price, I., Gifford-Moore, J., Flemming, J., Musker, S., Roichman, M., Sylvian, G., Thain, N., Dixon, L. and Sorensen, J., 2020, Six Attributes of Unhealthy Conversation, ArXiv. 
-
 ### The Gab Hate Corpus: A collection of 27k posts annotated for hate speech
 * Link to publication: [https://psyarxiv.com/hqjxn/](https://psyarxiv.com/hqjxn/)
 * Link to data: [https://osf.io/edua3/](https://osf.io/edua3/)
@@ -349,19 +351,6 @@ Percentage abusive: 0.02 to 0.075 (Antagonistic/Insulting/Trolling, 4.7%; Condes
 * Platform: Twitter 
 * Medium: Text 
 * Reference: Waseem, Z., 2016. Are You a Racist or Am I Seeing Things? Annotator Influence on Hate Speech Detection on Twitter. In: Proceedings of 2016 EMNLP Workshop on Natural Language Processing and Computational Social Science. Copenhagen, Denmark: Association for Computational Linguistics, pp.138-142. 
-
-#### The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes
-* Link to publication: [https://proceedings.neurips.cc//paper/2020/file/1b84c4cee2b8b3d823b30e2d604b1878-Paper.pdf](https://proceedings.neurips.cc//paper/2020/file/1b84c4cee2b8b3d823b30e2d604b1878-Paper.pdf)
-* Link to data:[https://www.drivendata.org/accounts/login/?next=/competitions/70/hateful-memes-phase-2/data/](https://www.drivendata.org/accounts/login/?next=/competitions/70/hateful-memes-phase-2/data/)
-* Task description: 1) Hierarchy (1 = definitely hateful, 2 = not sure, 3 = definitely not hateful), 2) Collect cofounder (i.e. contrastive or counterfactual example) 
-* Details of task: Hate in multimodal memes (identifying multimodal hate, unimodal hate, benign image and benign text). Fine-grained labels for (1) protected category and (2) type of attack are provided in the follow-up WOAH paper [https://aclanthology.org/2021.woah-1.21.pdf](https://aclanthology.org/2021.woah-1.21.pdf)
-* Size of dataset: 10,000
-* Percentage abusive: 0.5 (comprises multimodal hate, unimodal hate and benign text and image confounders)
-* Language: English 
-* Level of annotation: Meme
-* Platform: Multiple social media sites 
-* Medium: Memes
-* References 1) : Goswami, V., Singh, A., Ringshia, P., Testuggine, D., 2020, The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes, In: 34th Conference on Neural Information Processing Systems (NeurIPS 2020). 2) Mathias, L., Nie, S., Mostafazadeh Davani, A., Kiela, D., Prabhakaran, V., Vidgen, B. and Waseem, Z. 2021, Findings of the WOAH 5 Shared Task on Fine Grained Hateful Memes Detection, In: Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH 2021).
 
 #### When Does a Compliment Become Sexist? Analysis and Classification of Ambivalent Sexism Using Twitter Data
 * Link to publication: [https://pdfs.semanticscholar.org/225f/f8a6a562bbb64b22cebfcd3288c6b930d1ef.pdf](https://pdfs.semanticscholar.org/225f/f8a6a562bbb64b22cebfcd3288c6b930d1ef.pdf)
