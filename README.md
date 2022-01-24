@@ -1,4 +1,4 @@
-
+# Hate Speech Dataset Catalogue
 <!-- **We are working on a [ckan instance](http://ckan.hatespeechdata.com) -- please give it a look! Contributions welcome :)** -->
 
 
@@ -180,18 +180,32 @@ Please send contributions via github pull request. You can do this by visiting t
 
 <a id="English-header"></a>
 ### English
+
 #### Do You Really Want to Hurt Me? Predicting Abusive Swearing in Social Media
 * Link to publication: [https://www.aclweb.org/anthology/2020.lrec-1.765.pdf](https://www.aclweb.org/anthology/2020.lrec-1.765.pdf)
 * Link to data: [https://github.com/dadangewp/SWAD-Repository](https://github.com/dadangewp/SWAD-Repository)
 * Task description: Binary (abusive swear word, non-abusive swear word)
 * Details of task: Abusive swearing
 * Size of dataset: 1,511 swear words (1675 tweets)
-* Percentage abusive: 0.41 (word level), 0.51 (post level)
+* Percentage abusive: 0.41% (word level), 0.51% (post level)
 * Language: English 
 * Level of annotation: Words
 * Platform: Twitter
 * Medium: Text 
 * Reference: Pamungkas, E. W., Basile, V., & Patti, V. (2020). Do you really want to hurt me? predicting abusive swearing in social media. In The 12th Language Resources and Evaluation Conference (pp. 6237-6246). European Language Resources Association.
+
+#### Multimodal Meme Dataset (MultiOFF) for Identifying Offensive Content in Image and Text
+* Link to publication: [https://www.aclweb.org/anthology/2020.trac-1.6.pdf](https://www.aclweb.org/anthology/2020.trac-1.6.pdf)
+* Link to data: [https://github.com/bharathichezhiyan/Multimodal-Meme-Classification-Identifying-Offensive-Content-in-Image-and-Text](https://github.com/bharathichezhiyan/Multimodal-Meme-Classification-Identifying-Offensive-Content-in-Image-and-Text)
+* Task description: Binary (offensive, non-offensive)
+* Details of task: Hate per se (related to 2016 U.S. presidential election)
+* Size of dataset: 743
+* Percentage abusive: 0.41%
+* Language: English 
+* Level of annotation: Posts
+* Platform: Kaggle, Reddit, Facebook, Twitter and Instagram
+* Medium: Text and Images/memes
+* Reference: Suryawanshi, S., Chakravarthi, B. R., Arcan, M., & Buitelaar, P. (2020, May). Multimodal meme dataset (MultiOFF) for identifying offensive content in image and text. In Proceedings of the Second Workshop on Trolling, Aggression and Cyberbullying (pp. 32-41).
 
 #### Hatemoji: A Test Suite and Adversarially-Generated Dataset for Benchmarking and Detecting Emoji-based Hate
 * Link to publication: [https://arxiv.org/abs/2108.05921](https://arxiv.org/abs/2108.05921)
@@ -309,6 +323,19 @@ Please send contributions via github pull request. You can do this by visiting t
 * Platform: Civil Comments
 * Medium: Text 
 * Reference: Borkan, D., Dixon, L., Sorensen, J., Thain, N., & Vasserman, L. (2019, May). Nuanced metrics for measuring unintended bias with real data for text classification. In Companion proceedings of the 2019 world wide web conference (pp. 491-500).
+
+#### Introducing CAD: the Contextual Abuse Dataset
+* Link to publication: [https://aclanthology.org/2021.naacl-main.182.pdf](https://aclanthology.org/2021.naacl-main.182.pdf)
+* Link to data: [https://zenodo.org/record/4881008#.Ye6OwhP7R6o](https://zenodo.org/record/4881008#.Ye6OwhP7R6o)
+* Task description: Contextually abusive language, person-directed + group-directed 
+* Details of task: Primary categories (secondary categories): Abusive + Identity-directed (derogation/animosity/threatening/glorification/dehumanization), Abusive + Person-directed (derogation/animosity/threatening/glorification/dehumanization), Abusive + Affiliation directed (abuse to them/abuse about them), Counter Speech (against identity-directed abuse/against affiliation-directed abuse/against person-directed abuse), Non-hateful Slurs and Neutral.
+* Size of dataset: 25,000
+* Percentage abusive: Affiliation-directed, 6%; Identity-directed, 13%; Person-directed, 5%
+* Language: English
+* Level of annotation: Conversation thread 
+* Platform: Reddit 
+* Medium: Text
+* Reference: Vidgen, B., Nguyen, D., Margetts, H., Rossini, P., and Troble, R., Introducing CAD: the Contextual Abuse Dataset, 2021, In: Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pp.2289–2303
 
 #### Automated Hate Speech Detection and the Problem of Offensive Language
 * Link to publication: [https://arxiv.org/pdf/1703.04009.pdf](https://arxiv.org/pdf/1703.04009.pdf)
