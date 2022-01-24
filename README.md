@@ -180,13 +180,27 @@ Please send contributions via github pull request. You can do this by visiting t
 
 <a id="English-header"></a>
 ### English
+
+#### Do You Really Want to Hurt Me? Predicting Abusive Swearing in Social Media
+* Link to publication: [https://www.aclweb.org/anthology/2020.lrec-1.765.pdf](https://www.aclweb.org/anthology/2020.lrec-1.765.pdf)
+* Link to data: [https://github.com/dadangewp/SWAD-Repository](https://github.com/dadangewp/SWAD-Repository)
+* Task description: Binary (abusive swear word, non-abusive swear word)
+* Details of task: Abusive swearing
+* Size of dataset: 1,511 swear words (1675 tweets)
+* Percentage abusive: 0.41% (word level), 0.51% (post level)
+* Language: English 
+* Level of annotation: Words
+* Platform: Twitter
+* Medium: Text 
+* Reference: Pamungkas, E. W., Basile, V., & Patti, V. (2020). Do you really want to hurt me? predicting abusive swearing in social media. In The 12th Language Resources and Evaluation Conference (pp. 6237-6246). European Language Resources Association.
+
 #### Multimodal Meme Dataset (MultiOFF) for Identifying Offensive Content in Image and Text
 * Link to publication: [https://www.aclweb.org/anthology/2020.trac-1.6.pdf](https://www.aclweb.org/anthology/2020.trac-1.6.pdf)
 * Link to data: [https://github.com/bharathichezhiyan/Multimodal-Meme-Classification-Identifying-Offensive-Content-in-Image-and-Text](https://github.com/bharathichezhiyan/Multimodal-Meme-Classification-Identifying-Offensive-Content-in-Image-and-Text)
 * Task description: Binary (offensive, non-offensive)
 * Details of task: Hate per se (related to 2016 U.S. presidential election)
 * Size of dataset: 743
-* Percentage abusive: 0.41
+* Percentage abusive: 0.41%
 * Language: English 
 * Level of annotation: Posts
 * Platform: Kaggle, Reddit, Facebook, Twitter and Instagram
