@@ -823,7 +823,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Task description: Binary (Offensive or Not), Multi-class/-label (sexism, racism, threats, insults, profane language, meta, advertisement).
 * Details of task: The comments originate from a large German newspaper and are annotated by professional moderators (community managers). Additionally, each comment was further annotated by five different crowd-workers.
 * Size of dataset: 85,000
-* Percentage abusive: 0.08 
+* Percentage abusive: 8.4%
 * Language: German
 * Level of annotation: Comments 
 * Platform: German Newspaper (Rheinische Post)
