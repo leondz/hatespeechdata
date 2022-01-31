@@ -817,6 +817,19 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 
 <a id="German-header"></a>
 ### German
+#### RP-Mod & RP-Crowd: Moderator- and Crowd-Annotated German News Comment Datasets
+* Link to publication: [https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/c9e1074f5b3f9fc8ea15d152add07294-Paper-round2.pdf](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/c9e1074f5b3f9fc8ea15d152add07294-Paper-round2.pdf)
+* Link to data: [https://zenodo.org/record/5291339#.Ybr_9VkxkUE](https://zenodo.org/record/5291339#.Ybr_9VkxkUE)
+* Task description: Binary (Offensive or Not), Multi-class/-label (sexism, racism, threats, insults, profane language, meta, advertisement).
+* Details of task: The comments originate from a large German newspaper and are annotated by professional moderators (community managers). Additionally, each comment was further annotated by five different crowd-workers.
+* Size of dataset: 85,000
+* Percentage abusive: 0.08 
+* Language: German
+* Level of annotation: Comments 
+* Platform: German Newspaper (Rheinische Post)
+* Medium: Text 
+* Reference: Assenmacher, D., Niemann, M., Müller, K., Seiler, M., Riehle, D. M., & Trautmann, H. (2021). RP-Mod & RP-Crowd: Moderator- and crowd-annotated german news comment datasets. In Proceedings of the Neural Information Processing Systems Track on Datasets and Benchmark.
+
 #### Measuring the Reliability of Hate Speech Annotations: The Case of the European Refugee Crisis
 * Link to publication: [https://arxiv.org/pdf/1701.08118.pdf](https://arxiv.org/pdf/1701.08118.pdf)
 * Link to data: [https://github.com/UCSM-DUE/IWG_hatespeech_public](https://github.com/UCSM-DUE/IWG_hatespeech_public)
