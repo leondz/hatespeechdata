@@ -4,7 +4,7 @@
 
 This page catalogues datasets annotated for hate speech, online abuse, and offensive language. They may be useful for e.g. training a natural language processing system to detect this language.
 
-The list is maintained by [Leon Derczynski](https://www.derczynski.com/), [Bertie Vidgen](https://www.turing.ac.uk/people/researchers/bertie-vidgen), [Hannah Rose Kirk](https://www.hannahrosekirk.com/), Pica Johansson, [Yi-Ling Chung](https://yilingchung.github.io/) and Mads Guldborg Kjeldgaard Kongsbak.
+The list is maintained by [Leon Derczynski](https://www.derczynski.com/), [Bertie Vidgen](https://www.turing.ac.uk/people/researchers/bertie-vidgen), [Hannah Rose Kirk](https://www.hannahrosekirk.com/), Pica Johansson, [Yi-Ling Chung](https://yilingchung.github.io/), Mads Guldborg Kjeldgaard Kongsbak, [Laila Sprejer](https://www.turing.ac.uk/people/researchers/laila-sprejer), and Philine Zeinert.
 
 We provide a list of [datasets](#Datasets-header) and [keywords](#Keywords-header). If you would like to contribute to our catalogue or add your dataset, please see the [instructions for contributing](#Contributing-header).
 
