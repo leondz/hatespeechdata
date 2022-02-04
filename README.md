@@ -1351,8 +1351,4 @@ If you want to add an entry, follow these steps!
 
 ---
 
-Credits: Leon Derczynski, Bertie Vidgen, Mads Kongsbak, Pica Johannson, Hannah Rose Kirk
-
----
-
 This page is [http://hatespeechdata.com/](http://hatespeechdata.com/).
