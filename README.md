@@ -22,11 +22,13 @@ Please send contributions via github pull request. You can do this by visiting t
 * [Croatian](#Croatian-header)
 * [Danish](#Danish-header)
 * [English](#English-header)
+* [Estonian](#Estonian-header)
 * [French](#French-header)
 * [German](#German-header)
 * [Greek](#Greek-header)
 * [Hindi](#Hindi-header)
 * [Indonesian](#Indonesian-header)
+* [Latvian](#Latvian-header)
 * [Portuguese](#Portuguese-header)
 * [Polish](#Polish-header)
 * [Russian](#Russian-header)
@@ -163,6 +165,19 @@ Please send contributions via github pull request. You can do this by visiting t
 * Platform: 24sata website 
 * Medium: Text 
 * Reference: Ljubešić, N., Erjavec, T. and Fišer, D., 2018. Datasets of Slovene and Croatian Moderated News Comments. In: Proceedings of the 2nd Workshop on Abusive Language Online (ALW2). Brussels, Belgium: Association for Computational Linguistics, pp.124-131. 
+
+#### Automating News Comment Moderation with Limited Resources: Benchmarking in Croatian and Estonian
+* Link to publication: [https://jlcl.org/content/2-allissues/1-heft1-2020/jlcl_2020-1_3.pdf](https://jlcl.org/content/2-allissues/1-heft1-2020/jlcl_2020-1_3.pdf)
+* Link to data: [https://www.clarin.si/repository/xmlui/handle/11356/1399](https://www.clarin.si/repository/xmlui/handle/11356/1399)
+* Task description: Multi-class based on Different rules 
+* Details of task: Flagged content performmed by the real newspaper moderators
+* Size of dataset: 21M 
+* Percentage abusive: 7.8% 
+* Language: Croatian 
+* Level of annotation: Posts 
+* Platform: Newspaper comments  
+* Medium: Text 
+* Reference: Ravi Shekhar, Marko Pranjić, Senja Pollak, Andraž Pelicon, Matthew Purver (2020). Automating News Comment Moderation with Limited Resources: Benchmarking in Croatian and Estonian. Journal for Language Technology and Computational Linguistics (JLCL). 
 
 <a id="Danish-header"></a>
 ### Danish
@@ -813,6 +828,23 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Medium: Text
 * Reference: Salminen, J., Almerekhi, H., Milenković, M., Jung, S., An, J., Kwak, H. and Jansen, B., 2018, Anatomy of Online Hate: Developing a Taxonomy and Machine Learning Models for Identifying and Classifying Hate in Online News Media, In: Proceedings of the Twelfth International AAAI Conference on Web and Social Media (ICWSM 2018), pp.330-339
 
+<a id="Estonian-header"></a>
+### Estonian
+#### Automating News Comment Moderation with Limited Resources: Benchmarking in Croatian and Estonian
+* Link to publication: [https://jlcl.org/content/2-allissues/1-heft1-2020/jlcl_2020-1_3.pdf](https://jlcl.org/content/2-allissues/1-heft1-2020/jlcl_2020-1_3.pdf)
+* Link to data: [http://hdl.handle.net/11356/1401](http://hdl.handle.net/11356/1401)
+* Task description: Binary (Deleted, Not) 
+* Details of task: Flagged content performmed by the real newspaper moderators 
+* Size of dataset: 31.5M 
+* Percentage abusive: 12.5% 
+* Language: Estonian (some in Russian also) 
+* Level of annotation: Posts 
+* Platform: Newspaper comments 
+* Platform: Eesti Ekspress (www.ekspress.ee) website 
+* Medium: Text 
+* Reference: Ravi Shekhar, Marko Pranjić, Senja Pollak, Andraž Pelicon, Matthew Purver (2020). Automating News Comment Moderation with Limited Resources: Benchmarking in Croatian and Estonian. Journal for Language Technology and Computational Linguistics (JLCL). 
+
+
 <a id="French-header"></a>
 ### French
 #### CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (French)
@@ -1072,6 +1104,23 @@ https://www.aclweb.org/anthology/D17-1117)
 * Platform: Twitter 
 * Medium: Text 
 * Reference: Ibrohim, M. and Budi, I., 2018. A Dataset and Preliminaries Study for Abusive Language Detection in Indonesian Social Media. Procedia Computer Science, 135, pp.222-229. 
+
+
+<a id="Latvian-header"></a>
+### Latvian
+#### Latvian newspaper user comment dataset
+* Link to publication: [https://aclanthology.org/2021.hackashop-1.14.pdf](https://aclanthology.org/2021.hackashop-1.14.pdf)
+* Link to data: [https://www.clarin.si/repository/xmlui/handle/11356/1407](https://www.clarin.si/repository/xmlui/handle/11356/1407)
+* Task description: Binary (Deleted, Not) 
+* Details of task: Flagged content performmed by the real newspaper moderators 
+* Size of dataset: 12M 
+* Percentage abusive: ~10% 
+* Language: Latvian 
+* Level of annotation: Posts 
+* Platform: Newspaper comments 
+* Medium: Text 
+* Reference: Senja Pollak, Marko Robnik-Šikonja, Matthew Purver, Michele Boggia, Ravi Shekhar, Marko Pranjić, Salla Salmela, Ivar Krustok, Tarmo Paju, Carl-Gustav Linden, Leo Leppänen, Elaine Zosa, Matej Ulčar, Linda Freiental, Silver Traat, Luis Adrián Cabrera-Diego, Matej Martinc, Nada Lavrač, Blaž Škrlj, Martin Žnidaršič, Andraž Pelicon, Boshko Koloski, Vid Podečan, Janez Kranjc, Shane Sheehan, Emanuela Boros, Jose Moreno, Antoine Doucet, Hannu Toivonen (2021). EMBEDDIA Tools, Datasets and Challenges: Resources and Hackathon Contributions. Proceedings of the Hackashop on News Media Content Analysis and Automated Report Generation (EACL). 
+
 
 <a id="Italian-header"></a>
 ### Italian
