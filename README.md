@@ -19,6 +19,7 @@ Please send contributions via github pull request. You can do this by visiting t
 
 * [Arabic](#Arabic-header)
 * [Bengali](#Bengali-header)
+* [Chinese](#Chinese-header)
 * [Croatian](#Croatian-header)
 * [Danish](#Danish-header)
 * [English](#English-header)
@@ -148,6 +149,21 @@ Please send contributions via github pull request. You can do this by visiting t
 * Platform: Youtube and Facebook
 * Medium: Text 
 * Reference: Romim, N., Ahmed, M., Talukder, H., & Islam, M. S. (2021). Hate speech detection in the bengali language: A dataset and its baseline evaluation. In Proceedings of International Joint Conference on Advances in Computational Intelligence (pp. 457-468). Springer, Singapore.
+
+<a id="Chinese-header"></a>
+### Chinese
+#### SWSR: A Chinese Dataset and Lexicon for Online Sexism Detection
+* Link to publication: [https://www.sciencedirect.com/science/article/abs/pii/S2468696421000604#fn1](https://www.sciencedirect.com/science/article/abs/pii/S2468696421000604#fn1) 
+* Link to data: [https://doi.org/10.5281/zenodo.4773875](https://doi.org/10.5281/zenodo.4773875) 
+* Task description: Binary (Sexist, Non-sexist), Categories of sexism (Stereotype based on Appearance, Stereotype based on Cultural Background, MicroAggression, and Sexual Offense), Target of sexism (Individual or Generic)
+* Details of task: Sexism detection on social media in Chinese
+* Size of dataset: 8,969 comments from 1,527 weibos
+* Percentage abusive: 34.5%
+* Language: Chinese
+* Level of annotation: Posts 
+* Platform: Sina Weibo
+* Medium: Text
+* Reference: Aiqi Jiang, Xiaohan Yang, Yang Liu, Arkaitz Zubiaga, SWSR: A Chinese dataset and lexicon for online sexism detection, Online Social Networks and Media, Volume 27, 2022, 100182, ISSN 2468-6964.
 
 <a id="Croatian-header"></a>
 ### Croatian
