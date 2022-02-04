@@ -1412,8 +1412,9 @@ https://www.aclweb.org/anthology/D17-1117)
 
 We accept entries to our catalogue based on pull requests to the `README.md` file. The dataset must be avaliable for download to be included in the list.
 If you want to add an entry, follow these steps!
-* Go to the README.md file and click the edit button in the top right corner of the file.
 
+* Please send just one dataset addition/edit at a time - edit it in, then save. This will make everyone's life easier (including yours!)
+* Go to the README.md file and click the edit button in the top right corner of the file.
 
 <img width="1239" alt="Pasted Graphic" src="https://user-images.githubusercontent.com/22522221/150790020-ecbc6eea-3cf1-4134-ad51-a8a6334cfc2f.png">
 
