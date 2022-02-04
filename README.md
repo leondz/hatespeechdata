@@ -179,6 +179,19 @@ Please send contributions via github pull request. You can do this by visiting t
 * Medium: Text 
 * Reference: Sigurbergsson, G. and Derczynski, L., 2019. Offensive Language and Hate Speech Detection for Danish. ArXiv. 
 
+#### BAJER: Misogyny in Danish
+* Link to publication: [https://aclanthology.org/2021.acl-long.247/](https://aclanthology.org/2021.acl-long.247/)
+* Link to data: [request here](https://docs.google.com/forms/d/e/1FAIpQLSfUKb7ZTKd01syaNkAW5GDfCSkaVsJlom06g_mJdWUkUikVHA/viewform)
+* Task description: Hierarchy of abusive content labels including subcategories of misogyny
+* Details of task: "Misogyny detection on social media in Danish"
+* Size of dataset: 27.9K comments
+* Percentage abusive: 7% misogynistic, 27% abusive (i.e. 20% abusive but not misogyny)
+* Language: Danish
+* Level of annotation: Social media post / comment
+* Platform: Twitter, Facebook, Reddit
+* Medium: text
+* Reference: Zeinert, Inie, & Derczynski, 2021. "Annotating Online Misogyny". Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing, ACL
+
 <a id="English-header"></a>
 ### English
 
@@ -1199,6 +1212,20 @@ https://www.aclweb.org/anthology/D17-1117)
 * Platform: Youtube
 * Medium: Text
 * Reference: Andrusyak, B., Rimel, M. and Kern, R., 2018. Detection of Abusive Speech for Mixed Sociolects of Russian and Ukrainian Languages. In: Proceedings of Recent Advances in Slavonic Natural Language Processing, RASLAN 2018, pp. 77–84, 2018. 
+
+#### Russian South Park
+* Link to publication: [https://aclanthology.org/2021.bsnlp-1.3/](https://aclanthology.org/2021.bsnlp-1.3/)
+* Link to data: [https://github.com/Sariellee/Russan-Hate-speech-Recognition](https://github.com/Sariellee/Russan-Hate-speech-Recognition)
+* Task description: Binary (abusive, non-abusive)
+* Details of task: Abusive language in Russian South Park scripts
+* Size of dataset: 1400
+* Percentage abusive: 22.2%
+* Language: Russian
+* Level of annotation: Sentence
+* Platform: TV Subtitles
+* Medium: text 
+* Reference: Saitov & Derczynski, 2021. "Abusive Language Recognition in Russian". Proceedings of the 8th BSNLP Workshop on Balto-Slavic Natural Language Processing, ACL
+
 
 <a id="Slovene-header"></a>
 ### Slovene
