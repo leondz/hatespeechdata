@@ -365,7 +365,7 @@ Please send contributions via github pull request. You can do this by visiting t
 * Reference: Vidgen, B., Nguyen, D., Margetts, H., Rossini, P., and Troble, R., Introducing CAD: the Contextual Abuse Dataset, 2021, In: Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pp.2289–2303
 
 #### Automated Hate Speech Detection and the Problem of Offensive Language
-* Link to publication: [https://arxiv.org/pdf/1703.04009.pdf](https://arxiv.org/pdf/1703.04009.pdf)
+* Link to publication: [https://ojs.aaai.org/index.php/ICWSM/article/view/14955)
 * Link to data: [https://github.com/t-davidson/hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language)
 * Task description: Hierarchy (Hate, Offensive, Neither) 
 * Details of task: Hate per se 
@@ -375,7 +375,7 @@ Please send contributions via github pull request. You can do this by visiting t
 * Level of annotation: Posts 
 * Platform: Twitter 
 * Medium: Text 
-* Reference: Davidson, T., Warmsley, D., Macy, M. and Weber, I., 2017. Automated Hate Speech Detection and the Problem of Offensive Language. ArXiv,. 
+* Reference: Davidson, T., Warmsley, D., Macy, M., & Weber, I. 2017. Automated Hate Speech Detection and the Problem of Offensive Language. Proceedings of the International AAAI Conference on Web and Social Media, 11(1), 512-515.
 
 #### Hate Speech Dataset from a White Supremacy Forum
 * Link to publication: [https://www.aclweb.org/anthology/W18-5102.pdf](https://www.aclweb.org/anthology/W18-5102.pdf)
