@@ -39,6 +39,7 @@ Please send contributions via github pull request. You can do this by visiting t
 ## List of datasets
 <!-- dataset template
 
+### TITLE
 * Link to publication: [url](url) - link to the documentation and/or a data statement about the data
 * Link to data: [url](url) - direct download is preferred, e.g. a link straight to a .zip file
 * Task description: How the task is framed in this data, e.g. "Binary (Hate, Not)", "Hierarchical", "Three-class (Hate speech, Offensive language, None)"
@@ -1329,6 +1330,7 @@ If you want to add an entry, follow these steps!
 
 
 ```
+#### Title
 * Link to publication: [url](url) - link to the documentation and/or a data statement about the data
 * Link to data: [url](url) - direct download is preferred, e.g. a link straight to a .zip file
 * Task description: How the task is framed in this data, e.g. "Binary (Hate, Not)", "Hierarchical", "Three-class (Hate speech, Offensive language, None)"
