@@ -22,6 +22,7 @@ Please send contributions via github pull request. You can do this by visiting t
 * [Chinese](#Chinese-header)
 * [Croatian](#Croatian-header)
 * [Danish](#Danish-header)
+* [Dutch](#Dutch-header) 
 * [English](#English-header)
 * [Estonian](#Estonian-header)
 * [French](#French-header)
@@ -223,6 +224,21 @@ Please send contributions via github pull request. You can do this by visiting t
 * Medium: text
 * Reference: Zeinert, Inie, & Derczynski, 2021. "Annotating Online Misogyny". Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing, ACL
 
+<a id="Dutch-header"></a>
+### Dutch
+#### The Dutch Abusive Language Corpus v1.0 (DALC v1.0)
+* Link to publication: [https://aclanthology.org/2021.woah-1.6.pdf](https://aclanthology.org/2021.woah-1.6.pdf) - link to the documentation and/or a data statement about the data
+* Link to data: [https://github.com/tommasoc80/DALC](https://github.com/tommasoc80/DALC)
+* Task description: Multilayered (explicitness and target) for abusive language 
+* Details of task: Abusive language detection in social media in Dutch
+* Size of dataset: 8,156 tweets
+* Percentage abusive: 15.06% explicitly abusive; 8.09% implicitly abusive
+* Language: Dutch
+* Level of annotation: tweets
+* Platform: Twitter
+* Medium: text
+* Reference: Caselli, T., Schelhaas, A., Weultjes, M., Leistra, F., van der Veen, H., Timmerman, G., and Nissim, M. 2021. "DALC: the Dutch Abusive Language Corpus". Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH 2021), ACL.
+
 <a id="English-header"></a>
 ### English
 
@@ -238,6 +254,19 @@ Please send contributions via github pull request. You can do this by visiting t
 * Platform: Twitter, Social Psychology scales
 * Medium: text
 * Reference: Samory, M., Sen, I., Kohne, J., Flöck, F. and Wagner, C., 2021, May. Call me sexist, but…: Revisiting sexism detection using psychological scales and adversarial samples. In Intl AAAI Conf. Web and Social Media (pp. 573-584).
+
+#### AbuseEval v1.0
+* Link to publication: [https://ojs.aaai.org/index.php/ICWSM/article/view/18085/17888](https://ojs.aaai.org/index.php/ICWSM/article/view/18085/17888)
+* Link to data: [https://doi.org/10.7802/2251](https://doi.org/10.7802/2251) 
+* Task description: Explicitness annotation of offensive and abusive content
+* Details of task: Enriched versions of the OffensEval/OLID dataset with the distinction of explicit/implicit offensive messages and the new dimension for abusive messages. Labels for offensive language: EXPLICIT, IMPLICT, NOT; Labels for abusive language: EXPLICIT, IMPLICT, NOTABU
+* Size of dataset: 14,100
+* Percentage abusive: 20.75%
+* Language: English
+* Level of annotation: tweets
+* Platform: Twitter
+* Medium: text
+* Reference: Caselli, T., Basile, V., Jelena, M., Inga, K., and Michael, G. 2020. "I feel offended, don’t be abusive! implicit/explicit messages in offensive and abusive language". The 12th Language Resources and Evaluation Conference (pp. 6193-6202). European Language Resources Association.
 
 #### Do You Really Want to Hurt Me? Predicting Abusive Swearing in Social Media
 * Link to publication: [https://www.aclweb.org/anthology/2020.lrec-1.765.pdf](https://www.aclweb.org/anthology/2020.lrec-1.765.pdf)
