@@ -1449,6 +1449,12 @@ https://www.aclweb.org/anthology/D17-1117)
    * Data link: [Reddit hate lexicon](https://www.dropbox.com/sh/5ud4fwxvb6q7k20/AAAH_SN8i5cfmJRKJteEW2b2a?dl=0)
    * Reference: [You can't stay here: the efficacy of Reddit's 2015 ban examined through hate speech](http://comp.social.gatech.edu/papers/cscw18-chand-hate.pdf), Proc. ACL Hum-Comput Interact. 
 
+1. __Jiang et al.__
+   * SexHateLex is a Chinese lexicon of hateful and sexist words.
+   * Data link: [SexHateLex](https://doi.org/10.5281/zenodo.4773875)
+   * Size of lexicon: 3,016
+   * Reference: [SWSR: A Chinese Dataset and Lexicon for Online Sexism Detection](https://www.sciencedirect.com/science/article/abs/pii/S2468696421000604#fn1), Journal of OSNEM, Vol.27, 2022, 100182, ISSN 2468-6964.
+
 <a id="Contributing-header"></a>
 # How to Contribute
 
