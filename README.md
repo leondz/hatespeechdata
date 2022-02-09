@@ -1279,6 +1279,20 @@ https://www.aclweb.org/anthology/D17-1117)
 
 <a id="Portuguese-header"></a>
 ### Portuguese
+
+#### Toxic Language Dataset for Brazilian Portuguese (ToLD-Br)
+* Link to publication: https://arxiv.org/abs/2010.04543
+* Link to data: https://github.com/JAugusto97/ToLD-Br
+* Task description: Multiclass (LGBTQ+phobia, Insult, Xenophobia, Misogyny, Obscene, Racism)
+* Details of task: Three annotators per example, demographically diverse selected annotators.
+* Size of dataset: 21.000
+* Percentage abusive: 0.44
+* Language: Portuguese
+* Level of annotation: Posts
+* Platform: Twitter
+* Medium: Text
+* Reference: João A. Leite, Diego F. Silva, Kalina Bontcheva, Carolina Scarton (2020): Toxic Language Detection in Social Media for Brazilian Portuguese: New Dataset and Multilingual Analysis.  AACL-IJCNLP 2020
+
 #### A Hierarchically-Labeled Portuguese Hate Speech Dataset
 * Link to publication: [https://www.aclweb.org/anthology/W19-3510](https://www.aclweb.org/anthology/W19-3510)
 * Link to data: [https://b2share.eudat.eu/records/9005efe2d6be4293b63c3cffd4cf193e](https://b2share.eudat.eu/records/9005efe2d6be4293b63c3cffd4cf193e)
