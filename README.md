@@ -242,6 +242,19 @@ Please send contributions via github pull request. You can do this by visiting t
 <a id="English-header"></a>
 ### English
 
+#### Measuring Hate Speech
+* Link to publication: [https://arxiv.org/abs/2009.10277](https://arxiv.org/abs/2009.10277)
+* Link to data: [https://huggingface.co/datasets/ucberkeley-dlab/measuring-hate-speech](https://huggingface.co/datasets/ucberkeley-dlab/measuring-hate-speech)
+* Task description: 10 ordinal labels (sentiment, (dis)respect, insult, humiliation, inferior status, violence, dehumanization, genocide, attack/defense, hate speech), which are debiased and aggregated into a continuous hate speech severity score (hate_speech_score) that includes a region for counterspeech & supportive speeech. Includes 8 target identity groups (race/ethnicity, religion, national origin/citizenship, gender, sexual orientation, age, disability, political ideology) and 42 identity subgroups.
+* Details of task: Hate speech measurement on social media in English
+* Size of dataset: 39,565 comments annotated by 7,912 annotators on 10 ordinal labels, for 1,355,560 total labels.
+* Percentage abusive: 25% - however this dichotomization is not in the spirit of the paper/dataset
+* Language: English
+* Level of annotation: Social media comment 
+* Platform: Twitter, Reddit, YouTube
+* Medium: Text
+* Reference: Kennedy, C. J., Bacon, G., Sahn, A., & von Vacano, C. (2020). Constructing interval variables via faceted Rasch measurement and multitask deep learning: a hate speech application. arXiv preprint arXiv:2009.10277.
+
 #### The 'Call me sexist, but' sexism dataset
 * Link to publication: [https://ojs.aaai.org/index.php/ICWSM/article/view/18085/17888](https://ojs.aaai.org/index.php/ICWSM/article/view/18085/17888)
 * Link to data: [https://doi.org/10.7802/2251](https://doi.org/10.7802/2251) 
