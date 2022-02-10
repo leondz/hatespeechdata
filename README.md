@@ -269,8 +269,8 @@ Please send contributions via github pull request. You can do this by visiting t
 * Reference: Samory, M., Sen, I., Kohne, J., Flöck, F. and Wagner, C., 2021, May. Call me sexist, but…: Revisiting sexism detection using psychological scales and adversarial samples. In Intl AAAI Conf. Web and Social Media (pp. 573-584).
 
 #### AbuseEval v1.0
-* Link to publication: [https://ojs.aaai.org/index.php/ICWSM/article/view/18085/17888](https://ojs.aaai.org/index.php/ICWSM/article/view/18085/17888)
-* Link to data: [https://doi.org/10.7802/2251](https://doi.org/10.7802/2251) 
+* Link to publication: [http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.760.pdf](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.760.pdf)
+* Link to data: [https://github.com/tommasoc80/AbuseEval](https://github.com/tommasoc80/AbuseEval) 
 * Task description: Explicitness annotation of offensive and abusive content
 * Details of task: Enriched versions of the OffensEval/OLID dataset with the distinction of explicit/implicit offensive messages and the new dimension for abusive messages. Labels for offensive language: EXPLICIT, IMPLICT, NOT; Labels for abusive language: EXPLICIT, IMPLICT, NOTABU
 * Size of dataset: 14,100
