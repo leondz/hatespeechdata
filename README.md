@@ -1286,7 +1286,7 @@ https://www.aclweb.org/anthology/D17-1117)
 * Task description: Multiclass (LGBTQ+phobia, Insult, Xenophobia, Misogyny, Obscene, Racism)
 * Details of task: Three annotators per example, demographically diverse selected annotators.
 * Size of dataset: 21.000
-* Percentage abusive: 0.44
+* Percentage abusive: 44%
 * Language: Portuguese
 * Level of annotation: Posts
 * Platform: Twitter
