@@ -242,6 +242,21 @@ Please send contributions via github pull request. You can do this by visiting t
 <a id="English-header"></a>
 ### English
 
+#### ConvAbuse
+* Link to publication: [https://aclanthology.org/2021.emnlp-main.587/](https://aclanthology.org/2021.emnlp-main.587/)
+* Link to data: [https://github.com/amandacurry/convabuse](https://github.com/amandacurry/convabuse)
+* Task description: Hierarchical: 1. *Abuse binary*, *Abuse severity* 1,0,-1,-2,-3; 2. *Directedness* explicit, implicit *Target* group, individual–system,
+individual–3rd party, *Type* general, sexist, sexual harassment, homophobic, racist, transphobic, ableist,
+intellectual  
+* Details of task: Abuse detection in conversational AI
+* Size of dataset: 4,185
+* Percentage abusive: c. 20%
+* Language: English
+* Level of annotation: utterance (with conversational context) 
+* Platform: Carbonbot on Facebook Messenger and E.L.I.Z.A. chatbots 
+* Medium: text
+* Reference: Curry, A. C., Abercrombie, G., & Rieser, V. 2021. ConvAbuse: Data, Analysis, and Benchmarks for Nuanced Detection in Conversational AI. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (pp. 7388-7403).
+
 #### Measuring Hate Speech
 * Link to publication: [https://arxiv.org/abs/2009.10277](https://arxiv.org/abs/2009.10277)
 * Link to data: [https://huggingface.co/datasets/ucberkeley-dlab/measuring-hate-speech](https://huggingface.co/datasets/ucberkeley-dlab/measuring-hate-speech)
