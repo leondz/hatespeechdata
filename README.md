@@ -517,7 +517,7 @@ intellectual
 * Medium: Text 
 * Reference: Gao, L. and Huang, R., 2018. Detecting Online Hate Speech Using Context Aware Models. ArXiv,. 
 
-### The Gab Hate Corpus: A collection of 27k posts annotated for hate speech
+#### The Gab Hate Corpus: A collection of 27k posts annotated for hate speech
 * Link to publication: [https://psyarxiv.com/hqjxn/](https://psyarxiv.com/hqjxn/)
 * Link to data: [https://osf.io/edua3/](https://osf.io/edua3/)
 * Task description: Binary (Hate vs. Offensive/Vulgarity), Binary (Assault on human Dignity/Call for Violence – sub task on message delivery, binary: explicit/implicit), Multinomial classification: Identity based hate (race/ethnicity, nationality/regionalism/xenophobia, gender, religion/belief system, sexual orientation, ideology, political identification/party, mental/physical health)  
@@ -913,6 +913,19 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Platform: YouTube and Facebook
 * Medium: Text
 * Reference: Salminen, J., Almerekhi, H., Milenković, M., Jung, S., An, J., Kwak, H. and Jansen, B., 2018, Anatomy of Online Hate: Developing a Taxonomy and Machine Learning Models for Identifying and Classifying Hate in Online News Media, In: Proceedings of the Twelfth International AAAI Conference on Web and Social Media (ICWSM 2018), pp.330-339
+
+#### HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection 
+* Link to publication: [https://arxiv.org/pdf/2012.10289.pdf](https://arxiv.org/pdf/2012.10289.pdf)  
+* Link to data: [https://github.com/punyajoy/HateXplain](https://github.com/punyajoy/HateXplain)  
+* Task description: Binary (Hate, Not) and Three-class (Hate speech, Offensive language, None) 
+* Details of task: Hatespeech detection on social media in English, including 10 categories: African, Islam, Jewish, LGBTQ, Women, Refugee, Arab, Caucasian, Hispanic, Asian 
+* Size of dataset: 20148 
+* Percentage abusive: 0.57 
+* Language: English 
+* Level of annotation: Posts 
+* Platform: Twitter and Gab 
+* Medium: Text  
+* Reference: Mathew, B., Saha, P., Yimam, S. M., Biemann, C., Goyal, P., & Mukherjee, A. (2020). Hatexplain: A benchmark dataset for explainable hate speech detection. arXiv preprint arXiv:2012.10289.
 
 <a id="Estonian-header"></a>
 ### Estonian
