@@ -1,0 +1,3 @@
+pandas==1.4.0
+scrapy==2.5.1
+html_text==0.5.2
