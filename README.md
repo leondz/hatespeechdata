@@ -17,6 +17,7 @@ Please send contributions via github pull request. You can do this by visiting t
 <a id="Datasets-header"></a>
 # Datasets Table of Contents
 
+* [Albanian](#Albanian-header)
 * [Arabic](#Arabic-header)
 * [Bengali](#Bengali-header)
 * [Chinese](#Chinese-header)
@@ -57,6 +58,21 @@ Please send contributions via github pull request. You can do this by visiting t
 * Reference: Give a bibliographic reference for the data (if there is one), with title, author, year, venue etc
 
 -->
+
+<a id="Albanian-header"></a>
+### Albanian
+#### Detecting Abusive Albanian
+* Link to publication: [https://arxiv.org/abs/2107.13592](https://arxiv.org/abs/2107.13592)
+* Link to data: [https://doi.org/10.6084/m9.figshare.19333298.v1](https://doi.org/10.6084/m9.figshare.19333298.v1)
+* Task description: Hierarchical (offensive/not; untargeted/targeted; person/group/other)
+* Details of task: Detect and categorise abusive language in social media data
+* Size of dataset: 11 874
+* Percentage abusive: 13.2%
+* Language: Albanian
+* Level of annotation: Posts 
+* Platform: Instagram, Youtube
+* Medium: Text 
+* Reference: Nurce, E., Keci, J., Derczynski, L., 2021. Detecting Abusive Albanian. arXiv:2107.13592
 
 <a id="Arabic-header"></a>
 ### Arabic
