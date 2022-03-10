@@ -931,6 +931,19 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Reference: Ravi Shekhar, Marko Pranjić, Senja Pollak, Andraž Pelicon, Matthew Purver (2020). Automating News Comment Moderation with Limited Resources: Benchmarking in Croatian and Estonian. Journal for Language Technology and Computational Linguistics (JLCL). 
 
 
+#### HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection 
+* Link to publication: [https://arxiv.org/pdf/2012.10289.pdf](https://arxiv.org/pdf/2012.10289.pdf)  
+* Link to data: [https://github.com/punyajoy/HateXplain](https://github.com/punyajoy/HateXplain)  
+* Task description: Binary (Hate, Not) and Three-class (Hate speech, Offensive language, None) 
+* Details of task: Hatespeech detection on social media in English, including 10 categories: African, Islam, Jewish, LGBTQ, Women, Refugee, Arab, Caucasian, Hispanic, Asian 
+* Size of dataset: 20148 
+* Percentage abusive: 57%
+* Language: English 
+* Level of annotation: Posts 
+* Platform: Twitter and Gab 
+* Medium: Text  
+* Reference: Mathew, B., Saha, P., Yimam, S. M., Biemann, C., Goyal, P., & Mukherjee, A. (2020). Hatexplain: A benchmark dataset for explainable hate speech detection. arXiv preprint arXiv:2012.10289. 
+
 <a id="French-header"></a>
 ### French
 #### CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (French)
