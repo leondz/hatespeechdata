@@ -1500,6 +1500,10 @@ https://www.aclweb.org/anthology/D17-1117)
    * "Researchers are encouraged to take advantage of Hatebase's vocabulary dataset, which is a valuable lexicon for searching other data repositories such as public forums, as well as Hatebase's sightings dataset, which is useful for trending analysis"
    * Data link: [hatebase.org/academia](https://hatebase.org/academia)
 
+1. __The Weaponized Word__
+   * "The Weaponized Word offers several thousand discriminatory, derogatory and threatening terms across 125+ languages, available through a RESTful API. Access is free for most academic researchers and registered humanitarian nonprofits."
+   * Data link: [weaponizedword.org](https://weaponizedword.org)
+
 1. __Hurtlex__
    * "HurtLex is a lexicon of offensive, aggressive, and hateful words
    in over 50 languages. The words are divided into 17 categories, plus a
