@@ -367,12 +367,12 @@ intellectual
 #### Semeval-2021 Task 5: Toxic Spans Detection
 * Link to publication: [https://aclanthology.org/2021.semeval-1.6.pdf](https://aclanthology.org/2021.semeval-1.6.pdf)
 * Link to data: [https://github.com/ipavlopoulos/toxic_spans](https://github.com/ipavlopoulos/toxic_spans)
-* Task description: Binary toxic spans (toxic, non-toxic)
-* Details of task: Hate per se
+* Task description: Binary toxic spans (toxic, non-toxic) & reading comprehension 
+* Details of task: Predict the spans of toxic posts that were responsible for the toxic label of the posts.
 * Size of dataset: 10,629
 * Percentage abusive: 0.56
 * Language: English 
-* Level of annotation: Phrases
+* Level of annotation: Posts
 * Platform: Civil Comments
 * Medium: Text 
 * Reference: Pavlopoulos, J., Sorensen, J., Laugier, L., & Androutsopoulos, I. (2021, August). Semeval-2021 task 5: Toxic spans detection. In Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021) (pp. 59-69).
