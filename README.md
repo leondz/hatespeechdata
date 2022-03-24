@@ -31,6 +31,7 @@ Please send contributions via github pull request. You can do this by visiting t
 * [Greek](#Greek-header)
 * [Hindi](#Hindi-header)
 * [Indonesian](#Indonesian-header)
+* [Italian](#Italian-header)
 * [Latvian](#Latvian-header)
 * [Portuguese](#Portuguese-header)
 * [Polish](#Polish-header)
