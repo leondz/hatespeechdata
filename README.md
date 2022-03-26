@@ -652,7 +652,19 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Platform: Twitter 
 * Medium: Text 
 * Reference: Ousidhoum, N., Lin, Z., Zhang, H., Song, Y. and Yeung, D., 2019. Multilingual and Multi-Aspect Hate Speech Analysis. ArXiv,. 
-  
+
+#### The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes
+* Link to publication: [https://arxiv.org/pdf/2005.04790.pdf](https://arxiv.org/pdf/2005.04790.pdf)
+* Link to data: [https://www.drivendata.org/competitions/64/hateful-memes/](https://www.drivendata.org/competitions/64/hateful-memes/)
+* Task description: Multimodal hate speech detection, including multimodal hate, where benign confounders were found for both modalities, unimodal
+hate where one or both modalities were already hateful on their own, benign image and benign text confounders and finally random not-hateful examples.
+* Size of dataset:  10,000
+* Percentage abusive:  40% multimodal hate, 10% unimodal hate, 20% benign text confounder, 20% benign image confounder, 10% random non-hateful
+* Language: English 
+* Level of annotation: Posts 
+* Platform: Public social media groups 
+* Medium: Text and Images/Memes 
+* Reference: Kiela, D., Firooz, H., Mohan, A., Goswami, V., Singh, A., Ringshia, P., & Testuggine, D. (2020). The hateful memes challenge: Detecting hate speech in multimodal memes. Advances in Neural Information Processing Systems, 33, 2611-2624. 
   
 #### Exploring Hate Speech Detection in Multimodal Publications
 * Link to publication: [https://arxiv.org/pdf/1910.03814.pdf](https://arxiv.org/pdf/1910.03814.pdf)
