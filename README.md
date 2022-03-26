@@ -1285,7 +1285,7 @@ https://www.aclweb.org/anthology/D17-1117)
 * Task description: Binary (misogyny / not), Binary (aggressive / not), Binary on synthetic fairness test (misogyny / not)
 * Details of task: Sexism 
 * Size of dataset: 6,000 and 1,961 (synthetic fairness test)
-* Percentage abusive: 0.47 and 0.50 (synthetic fairness test)
+* Percentage abusive: 47% and 50% (synthetic fairness test)
 * Language: Italian 
 * Level of annotation: Posts 
 * Platform: Twitter 
