@@ -656,8 +656,8 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
   
 #### Exploring Hate Speech Detection in Multimodal Publications
 * Link to publication: [https://arxiv.org/pdf/1910.03814.pdf](https://arxiv.org/pdf/1910.03814.pdf)
-* Link to data: [https://gombru.github.io/2019/10/09/MMHS/](https://gombru.github.io/2019/10/09/MMHS/)
-* Task description: Six primary categories (No attacks to any community, Racist, Sexist, Homophobic, Religion based attack, Attack to other community)
+* Link to data: [https://github.com/gombru/multi-modal-hate-speech](https://github.com/gombru/multi-modal-hate-speech)
+* Task description: Multimodal Hate Speech Detection, including six primary categories (No attacks to any community, Racist, Sexist, Homophobic, Religion based attack, Attack to other community)
 * Details of task: Racism, Sexism, Homophobia, Religion-based attack 
 * Size of dataset: 149,823 
 * Percentage abusive: 0.25 
@@ -665,7 +665,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Level of annotation: Posts 
 * Platform: Twitter 
 * Medium: Text and Images/Memes 
-* Reference: Gomez, R., Gibert, J., Gomez, L. and Karatzas, D., 2019. Exploring Hate Speech Detection in Multimodal Publications. ArXiv,. 
+* Reference: Gomez, R., Gibert, J., Gomez, L. and Karatzas, D., 2020. In Proceedings of the IEEE/CVF winter conference on applications of computer vision (pp. 1470-1478). 
   
 #### Predicting the Type and Target of Offensive Posts in Social Media
 * Link to publication: [https://arxiv.org/pdf/1902.09666.pdf](https://arxiv.org/pdf/1902.09666.pdf)
@@ -929,6 +929,8 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Platform: YouTube and Facebook
 * Medium: Text
 * Reference: Salminen, J., Almerekhi, H., Milenković, M., Jung, S., An, J., Kwak, H. and Jansen, B., 2018, Anatomy of Online Hate: Developing a Taxonomy and Machine Learning Models for Identifying and Classifying Hate in Online News Media, In: Proceedings of the Twelfth International AAAI Conference on Web and Social Media (ICWSM 2018), pp.330-339
+
+
 
 <a id="Estonian-header"></a>
 ### Estonian
