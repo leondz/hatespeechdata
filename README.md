@@ -1280,6 +1280,19 @@ https://www.aclweb.org/anthology/D17-1117)
 * Medium: Text 
 * Reference: Bosco, C., Dell'Orletta, F. and Poletto, F., 2018. Overview of the EVALITA 2018 Hate Speech Detection Task. In: EVALITA 2018-Sixth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. CEUR, pp.1-9. 
 
+#### Automatic Misogyny Identification (AMI) at Evalita 2020
+* Link to publication: [http://ceur-ws.org/Vol-2765/paper161.pdf](http://ceur-ws.org/Vol-2765/paper161.pdf)
+* Link to data: [https://github.com/dnozza/ami2020](https://github.com/dnozza/ami2020)
+* Task description: Binary (misogyny / not), Binary (aggressive / not), Binary on synthetic fairness test (misogyny / not)
+* Details of task: Sexism 
+* Size of dataset: 6,000 and 1,961 (synthetic fairness test)
+* Percentage abusive: 47% and 50% (synthetic fairness test)
+* Language: Italian 
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Reference: Fersini, E., Nozza, D., and Rosso, P., 2020. AMI @ EVALITA2020: Automatic Misogyny Identification. In: Proceedings of the 7th evaluation campaign of Natural Language Processing and Speech tools for Italian (EVALITA 2020). 
+
 #### CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech (Italian)
 * Link to publication: [https://www.aclweb.org/anthology/P19-1271.pdf](https://www.aclweb.org/anthology/P19-1271.pdf)
 * Link to data: [https://github.com/marcoguerini/CONAN](https://github.com/marcoguerini/CONAN)
