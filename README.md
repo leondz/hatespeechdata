@@ -655,7 +655,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 
 #### The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes
 * Link to publication: [https://arxiv.org/pdf/2005.04790.pdf](https://arxiv.org/pdf/2005.04790.pdf)
-* Link to data: [https://www.drivendata.org/competitions/64/hateful-memes/](https://www.drivendata.org/competitions/64/hateful-memes/)
+* Link to data: [https://hatefulmemeschallenge.com/](https://hatefulmemeschallenge.com/) Get complete data after filling out the form.  
 * Task description: Multimodal hate speech detection, including multimodal hate, where benign confounders were found for both modalities, unimodal
 hate where one or both modalities were already hateful on their own, benign image and benign text confounders and finally random not-hateful examples.
 * Size of dataset:  10,000
