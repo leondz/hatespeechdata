@@ -656,7 +656,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
   
 #### Exploring Hate Speech Detection in Multimodal Publications
 * Link to publication: [https://arxiv.org/pdf/1910.03814.pdf](https://arxiv.org/pdf/1910.03814.pdf)
-* Link to data: [https://github.com/gombru/multi-modal-hate-speech](https://github.com/gombru/multi-modal-hate-speech)
+* Link to data: [https://drive.google.com/file/d/1S9mMhZFkntNnYdO-1dZXwF_8XIiFcmlF/view](https://drive.google.com/file/d/1S9mMhZFkntNnYdO-1dZXwF_8XIiFcmlF/view)
 * Task description: Multimodal Hate Speech Detection, including six primary categories (No attacks to any community, Racist, Sexist, Homophobic, Religion based attack, Attack to other community)
 * Details of task: Racism, Sexism, Homophobia, Religion-based attack 
 * Size of dataset: 149,823 
