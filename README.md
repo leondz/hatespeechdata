@@ -300,6 +300,20 @@ intellectual
 * Medium: text
 * Reference: Samory, M., Sen, I., Kohne, J., Flöck, F. and Wagner, C., 2021, May. Call me sexist, but…: Revisiting sexism detection using psychological scales and adversarial samples. In Intl AAAI Conf. Web and Social Media (pp. 573-584).
 
+#### Hate Towards the Political Opponent: A Twitter Corpus Study of the 2020 US Elections on the Basis of Offensive Speech and Stance Detection__
+* Link to publication: [https://aclanthology.org/2021.wassa-1.18/](https://aclanthology.org/2021.wassa-1.18/)
+* Link to data: [https://www.ims.uni-stuttgart.de/data/stance_hof_us2020](https://www.ims.uni-stuttgart.de/data/stance_hof_us2020)
+* Task description: Hate / Offensive or neither
+* Details of task: Data collected to be Twitter by supporters of Trump
+  or Biden
+* Size of dataset: 3,000
+* Percentage abusive: 12%
+* Language: English
+* Level of annotation: Posts 
+* Platform: Twitter
+* Medium: Text 
+* Reference: Lara Grimminger and Roman Klinger (2020): Hate Towards the Political Opponent: A Twitter Corpus Study of the 2020 US Elections on the Basis of Offensive Speech and Stance Detection. 11th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (collocated with EACL 2021).
+
 #### AbuseEval v1.0
 * Link to publication: [http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.760.pdf](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.760.pdf)
 * Link to data: [https://github.com/tommasoc80/AbuseEval](https://github.com/tommasoc80/AbuseEval) 
