@@ -40,6 +40,8 @@ Please send contributions via github pull request. You can do this by visiting t
 * [Spanish](#Spanish-header)
 * [Turkish](#Turkish-header)
 * [Ukranian](#Ukranian-header)
+* [Urdu](#Urdu-header)
+
 
 
 ## List of datasets
@@ -1521,6 +1523,20 @@ https://www.aclweb.org/anthology/D17-1117)
 * Medium: Text
 * Reference: Andrusyak, B., Rimel, M. and Kern, R., 2018. Detection of Abusive Speech for Mixed Sociolects of Russian and Ukrainian Languages. In: Proceedings of Recent Advances in Slavonic Natural Language Processing, RASLAN 2018, pp. 77–84, 2018. 
 
+<a id="Urdu-header"></a>
+### Urdu
+#### Hate-Speech and Offensive Language Detection in Roman Urdu
+* Link to publication: [https://www.aclweb.org/anthology/2020.emnlp-main.197/](https://www.aclweb.org/anthology/2020.emnlp-main.197/)
+* Link to data: [https://github.com/haroonshakeel/roman_urdu_hate_speech](https://github.com/haroonshakeel/roman_urdu_hate_speech) 
+* Task description:  There are 2 subtasks, Coarse-grained Classification(Hate-Offensive vs Normal) and Fine-grained classification( Abusive/Offensive, Sexism, Religious Hate, Profane, Normal)
+* Details of task: Binary classification + Hate-Offensive label is further broken down into 4 fine-grained labels
+* Size of dataset: 10041 
+* Percentage abusive: 0.24%
+* Language: Urdu-English
+* Level of annotation: Posts 
+* Platform: Twitter 
+* Medium: Text 
+* Reference: Hammad Rizwan, Muhammad Haroon Shakeel, and Asim Karim. 2020.  Hate-speech and offensive language detection in Roman Urdu.  In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP),  pages  2512–2522,  Online.  Association for Computational Linguistics.
 
 ---
 <a id="Keywords-header"></a>
