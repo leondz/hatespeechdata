@@ -32,6 +32,7 @@ Please send contributions via github pull request. You can do this by visiting t
 * [Hindi](#Hindi-header)
 * [Indonesian](#Indonesian-header)
 * [Italian](#Italian-header)
+* [Korean](#Korean-header)
 * [Latvian](#Latvian-header)
 * [Portuguese](#Portuguese-header)
 * [Polish](#Polish-header)
@@ -1239,6 +1240,20 @@ https://www.aclweb.org/anthology/D17-1117)
 * Medium: Text 
 * Reference: Ibrohim, M. and Budi, I., 2018. A Dataset and Preliminaries Study for Abusive Language Detection in Indonesian Social Media. Procedia Computer Science, 135, pp.222-229. 
 
+<a id="Korean-header"></a>
+### Korean
+#### BEEP! Korean Corpus of Online News Comments for Toxic Speech Detection__
+* Link to publication: [https://www.aclweb.org/anthology/2020.socialnlp-1.4](https://www.aclweb.org/anthology/2020.socialnlp-1.4/)
+* Link to data: [https://github.com/kocohub/korean-hate-speech](https://github.com/kocohub/korean-hate-speech)
+* Task description: Binary (Gender bias, No gender bias), Ternary (Gender bias, Other biases, None), Ternary (Hate, Offensive, None)
+* Details of task: Person/Group-directed, Gender/Sexual orientation, Sexism, Harmfulness/Toxicity
+* Size of dataset: 9,381
+* Percentage abusive: 33.87 (Bias), 57.77 (Toxicity)
+* Language: Korean 
+* Level of annotation: Comments
+* Platform: NAVER entertainment news
+* Medium: Text 
+* Reference: Moon, J., Cho, W. I., and Lee, J., 2020. BEEP! Korean Corpus of Online News Comments for Toxic Speech Detection. In: Proceedings of the Eighth International Workshop on Natural Language Processing for Social Media Month: July. Online: Association for Computational Linguistics, pp.25-31.
 
 <a id="Latvian-header"></a>
 ### Latvian
