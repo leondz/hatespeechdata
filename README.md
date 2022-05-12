@@ -77,6 +77,7 @@ Please send contributions via github pull request. You can do this by visiting t
 * Platform: Instagram, Youtube
 * Medium: Text 
 * Reference: Nurce, E., Keci, J., Derczynski, L., 2021. Detecting Abusive Albanian. arXiv:2107.13592
+* Dataset reader: 🤗 [strombergnlp/shaj](https://huggingface.co/datasets/strombergnlp/shaj)
 
 <a id="Arabic-header"></a>
 ### Arabic
@@ -131,6 +132,8 @@ Please send contributions via github pull request. You can do this by visiting t
 * Platform: Twitter 
 * Medium: Text 
 * Reference: Mubarak, H., Darwish, K. and Magdy, W., 2017. Abusive Language Detection on Arabic Social Media. In: Proceedings of the First Workshop on Abusive Language Online. Vancouver, Canada: Association for Computational Linguistics, pp.52-56. 
+* Dataset reader: 🤗 [strombergnlp/offenseval_2020](https://huggingface.co/datasets/strombergnlp/offenseval_2020)
+
  
 #### Abusive Language Detection on Arabic Social Media (Al Jazeera)
 * Link to publication: [https://www.aclweb.org/anthology/W17-3008](https://www.aclweb.org/anthology/W17-3008)
@@ -230,6 +233,7 @@ Please send contributions via github pull request. You can do this by visiting t
 * Platform: Twitter, Reddit, newspaper comments 
 * Medium: Text 
 * Reference: Sigurbergsson, G. and Derczynski, L., 2019. Offensive Language and Hate Speech Detection for Danish. ArXiv. 
+* Dataset reader: 🤗 [DDSC/dkhate](https://huggingface.co/datasets/DDSC/dkhate)
 
 #### BAJER: Misogyny in Danish
 * Link to publication: [https://aclanthology.org/2021.acl-long.247/](https://aclanthology.org/2021.acl-long.247/)
@@ -243,6 +247,7 @@ Please send contributions via github pull request. You can do this by visiting t
 * Platform: Twitter, Facebook, Reddit
 * Medium: text
 * Reference: Zeinert, Inie, & Derczynski, 2021. "Annotating Online Misogyny". Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing, ACL
+* Dataset reader: 🤗 [strombergnlp/bajer_danish_misogyny](https://huggingface.co/datasets/strombergnlp/bajer_danish_misogyny)
 
 <a id="Dutch-header"></a>
 ### Dutch
@@ -1117,6 +1122,7 @@ https://www.aclweb.org/anthology/D17-1117)
 * Platform: Twitter 
 * Medium: Text 
 * Reference: Pitenis, Z., Zampieri, M. and Ranasinghe, T., 2020. Offensive Language Identification in Greek. ArXiv. 
+* Dataset reader: 🤗 [strombergnlp/offenseval_2020](https://huggingface.co/datasets/strombergnlp/offenseval_2020)
 
 <a id="Hindi-header"></a>
 ### Hindi / Hindi-English
@@ -1522,6 +1528,8 @@ https://www.aclweb.org/anthology/D17-1117)
 * Platform: Twitter 
 * Medium: Text 
 * Reference: Çöltekin, C., 2020. A Corpus of Turkish Offensive Language on Social Media. In: Proceedings of the 12th International Conference on Language Resources and Evaluation. 
+* Dataset reader: 🤗 [strombergnlp/offenseval_2020](https://huggingface.co/datasets/strombergnlp/offenseval_2020)
+
 
 <a id="Ukranian-header"></a>
 ### Ukranian
