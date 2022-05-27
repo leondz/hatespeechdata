@@ -1418,6 +1418,19 @@ https://www.aclweb.org/anthology/D17-1117)
 
 <a id="Russian-header"></a>
 ### Russian
+#### Automatic Toxic Comment Detection in Social Media for Russian
+* Link to publication: [https://github.com/alla-g/toxicity-detection-thesis/blob/main/toxicity_corpus/DATASTATEMENT.md](https://github.com/alla-g/toxicity-detection-thesis/blob/main/toxicity_corpus/DATASTATEMENT.md)
+* Link to data: [https://github.com/alla-g/toxicity-detection-thesis/blob/main/toxicity_corpus/russian_distorted_toxicity.tsv](https://github.com/alla-g/toxicity-detection-thesis/blob/main/toxicity_corpus/russian_distorted_toxicity.tsv)
+* Task description: Toxicity - binary (1 == toxic, 0 == not toxic), Distortion - binary (1 == has distortion, 0 == does not have distortion),
+* Details of task: 1) multitask Russian toxicity detection with distortion detection as an auxiliary task; 2) testing toxicity classifiers on parallel distorted and manually corrected data
+* Size of dataset: 3000 texts: 561 toxic, 2439 not toxic; 126 distorted, 2874 not distorted.
+* Percentage abusive: 18.7%
+* Language: Russian
+* Level of annotation: comment
+* Platform: VKontakte
+* Medium: text
+* Reference: Gorbunova, A. (2022). Automatic Toxic Comment Detection in Social Media for Russian \[Unpublished bachelor's thesis]. National Research University Higher School of Economics.
+
 #### Reducing Unintended Identity Bias in Russian Hate Speech Detection
 * Link to publication: [https://aclanthology.org/2020.alw-1.8.pdf](https://aclanthology.org/2020.alw-1.8.pdf)
 * Link to data: License Required (Last checked 17/01/2022)
