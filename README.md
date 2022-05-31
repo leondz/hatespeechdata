@@ -1161,7 +1161,7 @@ https://www.aclweb.org/anthology/D17-1117)
 * Percentage abusive: 0.27 
 * Language: Hindi-English 
 * Level of annotation: Posts 
-* Platform: Twitter 
+* Platform: Facebook 
 * Medium: Text 
 * Reference: Kumar, R., Reganti, A., Bhatia, A. and Maheshwari, T., 2018. Aggression-annotated Corpus of Hindi-English Code-mixed Data. ArXiv,. 
    
