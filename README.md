@@ -1027,6 +1027,18 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Medium: Text 
 * Reference: Ousidhoum, N., Lin, Z., Zhang, H., Song, Y. and Yeung, D., 2019. Multilingual and Multi-Aspect Hate Speech Analysis. ArXiv,. 
 
+#### CyberAgressionAdo-v1
+* Link to publication: ([url](https://hal.science/hal-03765860)) - link to the documentation and/or a data statement about the data
+* Link to data: ([url](https://github.com/aollagnier/CyberAgressionAdo-v1)) - direct download is preferred, e.g. a link straight to a .zip file
+* Task description:  The collected conversations have been annotated using a considering several layers, as the participant roles, the presence of hate speech, the type of verbal abuse present in the message, and whether utterances use different humour figurative devices (e.g., sarcasm or irony).
+* Details of task: This dataset allows to perform several subtasks related to the task of online hate detection in a conversational setting (hate speech detection, bullying participant role detection, verbal abuse detection, etc.)
+* Size of dataset: 19 conversations
+* Language: French
+* Level of annotation: exchanged messages 
+* Platform: collected from role playing games mimicking cyberagression situations occuring on private instant messaging platforms.
+* Medium: text (csv)
+* Reference: Anaïs Ollagnier, Elena Cabrio, Serena Villata, Catherine Blaya. CyberAgressionAdo-v1: a Dataset of Annotated Online Aggressions in French Collected through a Role-playing Game. Language Resources and Evaluation Conference, Jun 2022, Marseille, France. ⟨hal-03765860⟩
+
 <a id="German-header"></a>
 ### German
 #### RP-Mod & RP-Crowd: Moderator- and Crowd-Annotated German News Comment Datasets
