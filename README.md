@@ -193,6 +193,20 @@ Please send contributions via github pull request. You can do this by visiting t
 
 <a id="Croatian-header"></a>
 ### Croatian
+
+#### CoRAL: a Context-aware Croatian Abusive Language Dataset
+* Link to publication: [https://aclanthology.org/2022.findings-aacl.21/](https://aclanthology.org/2022.findings-aacl.21/)
+* Link to data: [https://github.com/shekharRavi/CoRAL-dataset-Findings-of-the-ACL-AACL-IJCNLP-2022](https://github.com/shekharRavi/CoRAL-dataset-Findings-of-the-ACL-AACL-IJCNLP-2022)
+* Task description: Multi-class based on context dependency categories (CDC) 
+* Details of task: Detectioning CDC from abusive comments 
+* Size of dataset: 2,240 
+* Percentage abusive: 100% 
+* Language: Croatian 
+* Level of annotation: Posts 
+* Platform: Newspaper comments  
+* Medium: Text 
+* Reference: Ravi Shekhar, Mladen Karan and Matthew Purver (2022). CoRAL: a Context-aware Croatian Abusive Language Dataset. Findings of the ACL: AACL-IJCNLP. 
+
 #### Datasets of Slovene and Croatian Moderated News Comments
 * Link to publication: [https://www.aclweb.org/anthology/W18-5116](https://www.aclweb.org/anthology/W18-5116)
 * Link to data: [http://hdl.handle.net/11356/1202](http://hdl.handle.net/11356/1202)
