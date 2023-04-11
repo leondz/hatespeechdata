@@ -293,6 +293,18 @@ Please send contributions via github pull request. You can do this by visiting t
 
 <a id="English-header"></a>
 ### English
+#### Large-Scale Hate Speech Detection with Cross-Domain Transfer
+* Link to publication: [https://aclanthology.org/2022.lrec-1.238/](https://aclanthology.org/2022.lrec-1.238/)
+* Link to data: [https://github.com/avaapm/hatespeech](https://github.com/avaapm/hatespeech) 
+* Task description: Three-class (Hate speech, Offensive language, None)
+* Details of task: Hate speech detection on social media (Twitter) including 5 target groups (gender, race, religion, politics, sports)
+* Size of dataset: 100k English (27593 hate, 30747 offensive, 41660 none)
+* Percentage abusive: 58.3%
+* Language: English
+* Level of annotation: Posts
+* Platform: Twitter
+* Medium: Text and image
+* Reference: Cagri Toraman, Furkan Şahinuç, Eyup Yilmaz. 2022. Large-Scale Hate Speech Detection with Cross-Domain Transfer. In Proceedings of the Thirteenth Language Resources and Evaluation Conference, pages 2215–2225, Marseille, France. European Language Resources Association.
 
 #### ConvAbuse
 * Link to publication: [https://aclanthology.org/2021.emnlp-main.587/](https://aclanthology.org/2021.emnlp-main.587/)
