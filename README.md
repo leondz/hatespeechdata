@@ -1569,6 +1569,19 @@ https://www.aclweb.org/anthology/D17-1117)
 
 <a id="Turkish-header"></a>
 ### Turkish
+#### Large-Scale Hate Speech Detection with Cross-Domain Transfer
+* Link to publication: [https://aclanthology.org/2022.lrec-1.238/](https://aclanthology.org/2022.lrec-1.238/)
+* Link to data: [https://github.com/avaapm/hatespeech](https://github.com/avaapm/hatespeech) 
+* Task description: Three-class (Hate speech, Offensive language, None)
+* Details of task: Hate speech detection on social media (Twitter) including 5 target groups (gender, race, religion, politics, sports)
+* Size of dataset: 100k (7325 hate, 27140 offensive, 65535 none)
+* Percentage abusive: 34.5%
+* Language: Turkish
+* Level of annotation: Posts
+* Platform: Twitter
+* Medium: Text and image
+* Reference: Cagri Toraman, Furkan Şahinuç, Eyup Yilmaz. 2022. Large-Scale Hate Speech Detection with Cross-Domain Transfer. In Proceedings of the Thirteenth Language Resources and Evaluation Conference, pages 2215–2225, Marseille, France. European Language Resources Association.
+
 #### A Corpus of Turkish Offensive Language on Social Media
 * Link to publication: [https://coltekin.github.io/offensive-turkish/troff.pdf](https://coltekin.github.io/offensive-turkish/troff.pdf)
 * Link to data: [https://sites.google.com/site/offensevalsharedtask/home](https://sites.google.com/site/offensevalsharedtask/home) 
