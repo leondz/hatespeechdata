@@ -81,6 +81,19 @@ Please send contributions via github pull request. You can do this by visiting t
 
 <a id="Arabic-header"></a>
 ### Arabic
+#### Let-Mi: An Arabic Levantine Twitter Dataset for Misogynistic Language
+* Link to publication: [https://arxiv.org/abs/2103.10195](https://arxiv.org/abs/2103.10195) 
+* Link to data: [https://drive.google.com/file/d/1mM2vnjsy7QfUmdVUpKqHRJjZyQobhTrW/view](https://drive.google.com/file/d/1mM2vnjsy7QfUmdVUpKqHRJjZyQobhTrW/view)
+* Task description: Binary (misogyny/none) and Multi-class (none, discredit, derailing, dominance, stereotyping & objectiﬁcation, threat of violence, sexual harassment, damning)
+* Details of task: Introducing an Arabic Levantine Twitter dataset for Misogynistic language
+* Size of dataset: 6,603 direct tweet replies
+* Percentage abusive: 48.76%
+* Language: Arabic
+* Level of annotation: Posts
+* Platform: Twitter
+* Medium: Text
+* Reference: Hala Mulki and Bilal Ghanem. 2021. Let-Mi: An Arabic Levantine Twitter Dataset for Misogynistic Language. In Proceedings of the Sixth Arabic Natural Language Processing Workshop, pages 154–163, Kyiv, Ukraine (Virtual). Association for Computational Linguistics
+
 #### Are They our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere
 * Link to publication: [https://ieeexplore.ieee.org/document/8508247](https://ieeexplore.ieee.org/document/8508247)
 * Link to data: [https://github.com/nuhaalbadi/Arabic_hatespeech](https://github.com/nuhaalbadi/Arabic_hatespeech)
