@@ -966,6 +966,19 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Medium: Text
 * Reference: Ali Toosi, Jan 2019. Twitter Sentiment Analysis
 
+#### Toxicity Detection in Software Engineering: Automated Identification of Toxic Code Reviews Using ToxiCR
+* Link to publication: [https://dl.acm.org/doi/abs/10.1145/3583562](https://dl.acm.org/doi/abs/10.1145/3583562)
+* Link to data: [https://github.com/WSU-SEAL/ToxiCR](https://github.com/WSU-SEAL/ToxiCR)
+* Task description: Binary (Toxic, Non-toxic)
+* Details of task: Toxicity, Context
+* Size of dataset: 19,671
+* Percentage of toxic: 19
+* Language: English
+* Level of annotation: Code Review Comments
+* Platform: Open Source Software
+* Medium: Text
+* Reference: Sarker, Jaydeb, Asif Kamal Turzo, Ming Dong, and Amiangshu Bosu. "Automated Identification of Toxic Code Reviews Using ToxiCR." ACM Transactions on Software Engineering and Methodology (2023).
+
 #### Toxicity Detection: Does Context Really Matter? CAT-LARGE (No Context)
 * Link to publication: [https://arxiv.org/pdf/2006.00998.pdf](https://arxiv.org/pdf/2006.00998.pdf)
 * Link to data: [https://github.com/ipavlopoulos/context_toxicity](https://github.com/ipavlopoulos/context_toxicity)
