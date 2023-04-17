@@ -1082,7 +1082,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 #### CyberAgressionAdo-v1
 * Link to publication: ([url](https://hal.science/hal-03765860)) - link to the documentation and/or a data statement about the data
 * Link to data: ([url](https://github.com/aollagnier/CyberAgressionAdo-v1)) - direct download is preferred, e.g. a link straight to a .zip file
-* Task description:  The collected conversations have been annotated using a considering several layers, as the participant roles, the presence of hate speech, the type of verbal abuse present in the message, and whether utterances use different humour figurative devices (e.g., sarcasm or irony).
+* Task description:  The collected conversations have been annotated using a fine-grained tagset including information related to the participant roles, the presence of hate speech, the type of verbal abuse present in the message, and whether utterances use different humour figurative devices (e.g., sarcasm or irony).
 * Details of task: This dataset allows to perform several subtasks related to the task of online hate detection in a conversational setting (hate speech detection, bullying participant role detection, verbal abuse detection, etc.)
 * Size of dataset: 19 conversations
 * Language: French
