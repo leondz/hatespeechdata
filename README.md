@@ -1093,6 +1093,19 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 
 <a id="German-header"></a>
 ### German
+#### DeTox: A Comprehensive Dataset for German Offensive Language and Conversation Analysis
+* Link to publication: [https://aclanthology.org/2022.woah-1.14.pdf](https://aclanthology.org/2022.woah-1.14.pdf)
+* Link to data: [https://github.com/hdaSprachtechnologie/detox](https://github.com/hdaSprachtechnologie/detox)
+* Task description: Comprehensive annotation schema (including sentiment, hate speech, type of discrimination, criminal relevance, expression, toxicity, extremism, target, threat)
+* Details of task: About half of the comments are from coherent comment threads which allows simple conversation analyses. Every comment was annotated by three annotators.
+* Size of dataset: 10,278
+* Percentage abusive: 10.85%
+* Language: German
+* Level of annotation: Comments
+* Platform: Twitter
+* Medium: Text
+* Reference: Demus, C., Pitz, P., Schütz, M., Probol, N., Siegel, M., and Labudde, L. 2022. DeTox: A Comprehensive Dataset for German Offensive Language and Conversation Analysis. In Proceedings of the Sixth Workshop on Online Abuse and Harms (WOAH), pages 143–153, Seattle, Washington (Hybrid). Association for Computational Linguistics.
+
 #### RP-Mod & RP-Crowd: Moderator- and Crowd-Annotated German News Comment Datasets
 * Link to publication: [https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/c9e1074f5b3f9fc8ea15d152add07294-Paper-round2.pdf](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/c9e1074f5b3f9fc8ea15d152add07294-Paper-round2.pdf)
 * Link to data: [https://zenodo.org/record/5291339#.Ybr_9VkxkUE](https://zenodo.org/record/5291339#.Ybr_9VkxkUE)
