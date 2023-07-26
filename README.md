@@ -293,6 +293,19 @@ Please send contributions via github pull request. You can do this by visiting t
 
 <a id="English-header"></a>
 ### English
+#### Pinpointing Fine-Grained Relationships between Hateful Tweets and Replies
+* Link to publication: [https://ojs.aaai.org/index.php/AAAI/article/view/21284](https://ojs.aaai.org/index.php/AAAI/article/view/21284)
+* Link to data: [https://github.com/albanyan/hateful-tweets-replies](https://github.com/albanyan/hateful-tweets-replies)
+* Task description: Four binary classification tasks (1) Binary (Counterhate, Not), (2) Binary (Counterhate_with_Justification, Not), (3) Binary (Attack_Author, Not), and (4) Binary (Additional_Hate, Not)
+* Details of task: Indicate whether the reply to a hateful tweet (a) is counter hate speech, (b) provides a justification, (c) attacks the author of the tweet, and (d) adds additional hate
+* Size of dataset: 5652 hateful tweets and replies
+* Percentage abusive: 100% (All main tweets are hateful tweets)
+* Language: English
+* Level of annotation: Tweets
+* Platform: Twitter
+* Medium: Text
+* Reference: Abdullah Albanyan and Eduardo Blanco. 2022. Pinpointing Fine-Grained Relationships Between Hateful Tweets and Replies. Proceedings of the AAAI Conference on Artificial Intelligence 36 (10):10418-26.
+  
 #### Large-Scale Hate Speech Detection with Cross-Domain Transfer
 * Link to publication: [https://aclanthology.org/2022.lrec-1.238/](https://aclanthology.org/2022.lrec-1.238/)
 * Link to data: [https://github.com/avaapm/hatespeech](https://github.com/avaapm/hatespeech) 
