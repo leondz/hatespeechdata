@@ -465,6 +465,21 @@ intellectual
 * Medium: Text 
 * Reference: Pavlopoulos, J., Sorensen, J., Laugier, L., & Androutsopoulos, I. (2021, August). Semeval-2021 task 5: Toxic spans detection. In Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021) (pp. 59-69).
 
+
+#### ToxiSpanSE: An Explainable Toxicity Detection in Code Review Comments
+* Link to publication: https://arxiv.org/abs/2307.03386
+* Link to data and tool: (https://github.com/WSU-SEAL/ToxiSpanSE)
+* Task description: Binary toxic spans (Toxic, Non-toxic)
+* Details of task: Toxicity, Context
+* Size of dataset: 19,651
+* Percentage of toxic in span level: 13.85
+* Language: English
+* Level of annotation: Code Review Comments
+* Platform: Open Source Software
+* Medium: Text
+* Reference: Sarker, Jaydeb, Sultana, Sayma, Wilson, Steven R., and Amiangshu Bosu. "ToxiSpanSE: An Explainable Toxicity Detection in Code Review Comments" The 17th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), 2023.
+
+
 #### Human-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech
 * Link to publication: [https://aclanthology.org/2021.acl-long.250.pdf](https://aclanthology.org/2021.acl-long.250.pdf)
 * Link to data: [https://github.com/marcoguerini/CONAN](https://github.com/marcoguerini/CONAN)
@@ -984,7 +999,7 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Link to data: [https://github.com/WSU-SEAL/ToxiCR](https://github.com/WSU-SEAL/ToxiCR)
 * Task description: Binary (Toxic, Non-toxic)
 * Details of task: Toxicity, Context
-* Size of dataset: 19,671
+* Size of dataset: 19,651
 * Percentage of toxic: 19
 * Language: English
 * Level of annotation: Code Review Comments
