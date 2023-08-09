@@ -293,12 +293,25 @@ Please send contributions via github pull request. You can do this by visiting t
 
 <a id="English-header"></a>
 ### English
+#### Not All Counterhate Tweets Elicit the Same Replies: A Fine-Grained Analysis
+* Link to publication: [https://aclanthology.org/2023.starsem-1.8/](https://aclanthology.org/2023.starsem-1.8/)
+* Link to data: [https://github.com/albanyan/counterhate_reply](https://github.com/albanyan/counterhate_reply)
+* Task description: Four binary classification tasks to investigate replies to counterhate tweets (1) Binary (Agree, Not), (2) Binary (Support_Hateful-tweet, Not), (3) Binary (Attack_Author, Not), and (4) Binary (Additional_Counterhate, Not)
+* Details of task: Three levels of tweets are considered: a hateful tweet, a counterhate tweet (a reply to a hateful tweet), and all replies to the counterhate tweet. Indicate whether the reply to a counterhate tweet (a) agrees with the counterhate tweet, (b) supports the hateful tweet, (c) attacks the author of the counterhate tweet, and (d) adds additional counterhate
+* Size of dataset: 2,621 (hateful tweet, counterhate tweet, reply) triples
+* Percentage abusive: 100% (All main tweets are hateful tweets)
+* Language: English
+* Level of annotation: Tweets
+* Platform: Twitter
+* Medium: Text
+* Reference: Abdullah Albanyan, Ahmed Hassan, and Eduardo Blanco. 2023. Not All Counterhate Tweets Elicit the Same Replies: A Fine-Grained Analysis. In Proceedings of the 12th Joint Conference on Lexical and Computational Semantics (*SEM 2023), pages 71–88, Toronto, Canada. Association for Computational Linguistics.
+  
 #### Pinpointing Fine-Grained Relationships between Hateful Tweets and Replies
 * Link to publication: [https://ojs.aaai.org/index.php/AAAI/article/view/21284](https://ojs.aaai.org/index.php/AAAI/article/view/21284)
 * Link to data: [https://github.com/albanyan/hateful-tweets-replies](https://github.com/albanyan/hateful-tweets-replies)
 * Task description: Four binary classification tasks (1) Binary (Counterhate, Not), (2) Binary (Counterhate_with_Justification, Not), (3) Binary (Attack_Author, Not), and (4) Binary (Additional_Hate, Not)
 * Details of task: Indicate whether the reply to a hateful tweet (a) is counter hate speech, (b) provides a justification, (c) attacks the author of the tweet, and (d) adds additional hate
-* Size of dataset: 5652 hateful tweets and replies
+* Size of dataset: 5,652 hateful tweets and replies
 * Percentage abusive: 100% (All main tweets are hateful tweets)
 * Language: English
 * Level of annotation: Tweets
