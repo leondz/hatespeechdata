@@ -1534,6 +1534,18 @@ https://www.aclweb.org/anthology/D17-1117)
 * Medium: Text 
 * Reference: de Pelle, R. and Moreira, V., 2017. Offensive Comments in the Brazilian Web: A Dataset and Baseline Results. In: VI Brazilian Workshop on Social Network Analysis and Mining. SBC. 
 
+* Link to publication: [https://link.springer.com/article/10.1007/s10579-023-09657-0](https://link.springer.com/article/10.1007/s10579-023-09657-0)
+* Link to data: [https://huggingface.co/datasets/dougtrajano/olid-br](https://huggingface.co/datasets/dougtrajano/olid-br)
+* Task description: Binary (Offensive, Not), Multi-label (11 labels), Targeted or Not, Target Type (individual, group, other), Offensive Spans Identification
+* Details of task: Religion/creed, Race/ethnicity, Physical/disability, Gender/sexual orientation, Profanity/obscene.
+* Size of dataset: 7,943
+* Percentage abusive: 0.85
+* Language: Portuguese 
+* Level of annotation: Posts 
+* Platform: Twitter, YouTube, and other Portuguese Datasets
+* Medium: Text
+* Reference: Trajano, D., Bordini, R.H. & Vieira, R. OLID-BR: offensive language identification dataset for Brazilian Portuguese. Lang Resources & Evaluation (2023).
+
 <a id="Russian-header"></a>
 ### Russian
 #### Automatic Toxic Comment Detection in Social Media for Russian
