@@ -318,6 +318,27 @@ Please send contributions via github pull request. You can do this by visiting t
 * Platform: Twitter
 * Medium: Text and image
 * Reference: Cagri Toraman, Furkan Şahinuç, Eyup Yilmaz. 2022. Large-Scale Hate Speech Detection with Cross-Domain Transfer. In Proceedings of the Thirteenth Language Resources and Evaluation Conference, pages 2215–2225, Marseille, France. European Language Resources Association.
+* 
+  #### Online-Abusive-Attacks-OAA-Dataset
+* Link to publication: [https://ieeexplore.ieee.org/abstract/document/10160004](https://ieeexplore.ieee.org/abstract/document/10160004)
+* Link to data: [https://github.com/RaneemAlharthi/Online-Abusive-Attacks-OAA-Dataset](https://github.com/RaneemAlharthi/Online-Abusive-Attacks-OAA-Dataset)
+* Task description: "Binary (abusive, Notabusive)", "Hierarchical", "six-class (toxicity, severe toxicity, identity attack,insult, profanity, and threat)"
+* Details of task: "the first benchmark dataset providing a holistic view of online
+abusive attacks, including social media profile data and metadata for both targets and perpetrators, in addition
+to context. The dataset contains 2.3K Twitter accounts, 5M tweets, and 106.9K categorised conversations."
+* Size of dataset: 2.3K Twitter accounts, 5M tweets, and 106.9K categorised conversations.
+* Percentage abusive:  online abusive attacks motivated
+by the targets’ identities (97%), and motivated
+by the targets’ behavioural attacks (3%).
+* Language: e.g. English
+* Level of annotation: What is an "instance", in this dataset? e.g.  Conversation 
+* Platform: e.g. twitter
+* Medium: text /metadata
+* Reference: @article{alharthi2023target,
+title={Target-Oriented Investigation of Online Abusive Attacks: A Dataset and Analysis},
+author={Alharthi, Raneem and Alharthi, Rajwa and Shekhar, Ravi and Zubiaga, Arkaitz},
+journal={IEEE Access}, year={2023}, publisher={IEEE}
+}
 
 #### ConvAbuse
 * Link to publication: [https://aclanthology.org/2021.emnlp-main.587/](https://aclanthology.org/2021.emnlp-main.587/)
