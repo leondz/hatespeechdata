@@ -320,8 +320,8 @@ Please send contributions via github pull request. You can do this by visiting t
 * Reference: Cagri Toraman, Furkan Şahinuç, Eyup Yilmaz. 2022. Large-Scale Hate Speech Detection with Cross-Domain Transfer. In Proceedings of the Thirteenth Language Resources and Evaluation Conference, pages 2215–2225, Marseille, France. European Language Resources Association.
 * 
   #### Online-Abusive-Attacks-OAA-Dataset
-* Link to publication: [url]([url](https://ieeexplore.ieee.org/abstract/document/10160004)- 
-* Link to data: [[url](https://github.com/RaneemAlharthi/Online-Abusive-Attacks-OAA-Dataset)](url) -
+* Link to publication: [https://ieeexplore.ieee.org/abstract/document/10160004](https://ieeexplore.ieee.org/abstract/document/10160004)
+* Link to data: [https://github.com/RaneemAlharthi/Online-Abusive-Attacks-OAA-Dataset](https://github.com/RaneemAlharthi/Online-Abusive-Attacks-OAA-Dataset)
 * Task description: "Binary (abusive, Notabusive)", "Hierarchical", "six-class (toxicity, severe toxicity, identity attack,insult, profanity, and threat)"
 * Details of task: "the first benchmark dataset providing a holistic view of online
 abusive attacks, including social media profile data and metadata for both targets and perpetrators, in addition
