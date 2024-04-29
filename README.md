@@ -1233,6 +1233,19 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 * Medium: Text 
 * Reference: Mandl, T., Modha, S., Majumder, P., Patel, D., Dave, M., Mandlia, C. and Patel, A., 2019. Overview of the HASOC track at FIRE 2019. In: Proceedings of the 11th Forum for Information Retrieval Evaluation,. 
 
+#### GAHD: A German Adversarial Hate Speech Dataset
+* Link to publication: [https://arxiv.org/abs/2403.19559](https://arxiv.org/abs/2403.19559)
+* Link to data: [https://github.com/jagol/gahd](https://github.com/jagol/gahd)
+* Task description: Binary hate speech detection ("hate speech", "not-hate speech")
+* Details of task: Consists of adversarial and contrastive examples
+* Size of dataset: 10,996 texts
+* Percentage abusive: 42.4%
+* Language: German
+* Level of annotation: Post/Sentence
+* Platform: Synthetic data and news sentences
+* Medium: Text
+* Reference: Goldzycher, J., Röttger, P., and Schneider, G., 2024. Improving Adversarial Data Collection by Supporting Annotators: Lessons from GAHD, a German Hate Speech Dataset. To appear in the Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL 2024), Mexico, Mexico City, June 17–19.
+
 <a id="Greek-header"></a>
 ### Greek
 #### Deep Learning for User Comment Moderation, Flagged Comments
