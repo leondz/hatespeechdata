@@ -204,6 +204,20 @@ Please send contributions via github pull request. You can do this by visiting t
 * Medium: Text
 * Reference: Aiqi Jiang, Xiaohan Yang, Yang Liu, Arkaitz Zubiaga, SWSR: A Chinese dataset and lexicon for online sexism detection, Online Social Networks and Media, Volume 27, 2022, 100182, ISSN 2468-6964.
 
+#### Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmark
+* Link to publication: [https://aclanthology.org/2023.acl-long.898/](https://aclanthology.org/2023.acl-long.898/)
+* Link to data: [https://github.com/DUT-lujunyu/ToxiCN](https://github.com/DUT-lujunyu/ToxiCN)
+* Task description: Four classification tasks (1) Binary (Toxic, Not Toxic), (2) Toxic Type (general offensive language or hate speech), (3) Targeted Group, (4) Expression Category (explicitness, implicitness, or reporting).
+* Details of task: Indicate (a) whether the post contains toxic language, (b) whether it is hate speech or general offensive, (c) its targeted group (i.e., gender, region, race, LGBTQ), and (d) expression type (i.e., explicit, implicit, and reporting).
+* Size of dataset: 12,011 posts
+* Percentage abusive: 23.8%
+* Language: Chinese
+* Level of annotation: Posts
+* Platform: Baidu Tieba and Zhihu
+* Medium: Text
+* Reference: Junyu Lu, Bo Xu, Xiaokun Zhang, Changrong Min, Liang Yang, and Hongfei Lin. 2023. Facilitating Fine-grained Detection of Chinese Toxic Language: Hierarchical Taxonomy, Resources, and Benchmarks. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 16235–16250, Toronto, Canada. Association for Computational Linguistics.
+
+
 <a id="Croatian-header"></a>
 ### Croatian
 
