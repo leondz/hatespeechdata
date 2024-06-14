@@ -1155,6 +1155,19 @@ nt-dates/data/](https://amiibereval2018.wordpress.com/important-dates/data/)
 
 <a id="German-header"></a>
 ### German
+#### GMHP7k: A Corpus of German Misogynistic Hatespeech Posts
+* Link to publication: [https://doi.org/10.1609/icwsm.v18i1.31438](https://doi.org/10.1609/icwsm.v18i1.31438)
+* Link to data: [https://doi.org/10.5281/zenodo.10513452](https://doi.org/10.5281/zenodo.10513452)
+* Task description: Binary (Hate or Not), within Hate: Binary (Misogyny or Not)
+* Details of task: Hate and misogyny detection on social media in German
+* Size of dataset: 7,061
+* Percentage abusive: 22.29%
+* Language: German
+* Level of annotation: Posts
+* Platform: Twitter, Facebook
+* Medium: Text
+* Reference: Glasebach, J., Keller, M.-E., Döschl, A., and Mandl, P., 2024. GMHP7k: A Corpus of German Misogynistic Hatespeech Posts. In: Proceedings of the Eighteenth International AAAI Conference on Web and Social Media (ICWSM 2024), pages 1946-1957, Buffalo, NY, USA
+
 #### DeTox: A Comprehensive Dataset for German Offensive Language and Conversation Analysis
 * Link to publication: [https://aclanthology.org/2022.woah-1.14.pdf](https://aclanthology.org/2022.woah-1.14.pdf)
 * Link to data: [https://github.com/hdaSprachtechnologie/detox](https://github.com/hdaSprachtechnologie/detox)
