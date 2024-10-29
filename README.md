@@ -1703,7 +1703,20 @@ https://www.aclweb.org/anthology/D17-1117)
 * Level of annotation: Posts 
 * Platform: Twitter 
 * Medium: Text 
-* Reference: Basile, V., Bosco, C., Fersini, E., Nozza, D., Patti, V., Pardo, F., Rosso, P. and Sanguinetti, M., 2019. SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter. In: Proceedings of the 13th International Workshop on Semantic Evaluation. Minneapolis, Minnesota: Association for Computational Linguistics, pp.54-63. 
+* Reference: Basile, V., Bosco, C., Fersini, E., Nozza, D., Patti, V., Pardo, F., Rosso, P. and Sanguinetti, M., 2019. SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter. In: Proceedings of the 13th International Workshop on Semantic Evaluation. Minneapolis, Minnesota: Association for Computational Linguistics, pp.54-63.
+
+#### Hate expressions used in social media against afro-colombian and indigenous peoples in Colombia (Spanish)
+* Link to publication: [https://docs.google.com/document/d/1eNh05Kia3bJUDv3NPK-gBrG2RJUwoTwiNjF2ItBbwus/edit?usp=sharing](https://docs.google.com/document/d/1eNh05Kia3bJUDv3NPK-gBrG2RJUwoTwiNjF2ItBbwus/edit?usp=sharing)
+* Link to data: [https://docs.google.com/spreadsheets/d/1XKRca5qTDEygsaL4iFYtuyQYiCPHTl_q/edit?usp=drive_link&ouid=102538913224725795385&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1XKRca5qTDEygsaL4iFYtuyQYiCPHTl_q/edit?usp=drive_link&ouid=102538913224725795385&rtpof=true&sd=true)
+* Task description: The task is framed as multi-class classification. The dataset captures multiple categories of content, such as hate speech, discriminatory language, offensive language, and non-hateful content, based on specific indicators like stereotyping, incitement to violence, exclusion, and dehumanization.
+* Details of task: This dataset models the task of detecting hate speech, discriminatory narratives, and offensive language on social media platforms in Spanish. The focus is on identifying terms and phrases used in the context of discrimination against indigenous and Afro-Colombian communities, with annotations detailing the type of hate speech, such as stereotypes, dehumanization, or incitement to violence.
+* Size of dataset: 201 indicators and 2.000 words and variations.
+* Percentage abusive: 100%
+* Language: Spanish
+* Level of annotation: The instances in the dataset are words and phrases related to hate speech and offensive language. These are annotated by providing examples and explanations of how they are used on social media, along with platform-specific links.
+* Platform: The data comes from social media platforms such as X (formerly Twitter) and TikTok
+* Medium: Text
+* Reference: Hate expressions used in social media against afro-colombian and indigenous peoples in Colombia/Expresiones de odio utilizadas en redes sociales contra poblaciones afrocolombianas e indígenas en Colombia. Linterna Verde, Colombia, 2024
 
 <a id="Turkish-header"></a>
 ### Turkish
