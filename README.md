@@ -293,6 +293,19 @@ Please send contributions via github pull request. You can do this by visiting t
 
 <a id="English-header"></a>
 ### English
+#### HateAtlas: A Target-Aware Atlas of English Hate-Speech Datasets
+* Link to publication: [https://huggingface.co/datasets/JoshPola96/HateAtlas](https://huggingface.co/datasets/JoshPola96/HateAtlas) - dataset card with every source, how each was read and mapped, the fields and the known limitations (DOI [10.57967/hf/10899](https://doi.org/10.57967/hf/10899))
+* Link to data: [https://github.com/JoshPola96/dissertation-racism-detection-bert-cnn-bilstm/releases/tag/v2.0.0](https://github.com/JoshPola96/dissertation-racism-detection-bert-cnn-bilstm/releases/tag/v2.0.0) - direct Parquet downloads; also on [Hugging Face](https://huggingface.co/datasets/JoshPola96/HateAtlas) and [Kaggle](https://www.kaggle.com/datasets/joshpeter96/hateatlas)
+* Task description: Five-way hate level (hateful, offensive, neither, not hateful, unknown); multi-label target categories (race or ethnicity, religion, national origin, gender, sexual orientation, disability, age, political, other) and target groups; explicitness (explicit, implicit); soft labels pooled over annotators
+* Details of task: Target-aware hate speech detection in English. 18 published datasets read together on one schema, with each source's own label, id and pseudonymous author kept on every row; exact duplicates merged and near-duplicates grouped for leakage-safe splits. Published in three licence-tier configurations (CC BY 4.0, CC BY-SA 4.0, CC BY-NC-SA 4.0)
+* Size of dataset: 836,407 unique texts across the three configurations. The default configuration (CC BY 4.0) holds 703,992: 74,513 hateful, 61,335 offensive, 501,333 neither, 31,119 not hateful, 35,692 unknown
+* Percentage abusive: 10.6% hateful; 19.3% hateful or offensive (default configuration)
+* Language: English
+* Level of annotation: Posts
+* Platform: Twitter, Reddit, Gab, YouTube, Stormfront, Fox News comments, Civil Comments
+* Medium: Text
+* Reference: Polaprayil, J. P. (2026). HateAtlas: A Target-Aware Atlas of English Hate-Speech Datasets [Data set]. Hugging Face. https://doi.org/10.57967/hf/10899
+
 #### Not All Counterhate Tweets Elicit the Same Replies: A Fine-Grained Analysis
 * Link to publication: [https://aclanthology.org/2023.starsem-1.8/](https://aclanthology.org/2023.starsem-1.8/)
 * Link to data: [https://github.com/albanyan/counterhate_reply](https://github.com/albanyan/counterhate_reply)
