@@ -1540,6 +1540,19 @@ https://www.aclweb.org/anthology/D17-1117)
 * Medium: Text
 * Reference: Mahadi, M. H., Safwan, M. N., 2024. Multi-Label Extremism and Jihadism Classification Tweets Dataset. IEEE DataPort. https://doi.org/10.21227/6gmh-1b80
 
+#### Multilabel Extremism Classification Tweets Dataset
+* Link to publication: [https://doi.org/10.21227/rxj1-hm02](https://doi.org/10.21227/rxj1-hm02) - dataset record on IEEE DataPort (no accompanying paper); more info: [archelab.org](https://www.archelab.org/datasets/multilabel-extremism-classification-tweets)
+* Link to data: [https://doi.org/10.21227/rxj1-hm02](https://doi.org/10.21227/rxj1-hm02) - CC BY 4.0 (per the DOI record); files are shared by the authors on request
+* Task description: Multi-label, 6 binary labels (toxic, severe toxic, obscene, threat, insult, identity hate)
+* Details of task: Detection of extremism and toxicity in tweets
+* Size of dataset: Number of items not stated in the DOI record; one CSV file (5.22 MB)
+* Percentage abusive: Not stated
+* Language: Multilingual (languages not listed in the DOI record)
+* Level of annotation: Posts
+* Platform: Twitter
+* Medium: Text
+* Reference: Mahadi, M. H., Safwan, M. N., 2024. Multilabel Extremism Classification Tweets Dataset. IEEE DataPort. https://doi.org/10.21227/rxj1-hm02
+
 <a id="Polish-header"></a>
 ### Polish
 #### Results of the PolEval 2019 Shared Task 6:First Dataset and Open Shared Task for Automatic Cyberbullying Detection in Polish Twitter
