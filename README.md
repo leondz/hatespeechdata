@@ -34,6 +34,7 @@ Please send contributions via github pull request. You can do this by visiting t
 * [Italian](#Italian-header)
 * [Korean](#Korean-header)
 * [Latvian](#Latvian-header)
+* [Multilingual](#Multilingual-header)
 * [Portuguese](#Portuguese-header)
 * [Polish](#Polish-header)
 * [Russian](#Russian-header)
@@ -1523,6 +1524,21 @@ https://www.aclweb.org/anthology/D17-1117)
 * Platform: Synthetic / Whatsapp 
 * Medium: Text 
 * Reference: Sprugnoli, R., Menini, S., Tonelli, S., Oncini, F. and Piras, E., 2018. Creating a WhatsApp Dataset to Study Pre-teen Cyberbullying. In: Proceedings of the 2nd Workshop on Abusive Language Online (ALW2) Month: October. Brussels, Belgium: Association for Computational Linguistics, pp.51-59. 
+
+<a id="Multilingual-header"></a>
+### Multilingual
+#### Multi-Label Extremism and Jihadism Classification Tweets Dataset
+* Link to publication: [https://doi.org/10.21227/6gmh-1b80](https://doi.org/10.21227/6gmh-1b80) - dataset record on IEEE DataPort (no accompanying paper); more info: [archelab.org](https://www.archelab.org/datasets/multi-label-extremism-jihadism-tweets)
+* Link to data: [https://doi.org/10.21227/6gmh-1b80](https://doi.org/10.21227/6gmh-1b80) - CC BY 4.0 (per the DOI record); files are shared by the authors on request
+* Task description: Multi-label, 7 binary labels (toxic, severe toxic, obscene, threat, insult, identity hate, jihadi)
+* Details of task: Detection of extremism, jihadist content and toxicity in tweets
+* Size of dataset: Number of items not stated in the DOI record; one CSV file (394.37 KB)
+* Percentage abusive: Not stated
+* Language: Multilingual (languages not listed in the DOI record)
+* Level of annotation: Posts
+* Platform: Twitter
+* Medium: Text
+* Reference: Mahadi, M. H., Safwan, M. N., 2024. Multi-Label Extremism and Jihadism Classification Tweets Dataset. IEEE DataPort. https://doi.org/10.21227/6gmh-1b80
 
 <a id="Polish-header"></a>
 ### Polish
